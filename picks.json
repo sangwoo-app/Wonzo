@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T03:00:36.763Z",
+  "updated": "2026-08-11T09:00:11.377Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -257,6 +257,27 @@
     },
     {
       "cat": "food",
+      "id": 1975872749,
+      "ko": "팔도 왕뚜껑, 110g, 18개, 1박스",
+      "vi": "팔도 왕뚜껑, 110g, 18개, 1박스",
+      "img": "https://shopping.toss.im/live/taca/ai/OTdhNmM5/SnNmV1M5a3hTdm0zSmwwYk5pM3JBMGFFaWR2eTAxVXI2T1JycGMxTWx0ND0.png",
+      "price": 19400,
+      "orig": 40600,
+      "disc": 52,
+      "url": "https://toss.im/_m/DQMn5KLD",
+      "tr": {
+        "vi": "Paldo Nắp Lớn, 110g, 18 miếng, 1 hộp",
+        "th": "Paldo ฝาใหญ่ 110g 18 ชิ้น 1 กล่อง",
+        "km": "Paldo Big Lid, 110g, 18 ដុំ, 1 ប្រអប់",
+        "ne": "पाल्डो ठूलो ढक्कन, 110 ग्राम, 18 टुक्रा, 1 बक्स",
+        "id": "Paldo Tutup Besar, 110g, 18 buah, 1 kotak",
+        "uz": "Paldo Katta Qopqoq, 110g, 18 dona, 1 quti",
+        "zh": "八度大盖，110g，18个，1盒",
+        "en": "Paldo Big Lid, 110g, 18 pieces, 1 box"
+      }
+    },
+    {
+      "cat": "food",
       "id": 155766341,
       "ko": "푸드앳홈 매콤 짜장면, 230g, 10개",
       "vi": "푸드앳홈 매콤 짜장면, 230g, 10개",
@@ -274,27 +295,6 @@
         "uz": "Oziq-ovqat @ Home Spicy Jjajangmyeon, 230g, 10 dona",
         "zh": "Food @ Home 麻辣炸酱面, 230g, 10枚",
         "en": "Food @ Home Spicy Jjajangmyeon, 230g, 10 pieces"
-      }
-    },
-    {
-      "cat": "food",
-      "id": 2006005799,
-      "ko": "농심 신라면 + 안성탕면 + 짜파게티, 신라면 10개 + 안성탕면 5개 + 짜파게티 5개, 1세트",
-      "vi": "농심 신라면 + 안성탕면 + 짜파게티, 신라면 10개 + 안성탕면 5개 + 짜파게티 5개, 1세트",
-      "img": "https://shopping.toss.im/live/taca/ai/YTM5OTAx/SlRiaG4xS1BTcFdmTHZnU1hKNkhiRzB5RTJ5bThHNkQ2MUdsTStzUm10dz0.png",
-      "price": 16560,
-      "orig": 30000,
-      "disc": 44,
-      "url": "https://toss.im/_m/zfFY3ShC",
-      "tr": {
-        "vi": "Nongshim Shin Ramyun + Anseongtangmyeon + Chapagetti, 10 Shin Ramyun + 5 Anseongtangmyeon + 5 Chapagetti, 1 bộ",
-        "th": "นงชิมชินรามยอน + อันซองทังมยอน + ชาปาเก็ตตี้, 10 ชินรามยอน + อันซองทังมยอน 5 อัน + ชาปาเก็ตตี้ 5 อัน, 1 เซต",
-        "km": "Nongshim Shin Ramyun + Anseongtangmyeon + Chapagetti, 10 Shin Ramyun + 5 Anseongtangmyeon + 5 Chapagetti, 1 set",
-        "ne": "नोङ्शिम शिन राम्युन + आन्सेन्गटाङ्म्योन + चापेजट्टी, १० शिन राम्युन + ५ आन्सेन्गटाङ्म्योन + ५ चापेजट्टी, १ सेट",
-        "id": "Nongshim Shin Ramyun + Anseongtangmyeon + Chapagetti, 10 Shin Ramyun + 5 Anseongtangmyeon + 5 Chapagetti, 1 set",
-        "uz": "Nongshim Shin Ramyun + Anseongtangmyeon + Chapagetti, 10 Shin Ramyun + 5 Anseongtangmyeon + 5 Chapagetti, 1 set",
-        "zh": "农心辛拉面+安城汤面+薄饼，10份辛拉面+5份安城汤面+5份薄煎饼，1套",
-        "en": "Nongshim Shin Ramyun + Anseongtangmyeon + Chapagetti, 10 Shin Ramyun + 5 Anseongtangmyeon + 5 Chapagetti, 1 set"
       }
     },
     {
