@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T03:00:24.416Z",
+  "updated": "2026-08-12T09:00:04.699Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -282,9 +282,9 @@
       "ko": "팔도 왕뚜껑, 110g, 18개, 1박스",
       "vi": "팔도 왕뚜껑, 110g, 18개, 1박스",
       "img": "https://shopping.toss.im/live/taca/ai/OTdhNmM5/SnNmV1M5a3hTdm0zSmwwYk5pM3JBMGFFaWR2eTAxVXI2T1JycGMxTWx0ND0.png",
-      "price": 19400,
+      "price": 19800,
       "orig": 40600,
-      "disc": 52,
+      "disc": 51,
       "url": "https://toss.im/_m/DQMn5KLD",
       "tr": {
         "vi": "Paldo Nắp Lớn, 110g, 18 miếng, 1 hộp",
@@ -320,23 +320,23 @@
     },
     {
       "cat": "food",
-      "id": 2159216247,
-      "ko": "더 미식 밥알이 살아있는 백미밥, 200g, 24개",
-      "vi": "더 미식 밥알이 살아있는 백미밥, 200g, 24개",
-      "img": "https://shopping.toss.im/live/taca/ai/MjMyMDQ3/UEZ2UG1mVzhubWJENUhqc1B0R1RsOThPem5ud2ZuSEdsT0dNN0V1UmN4cz0.png",
-      "price": 28700,
-      "orig": 100000,
-      "disc": 71,
-      "url": "https://toss.im/_m/5a31PmDn",
+      "id": 1981136081,
+      "ko": "외갓집 남도식 들녘 추어탕, 450g, 5팩",
+      "vi": "외갓집 남도식 들녘 추어탕, 450g, 5팩",
+      "img": "https://shopping.toss.im/live/taca/ai/MmJiNjhj/ZmdEMnNQeEI4TjkySGVNOS9Menl6dFQweHJSRDVPT0V2L1BHeE5SUHp5dz0.png",
+      "price": 16990,
+      "orig": 55000,
+      "disc": 69,
+      "url": "https://toss.im/_m/rHX90p42",
       "tr": {
-        "vi": "Gạo Trắng Gourmet, 200g, 24 miếng",
-        "th": "ข้าวขาวกูร์เมต์ 200กรัม 24 ชิ้น",
-        "km": "The Gourmet White Rice, 200 ក្រាម, 24 ដុំ",
-        "ne": "गउरमेट सेतो चावल, 200 ग्राम, 24 टुक्रा",
-        "id": "Nasi Putih Gourmet, 200g, 24 buah",
-        "uz": "Gurme oq guruch, 200 g, 24 dona",
-        "zh": "极品白米饭，200g，24粒",
-        "en": "The Gourmet White Rice, 200g, 24 pieces"
+        "vi": "Cá chạch hầm kiểu Oegatjip Namdo, 450g, 5 gói",
+        "th": "สตูว์ปลา Loach สไตล์เอกัทจิบนัมโด 450ก. 5 แพ็ค",
+        "km": "Oegatjip Namdo-style loach stew, 450g, 5 កញ្ចប់",
+        "ne": "Oegatjip Namdo-शैली लोच स्टू, 450 ग्राम, 5 प्याक",
+        "id": "Rebusan loach ala Oegatjip Namdo, 450g, 5 bungkus",
+        "uz": "Oegatjip Namdo uslubida pishirilgan pishiriq, 450g, 5 paket",
+        "zh": "Oegatjip Namdo 泥鳅炖菜，450g，5 包",
+        "en": "Oegatjip Namdo-style loach stew, 450g, 5 packs"
       }
     },
     {
