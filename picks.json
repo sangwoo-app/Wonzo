@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T03:00:18.906Z",
+  "updated": "2026-08-14T09:00:10.996Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -131,6 +131,27 @@
     },
     {
       "cat": "work",
+      "id": 2216693411,
+      "ko": "속장갑, 화이트, 10켤레, 1개",
+      "vi": "속장갑, 화이트, 10켤레, 1개",
+      "img": "https://shopping.toss.im/dbb/live/product/540850243/dbbb6425-694f-4767-bb42-32d2cba12381.jpg",
+      "price": 4970,
+      "orig": 23430,
+      "disc": 90,
+      "url": "https://toss.im/_m/FXTPW6an",
+      "tr": {
+        "vi": "Găng tay trong, màu trắng, 10 đôi, 1 chiếc",
+        "th": "ถุงมือชั้นใน สีขาว 10 คู่ 1 ชิ้น",
+        "km": "ស្រោមដៃខាងក្នុងពណ៌ស 10គូ 1ដុំ",
+        "ne": "भित्री पन्जा, सेतो, 10 जोडी, 1 टुक्रा",
+        "id": "Sarung tangan bagian dalam, putih, 10 pasang, 1 buah",
+        "uz": "Ichki qo'lqop, oq, 10 juft, 1 dona",
+        "zh": "内手套，白色，10 双，1 件",
+        "en": "Inner gloves, white, 10 pairs, 1 piece"
+      }
+    },
+    {
+      "cat": "work",
       "id": 11637209,
       "ko": "UNO 멀티포켓 망사 작업조끼 UTV-9100, 베이지, 2XL, 1개",
       "vi": "UNO 멀티포켓 망사 작업조끼 UTV-9100, 베이지, 2XL, 1개",
@@ -148,27 +169,6 @@
         "uz": "UNO ko'p cho'ntakli to'rli ish jileti UTV-9100, bej, 2XL, 1 dona",
         "zh": "UNO 多口袋网状工作背心 UTV-9100，米色，2XL，1 件",
         "en": "UNO multi-pocket mesh work vest UTV-9100, beige, 2XL, 1 piece"
-      }
-    },
-    {
-      "cat": "work",
-      "id": 1798080731,
-      "ko": "세이프티 안경 위에 쓰는 편광 오버글라스 선글라스 스포츠고글, 옐로우, 15.5x16.6x5.5cm, 1개",
-      "vi": "세이프티 안경 위에 쓰는 편광 오버글라스 선글라스 스포츠고글, 옐로우, 15.5x16.6x5.5cm, 1개",
-      "img": "https://shopping.toss.im/live/temp/2026-05-01/0ef9500d-1b75-4255-a1a9-afc429182941.jpeg",
-      "price": 9306,
-      "orig": 22500,
-      "disc": 69,
-      "url": "https://toss.im/_m/FOp25nX1",
-      "tr": {
-        "vi": "Kính râm phân cực Overglass Kính thể thao đeo trên kính an toàn, màu vàng, 15,5x16,6x5,5cm, 1 chiếc",
-        "th": "แว่นกันแดดโพลาไรซ์โพลาไรซ์แว่นตากีฬาสวมทับแว่นตานิรภัย สีเหลือง 15.5x16.6x5.5 ซม. 1 ชิ้น",
-        "km": "វ៉ែនតា​ការពារ​កម្ដៅ​ថ្ងៃ Polarized Overglass ពាក់​លើ​វ៉ែនតា​សុវត្ថិភាព លឿង 15.5x16.6x5.5cm, 1 ដុំ",
-        "ne": "ध्रुवीकृत ओभरग्लास सनग्लास खेलकुद चश्मा सुरक्षा चश्मा, पहेंलो, 15.5x16.6x5.5 सेमी, 1 टुक्रामा लगाइन्छ",
-        "id": "Kacamata olahraga overglass terpolarisasi yang dikenakan di atas kacamata pengaman, kuning, 15.5x16.6x5.5cm, 1 buah",
-        "uz": "Polarizatsiyalangan quyoshdan saqlaydigan ko'zoynaklar himoya ko'zoynagi ustiga taqiladigan sport ko'zoynaklari, sariq, 15,5x16,6x5,5 sm, 1 dona",
-        "zh": "偏光玻璃太阳镜运动护目镜佩戴在安全眼镜上，黄色，15.5x16.6x5.5 厘米，1 件",
-        "en": "Polarized overglass sunglasses sports goggles worn over safety glasses, yellow, 15.5x16.6x5.5cm, 1 piece"
       }
     },
     {
@@ -683,28 +683,6 @@
     },
     {
       "cat": "deal",
-      "id": 141246147,
-      "ko": "제스타 칫솔, 부드러운 미세모, 20개입, 1개",
-      "vi": "제스타 칫솔, 부드러운 미세모, 20개입, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/MmU0OTMy/VlZUdWhlOFU3cW5rVE9RTDlFYTZpelRGaEFXRVRkOTZXWkZSRWRFbDd2ND0.png",
-      "price": 9400,
-      "orig": 29000,
-      "disc": 67,
-      "url": "https://toss.im/_m/PvGnKVyD",
-      "endAt": "2026-08-14T23:59:59+09:00",
-      "tr": {
-        "vi": "Bàn chải đánh răng Jesta, lông mềm mịn, 20 miếng, 1 miếng",
-        "th": "เจสต้า แปรงสีฟัน ขนแปรงนุ่ม 20 ชิ้น 1 ชิ้น",
-        "km": "ច្រាសដុសធ្មេញ Jesta រោមដៃទន់ៗ 20ដុំ 1ដុំ",
-        "ne": "जेस्टा टूथब्रश, नरम फाइन ब्रिस्टल, २० टुक्रा, १ टुक्रा",
-        "id": "Sikat gigi Jesta, bulu halus lembut, 20 buah, 1 buah",
-        "uz": "Jesta tish cho'tkasi, yumshoq nozik tuklar, 20 dona, 1 dona",
-        "zh": "Jesta 牙刷，柔软细刷毛，20 支，1 支",
-        "en": "Jesta toothbrush, soft fine bristles, 20 pieces, 1 piece"
-      }
-    },
-    {
-      "cat": "deal",
       "id": 149101033,
       "ko": "일동후디스 하이뮨 프로틴 밸런스 액티브 밤티라미수 제로, 250ml, 18개",
       "vi": "일동후디스 하이뮨 프로틴 밸런스 액티브 밤티라미수 제로, 250ml, 18개",
@@ -723,6 +701,28 @@
         "uz": "Ildong Foodis Hymune Protein Balance Active Balzam Tiramisu Zero, 250ml, 18 dona",
         "zh": "Ildong Foodis Hymune 蛋白质平衡活性香膏提拉米苏零，250ml，18 件",
         "en": "Ildong Foodis Hymune Protein Balance Active Balm Tiramisu Zero, 250ml, 18 pieces"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 1669856839,
+      "ko": "제스프리 썬 골드키위, 중과, 11과, 1kg, 1팩",
+      "vi": "제스프리 썬 골드키위, 중과, 11과, 1kg, 1팩",
+      "img": "https://shopping.toss.im/live/temp/2026-04-24/e98af57f-712c-4b77-8353-ed42ee1545fb.jpeg",
+      "price": 8400,
+      "orig": 23000,
+      "disc": 63,
+      "url": "https://toss.im/_m/V2JQGF6b",
+      "endAt": "2026-08-14T23:59:59+09:00",
+      "tr": {
+        "vi": "Kiwi Zespri Sun Gold, quả vừa, 11 quả, 1kg, 1 gói",
+        "th": "เซสปรีซันโกลด์กีวี ผลไม้ขนาดกลาง 11 ผล 1กก. 1 แพ็ค",
+        "km": "Zespri Sun Gold Kiwi ផ្លែមធ្យម 11ផ្លែ 1kg 1កញ្ចប់",
+        "ne": "Zespri Sun Gold Kiwi, मध्यम फल, 11 फल, 1 kg, 1 प्याक",
+        "id": "Zespri Sun Gold Kiwi buah sedang, 11 buah, 1kg, 1 bungkus",
+        "uz": "Zespri Sun Gold Kivi, o'rtacha meva, 11 meva, 1 kg, 1 paket",
+        "zh": "Zespri Sun Gold 奇异果，中等水果，11 个水果，1 公斤，1 包",
+        "en": "Zespri Sun Gold Kiwi, medium fruit, 11 fruit, 1kg, 1 pack"
       }
     },
     {
