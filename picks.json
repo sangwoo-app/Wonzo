@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T03:00:19.164Z",
+  "updated": "2026-08-15T09:00:04.662Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -639,6 +639,28 @@
     },
     {
       "cat": "deal",
+      "id": 2367669209,
+      "ko": "옆잠 허리통증 완화 골반 정렬 쿠션, 허니콤 화이트, 약 21 × 17 × 14cm",
+      "vi": "옆잠 허리통증 완화 골반 정렬 쿠션, 허니콤 화이트, 약 21 × 17 × 14cm",
+      "img": "https://shopping.toss.im/live/temp/2026-06-30/a0d6ed83-46e8-4be2-b9bf-2926c19f58c6.jpeg",
+      "price": 7900,
+      "orig": 25800,
+      "disc": 69,
+      "url": "https://toss.im/_m/rMcnSUyx",
+      "endAt": "2026-08-15T23:59:59+09:00",
+      "tr": {
+        "vi": "Đệm giảm đau lưng khi ngủ nghiêng về phía xương chậu, màu trắng tổ ong, khoảng. 21×17×14cm",
+        "th": "เบาะรองนั่งบรรเทาอาการปวดหลัง นอนตะแคง ทรงรังผึ้ง สีขาว ขนาดประมาณ 100 ซม. 21 × 17 × 14ซม",
+        "km": "ខ្នើយ​គេង​ចំហៀង​បំបាត់​ការ​ឈឺ​ខ្នង ខ្នើយ​តម្រឹម​អាងត្រគាក​ពណ៌​ទឹកឃ្មុំ​ប្រហែល។ 21 × 17 × 14 សង់ទីម៉ែត្រ",
+        "ne": "छेउमा सुत्ने ढाड दुखाइ राहत श्रोणि पङ्क्तिबद्ध कुशन, हनीकोम्ब सेतो, लगभग। 21 × 17 × 14 सेमी",
+        "id": "Bantal pelurusan panggul pereda nyeri punggung untuk tidur samping, putih sarang lebah, kira-kira. 21×17×14cm",
+        "uz": "Yon uxlab yotgan orqa og'riq qoldiruvchi tos bo'shlig'ini tekislash yostig'i, ko'plab chuqurchalar oq, taxminan. 21 × 17 × 14 sm",
+        "zh": "侧睡背部疼痛缓解骨盆对齐垫，蜂窝状白色，约。 21×17×14厘米",
+        "en": "Side sleeping back pain relief pelvic alignment cushion, honeycomb white, approx. 21 × 17 × 14cm"
+      }
+    },
+    {
+      "cat": "deal",
       "id": 220199039,
       "ko": "팬택 100W 실리콘 C타입 to C타입 초고속충전 케이블, 화이트, 2m, 1개",
       "vi": "팬택 100W 실리콘 C타입 to C타입 초고속충전 케이블, 화이트, 2m, 1개",
@@ -701,28 +723,6 @@
         "uz": "Cheoline Jeju kashtan qovoq, maxsus shohona meva, 4,5 kg, 1 quti",
         "zh": "Cheoline 济州板栗南瓜，特制皇家水果，4.5公斤，1盒",
         "en": "Cheoline Jeju chestnut pumpkin, special royal fruit, 4.5 kg, 1 box"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 2556126795,
-      "ko": "윙윙 모기킬러 초음파 벌레 퇴치기, YU021, 색상랜덤, 2개",
-      "vi": "윙윙 모기킬러 초음파 벌레 퇴치기, YU021, 색상랜덤, 2개",
-      "img": "https://shopping.toss.im/live/taca/ai/MTU1ZGM5/UEJrK01UNEI5R1BKeklIT0QrWkNiMkRtNk56R2V3ZnN4MjVpMXZVcm5Raz0.png",
-      "price": 14900,
-      "orig": 39900,
-      "disc": 62,
-      "url": "https://toss.im/_m/Bcb8urnr",
-      "endAt": "2026-08-15T23:59:59+09:00",
-      "tr": {
-        "vi": "Máy đuổi côn trùng siêu âm diệt muỗi Buzzing, YU021, Màu sắc ngẫu nhiên, 2 miếng",
-        "th": "เครื่องไล่ยุงอัลตราโซนิกไล่แมลง Buzzing YU021 สุ่มสี 2 ชิ้น",
-        "km": "Buzzing Mosquito Killer Ultrasonic Insect Repellent, YU021, Color Random, 2 ដុំ",
-        "ne": "Buzzing Mosquito Killer Ultrasonic Insect Repellent, YU021, कलर अनियमित, २ टुक्रा",
-        "id": "Pengusir Serangga Ultrasonik Pembunuh Nyamuk Berdengung, YU021, Warna Acak, 2 Buah",
-        "uz": "Chivinlarni o'ldiradigan ultratovushli hasharotlarga qarshi vosita, YU021, tasodifiy rang, 2 dona",
-        "zh": "嗡嗡声超声波驱蚊器，YU021，颜色随机，2片",
-        "en": "Buzzing Mosquito Killer Ultrasonic Insect Repellent, YU021, Color Random, 2 Pieces"
       }
     },
     {
