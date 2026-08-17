@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T03:00:19.172Z",
+  "updated": "2026-08-17T09:00:04.263Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -646,29 +646,6 @@
     },
     {
       "cat": "deal",
-      "id": 2401397615,
-      "ko": "리퍼, 돌체구스토 지니오 S 베이직 캡슐 커피머신, 캡슐 2박스, 사은품 포함, 그라파이트, 1개",
-      "vi": "리퍼, 돌체구스토 지니오 S 베이직 캡슐 커피머신, 캡슐 2박스, 사은품 포함, 그라파이트, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/ZjRhYjAy/QUluWjhNS2tOSlcyYzh0VFd4MXV6ZXkwc0RLelU4WE5yR2hPcDJNU3NWVmU.png",
-      "price": 34500,
-      "orig": 189000,
-      "disc": 81,
-      "url": "https://toss.im/_m/NHfxasf2",
-      "endAt": "2026-08-17T23:59:59+09:00",
-      "tr": {
-        "vi": "Reaper, Máy pha cà phê viên nang cơ bản Dolce Gusto Genio S, 2 hộp viên nang, tặng kèm quà tặng, than chì, 1 chiếc",
-        "th": "Reaper เครื่องชงกาแฟแคปซูล Dolce Gusto Genio S Basic แคปซูล 2 กล่อง รวมของแถมกราไฟท์ 1 เครื่อง",
-        "km": "Reaper, Dolce Gusto Genio S Basic Capsule Coffee Machine, កន្សោម 2 ប្រអប់, ថែមកាដូរ ហ្រ្វីត 1 គ្រឿង",
-        "ne": "रिपर, डोल्से गुस्टो जेनियो एस बेसिक क्याप्सुल कफी मेसिन, २ बक्स क्याप्सुल, नि:शुल्क उपहार समावेश, ग्रेफाइट, १ इकाइ",
-        "id": "Reaper, Mesin Kopi Kapsul Dolce Gusto Genio S Basic, 2 dus kapsul, termasuk hadiah gratis, grafit, 1 unit",
-        "tl": "Reaper, Dolce Gusto Genio S Basic Capsule Coffee Machine, 2 kahon ng kapsula, may kasamang libreng regalo, graphite, 1 unit",
-        "uz": "Reaper, Dolce Gusto Genio S Basic kapsulali qahva mashinasi, 2 quti kapsula, bepul sovg'a, grafit, 1 dona",
-        "zh": "Reaper，Dolce Gusto Genio S 基本胶囊咖啡机，2 盒胶囊，含免费礼品，石墨，1 台",
-        "en": "Reaper, Dolce Gusto Genio S Basic Capsule Coffee Machine, 2 boxes of capsules, free gift included, graphite, 1 unit"
-      }
-    },
-    {
-      "cat": "deal",
       "id": 129204189,
       "ko": "아보카도, 특대과, 230g내외, 10개, 1박스",
       "vi": "아보카도, 특대과, 230g내외, 10개, 1박스",
@@ -692,25 +669,25 @@
     },
     {
       "cat": "deal",
-      "id": 2522720517,
-      "ko": "탐나유 국내산 방울토마토, 2kg, 1개",
-      "vi": "탐나유 국내산 방울토마토, 2kg, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/ZWUwODI4/TnkvY1dacHNQTWJiSnU1azdOck16R3puTTgzdDdNaFVaTTdQaXBzVVBMND0.png",
-      "price": 6900,
-      "orig": 23900,
-      "disc": 71,
-      "url": "https://toss.im/_m/TG9qtYw3",
+      "id": 2443273839,
+      "ko": "여름 청사과 썸머킹 썸머프린스 아오리, 소과, 3kg, 1박스",
+      "vi": "여름 청사과 썸머킹 썸머프린스 아오리, 소과, 3kg, 1박스",
+      "img": "https://shopping.toss.im/live/taca/ai/v2/OTU5MDFi/Q2xENFhnZ2JFWEJwQzFUd3dhY1J6RGhac3pTUHk1SmUvWnE4cTJLcFkrcz0.png",
+      "price": 8500,
+      "orig": 32900,
+      "disc": 74,
+      "url": "https://toss.im/_m/D2MKD031",
       "endAt": "2026-08-17T23:59:59+09:00",
       "tr": {
-        "vi": "Cà chua bi nội địa Tamnayu, 2kg, 1 quả",
-        "th": "มะเขือเทศเชอร์รี่ในประเทศ Tamnayu 2กก. 1 ชิ้น",
-        "km": "ប៉េងប៉ោះ cherry ក្នុងស្រុក Tamnayu 2 គីឡូក្រាម 1 ដុំ",
-        "ne": "Tamnayu घरेलु चेरी टमाटर, 2 kg, 1 टुक्रा",
-        "id": "Tomat cherry domestik tamnayu, 2kg, 1 buah",
-        "tl": "Tamnayu domestic cherry tomatoes, 2kg, 1 piraso",
-        "uz": "Tamnayu uy gilos pomidorlari, 2kg, 1 dona",
-        "zh": "Tamnayu 国产樱桃番茄，2 公斤，1 个",
-        "en": "Tamnayu domestic cherry tomatoes, 2kg, 1 piece"
+        "vi": "Táo xanh mùa hè Summer King Summer Prince Aori, táo nhỏ, 3kg, 1 hộp",
+        "th": "แอปเปิ้ลเขียวฤดูร้อน Summer King Summer Prince Aori แอปเปิ้ลลูกเล็ก 3กก. 1 กล่อง",
+        "km": "ផ្លែប៉ោមបៃតងរដូវក្តៅ Summer King Summer Prince Aori ផ្លែប៉ោមតូច 3 គីឡូក្រាម 1 ប្រអប់",
+        "ne": "ग्रीष्मकालीन हरियो स्याउ समर किंग समर प्रिन्स अओरी, सानो स्याउ, 3 किलो, 1 बक्स",
+        "id": "Apel Hijau Musim Panas Raja Musim Panas Pangeran Musim Panas Aori, Apel Kecil, 3Kg, 1 Kotak",
+        "tl": "Summer green apple Summer King Summer Prince Aori, maliit na mansanas, 3kg, 1 box",
+        "uz": "Yozgi yashil olma Yozgi shoh Yozgi shahzoda Aori, kichik olma, 3kg, 1 quti",
+        "zh": "夏季青苹果 Summer King 夏季王子 Aori 小苹果 3kg 1盒",
+        "en": "Summer green apple Summer King Summer Prince Aori, small apple, 3kg, 1 box"
       }
     },
     {
@@ -734,6 +711,29 @@
         "uz": "Etude Lucky Ham bulutli filtr yostig'i maxsus to'plami, fil suyagi, 1 dona",
         "zh": "Etude Lucky Ham Cloud 滤镜垫特别套装，象牙色，1 件",
         "en": "Etude Lucky Ham Cloud Filter Cushion Special Set, Ivory, 1 piece"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 2522720517,
+      "ko": "탐나유 국내산 방울토마토, 2kg, 1개",
+      "vi": "탐나유 국내산 방울토마토, 2kg, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/ZWUwODI4/TnkvY1dacHNQTWJiSnU1azdOck16R3puTTgzdDdNaFVaTTdQaXBzVVBMND0.png",
+      "price": 7900,
+      "orig": 23900,
+      "disc": 66,
+      "url": "https://toss.im/_m/TG9qtYw3",
+      "endAt": "2026-08-17T23:59:59+09:00",
+      "tr": {
+        "vi": "Cà chua bi nội địa Tamnayu, 2kg, 1 quả",
+        "th": "มะเขือเทศเชอร์รี่ในประเทศ Tamnayu 2กก. 1 ชิ้น",
+        "km": "ប៉េងប៉ោះ cherry ក្នុងស្រុក Tamnayu 2 គីឡូក្រាម 1 ដុំ",
+        "ne": "Tamnayu घरेलु चेरी टमाटर, 2 kg, 1 टुक्रा",
+        "id": "Tomat cherry domestik tamnayu, 2kg, 1 buah",
+        "tl": "Tamnayu domestic cherry tomatoes, 2kg, 1 piraso",
+        "uz": "Tamnayu uy gilos pomidorlari, 2kg, 1 dona",
+        "zh": "Tamnayu 国产樱桃番茄，2 公斤，1 个",
+        "en": "Tamnayu domestic cherry tomatoes, 2kg, 1 piece"
       }
     },
     {
