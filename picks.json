@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T03:00:15.851Z",
+  "updated": "2026-08-18T09:00:17.802Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -119,9 +119,9 @@
       "ko": "써지오 퍼스널탭 3구개별 멀티탭, 그린, 3m, 1개",
       "vi": "써지오 퍼스널탭 3구개별 멀티탭, 그린, 3m, 1개",
       "img": "https://shopping.toss.im/live/taca/ai/NjI3N2Mx/SXR5bThialBEOURxanZFYTU3WlFxd1l5SHFUajgvdkc3ZzJDT2dud1E3VT0.png",
-      "price": 8310,
+      "price": 9310,
       "orig": 29800,
-      "disc": 72,
+      "disc": 68,
       "url": "https://toss.im/_m/3nDrMvdv",
       "tr": {
         "vi": "Vòi cá nhân Sergio, vòi đa năng 3 mảnh, màu xanh lá cây, 3 m, 1 vòi",
@@ -600,6 +600,52 @@
     },
     {
       "cat": "deal",
+      "id": 2420216767,
+      "ko": "닿자마자 시원한 아이스 쿨 냉감이불 여름 숙면 열대야 필수템, 아이스 민트, 냉감 홑이불, 150x200cm",
+      "vi": "닿자마자 시원한 아이스 쿨 냉감이불 여름 숙면 열대야 필수템, 아이스 민트, 냉감 홑이불, 150x200cm",
+      "img": "https://shopping.toss.im/live/temp/2026-07-06/b1163b1b-51dd-4f15-b37c-a061220dce67.jpeg",
+      "price": 9900,
+      "orig": 49900,
+      "disc": 80,
+      "url": "https://toss.im/_m/vHENKoXl",
+      "endAt": "2026-08-18T23:59:59+09:00",
+      "tr": {
+        "vi": "Chăn mát lạnh tạo cảm giác mát lạnh khi tiếp xúc, vật dụng cần thiết cho giấc ngủ ngon mùa hè, đêm nhiệt đới, bạc hà đá, chăn lanh mát lạnh, 150x200cm",
+        "th": "ผ้าห่มเย็นน้ำแข็งที่ให้ความรู้สึกเย็นเมื่อสัมผัส สิ่งของที่จำเป็นสำหรับการนอนหลับสบายในฤดูร้อน คืนเขตร้อน ไอซ์มิ้นต์ ผ้าห่มลินินเย็นสบาย 150x200 ซม.",
+        "km": "ភួយទឹកកកដែលមានអារម្មណ៍ត្រជាក់នៅពេលប៉ះ វត្ថុសំខាន់សម្រាប់ការគេងលក់ស្រួលក្នុងរដូវក្តៅ រាត្រីត្រូពិច មីទឹកកក ភួយក្រណាត់ត្រជាក់ 150x200cm",
+        "ne": "आइस कूल कम्बल जुन सम्पर्कमा चिसो महसुस हुन्छ, गर्मीमा राम्रो रातको निद्राको लागि आवश्यक वस्तु, उष्णकटिबंधीय रात, बरफको टकसाल, कूल लिनेन कम्बल, 150x200 सेमी",
+        "id": "Selimut es dingin yang terasa sejuk saat disentuh, barang penting untuk tidur nyenyak di musim panas, malam tropis, es mint, selimut linen dingin, 150x200cm",
+        "tl": "Ice cool na kumot na malamig kapag nadikit, mahalagang bagay para sa mahimbing na tulog sa tag-araw, tropikal na gabi, ice mint, malamig na linen na kumot, 150x200cm",
+        "uz": "Muz bilan aloqa qilganda salqin bo'ladigan salqin adyol, yozda yaxshi uxlash uchun zarur bo'lgan narsa, tropik tun, muz yalpiz, salqin choyshab, 150x200 sm",
+        "zh": "冰凉毯，触感凉爽，夏季睡个好觉的必备单品，热带之夜，冰薄荷，凉爽亚麻毯，150x200cm",
+        "en": "Ice cool blanket that feels cool upon contact, essential item for a good night's sleep in summer, tropical night, ice mint, cool linen blanket, 150x200cm"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 806816185,
+      "ko": "휴플러스 바른목 EMS 마사지기, CORDZERO-ES4, 베이지, 1개",
+      "vi": "휴플러스 바른목 EMS 마사지기, CORDZERO-ES4, 베이지, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/ZWIxOTE4/QUlEaVI4Tkg1eTVHTmc0L0R0a08yYmFZOXNaeFpkbE0yZmNabWsyelJHTTI.png",
+      "price": 34500,
+      "orig": 119000,
+      "disc": 71,
+      "url": "https://toss.im/_m/RbDxYP9n",
+      "endAt": "2026-08-18T23:59:59+09:00",
+      "tr": {
+        "vi": "Máy mát xa Huplus Bareunmok EMS, CORDZERO-ES4, màu be, 1 chiếc",
+        "th": "เครื่องนวด Huplus Bareunmok EMS, CORDZERO-ES4, สีเบจ, 1 ชิ้น",
+        "km": "Huplus Bareunmok EMS massager, CORDZERO-ES4, beige, 1 ដុំ",
+        "ne": "Huplus Bareunmok EMS मालिश, CORDZERO-ES4, बेज, 1 टुक्रा",
+        "id": "Alat pijat Huplus Bareunmok EMS, CORDZERO-ES4, krem, 1 buah",
+        "tl": "Huplus Bareunmok EMS massager, CORDZERO-ES4, beige, 1 piraso",
+        "uz": "Huplus Bareunmok EMS massajchisi, CORDZERO-ES4, bej, 1 dona",
+        "zh": "Huplus Bareonmok EMS 按摩器，CORDZERO-ES4，米色，1 件",
+        "en": "Huplus Bareunmok EMS massager, CORDZERO-ES4, beige, 1 piece"
+      }
+    },
+    {
+      "cat": "deal",
       "id": 1238075267,
       "ko": "못난이 파프리카 혼합, 국내산, 1kg, 1박스",
       "vi": "못난이 파프리카 혼합, 국내산, 1kg, 1박스",
@@ -623,29 +669,6 @@
     },
     {
       "cat": "deal",
-      "id": 122659625,
-      "ko": "리벤스 로얄플러스 물티슈, 캡형, 70매, 10팩",
-      "vi": "리벤스 로얄플러스 물티슈, 캡형, 70매, 10팩",
-      "img": "https://shopping.toss.im/live/taca/ai/ZDdjNzBj/TDJXKys3VE9kLy9hM3YrL3l0UC96NkY3M3Y0M0lXbjdKNkcyODFyVS8rMD0.png",
-      "price": 9800,
-      "orig": 30900,
-      "disc": 68,
-      "url": "https://toss.im/_m/VEA1KcFf",
-      "endAt": "2026-08-18T23:59:59+09:00",
-      "tr": {
-        "vi": "Khăn giấy ướt Revens Royal Plus, loại nắp, 70 tờ, 10 gói",
-        "th": "กระดาษทิชชู่เปียก Revens Royal Plus แบบมีฝาปิด 70 แผ่น 10 ห่อ",
-        "km": "ក្រដាស់សើម Revens Royal Plus ប្រភេទមួក 70សន្លឹក 10កញ្ចប់",
-        "ne": "रेभेन्स रोयल प्लस भिजेको ऊतक, टोपी प्रकार, 70 पानाहरू, 10 प्याकहरू",
-        "id": "Tisu basah Revens Royal Plus, tipe tutup, 70 lembar, 10 bungkus",
-        "uz": "Revens Royal Plus nam salfetkalari, qopqoq turi, 70 varaq, 10 ta paket",
-        "zh": "Revens Royal Plus 湿纸巾，帽型，70 张，10 包",
-        "en": "Revens Royal Plus wet tissues, cap type, 70 sheets, 10 packs",
-        "tl": "Revens Royal Plus wet tissue, uri ng takip, 70 sheet, 10 pack"
-      }
-    },
-    {
-      "cat": "deal",
       "id": 2164156071,
       "ko": "메르헨트 퍼퓸 대용량 바디워시, 피치블라썸향, 1L, 2개",
       "vi": "메르헨트 퍼퓸 대용량 바디워시, 피치블라썸향, 1L, 2개",
@@ -665,6 +688,29 @@
         "uz": "Margent parfyum katta hajmli tana yuvish vositasi, shaftoli gullari hidi, 1 l, 2 dona",
         "zh": "Margent香水大容量沐浴露，桃花香，1L，2支",
         "en": "Margent perfume large-capacity body wash, peach blossom scent, 1L, 2 units"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 122659625,
+      "ko": "리벤스 로얄플러스 물티슈, 캡형, 70매, 10팩",
+      "vi": "리벤스 로얄플러스 물티슈, 캡형, 70매, 10팩",
+      "img": "https://shopping.toss.im/live/taca/ai/ZDdjNzBj/TDJXKys3VE9kLy9hM3YrL3l0UC96NkY3M3Y0M0lXbjdKNkcyODFyVS8rMD0.png",
+      "price": 9900,
+      "orig": 30900,
+      "disc": 67,
+      "url": "https://toss.im/_m/VEA1KcFf",
+      "endAt": "2026-08-18T23:59:59+09:00",
+      "tr": {
+        "vi": "Khăn giấy ướt Revens Royal Plus, loại nắp, 70 tờ, 10 gói",
+        "th": "กระดาษทิชชู่เปียก Revens Royal Plus แบบมีฝาปิด 70 แผ่น 10 ห่อ",
+        "km": "ក្រដាស់សើម Revens Royal Plus ប្រភេទមួក 70សន្លឹក 10កញ្ចប់",
+        "ne": "रेभेन्स रोयल प्लस भिजेको ऊतक, टोपी प्रकार, 70 पानाहरू, 10 प्याकहरू",
+        "id": "Tisu basah Revens Royal Plus, tipe tutup, 70 lembar, 10 bungkus",
+        "uz": "Revens Royal Plus nam salfetkalari, qopqoq turi, 70 varaq, 10 ta paket",
+        "zh": "Revens Royal Plus 湿纸巾，帽型，70 张，10 包",
+        "en": "Revens Royal Plus wet tissues, cap type, 70 sheets, 10 packs",
+        "tl": "Revens Royal Plus wet tissue, uri ng takip, 70 sheet, 10 pack"
       }
     },
     {
@@ -711,52 +757,6 @@
         "uz": "Viewa Objet ikkita ultra nozik elastik cho'tkali tish cho'tkasi, 18 dona, 1 dona",
         "zh": "Viewa Objet 双超细弹性刷毛牙刷，18 件，1 件",
         "en": "Viewa Objet Dual Ultra-Fine Elastic Bristle Toothbrush, 18 Pieces, 1 Piece"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 2126507207,
-      "ko": "풀무원 아임리얼 100 고농축 블루베리, 120ml, 24개",
-      "vi": "풀무원 아임리얼 100 고농축 블루베리, 120ml, 24개",
-      "img": "https://shopping.toss.im/live/taca/ai/N2I4NWNh/QU44ZW1td3NZWFN6NGFIWjU4YW5MeFlhSHR6cDZsNHJOcVhwMVlkR3RDcDU.png",
-      "price": 18800,
-      "orig": 44480,
-      "disc": 57,
-      "url": "https://toss.im/_m/pp1NWqp9",
-      "endAt": "2026-08-18T23:59:59+09:00",
-      "tr": {
-        "vi": "Pulmuone I'm Real 100 Quả việt quất đậm đặc, 120ml, 24 miếng",
-        "th": "Pulmuone I'm Real 100 บลูเบอร์รี่เข้มข้นสูง 120ml 24 ชิ้น",
-        "km": "Pulmuone I'm Real 100 Highly Concentrated Blueberry, 120ml, 24 pieces",
-        "ne": "Pulmuone I'm Real 100 Highly Concentrated Blueberry, 120ml, 24 टुक्राहरू",
-        "id": "Pulmuone I'm Real 100 Blueberry Konsentrat Tinggi, 120ml, 24 buah",
-        "tl": "Pulmuone I'm Real 100 Highly Concentrated Blueberry, 120ml, 24 na piraso",
-        "uz": "Pulmuone I'm Real 100 yuqori konsentrlangan ko'k, 120ml, 24 dona",
-        "zh": "Pulmuone I'm Real 100 高浓缩蓝莓，120ml，24 件",
-        "en": "Pulmuone I'm Real 100 Highly Concentrated Blueberry, 120ml, 24 pieces"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 156140939,
-      "ko": "한라식품 참치액, 900ml, 3개",
-      "vi": "한라식품 참치액, 900ml, 3개",
-      "img": "https://shopping.toss.im/live/taca/ai/NGRmYTY3/QUo4REQvRnd2UDhQNHZ5Qi9oOERlbEdCNngrdTlFdmx6eHUwWDYvdVZQaHg.png",
-      "price": 18800,
-      "orig": 41640,
-      "disc": 54,
-      "url": "https://toss.im/_m/xJzCbzyy",
-      "endAt": "2026-08-18T23:59:59+09:00",
-      "tr": {
-        "vi": "Nước lỏng cá ngừ Halla Food, 900ml, 3 chiếc",
-        "th": "ฮัลลาฟู้ดทูน่าเหลว 900มล. 3 ยูนิต",
-        "km": "Halla Food Tuna Liquid, 900ml, 3 គ្រឿង",
-        "ne": "Halla Food Tuna Liquid, 900ml, 3 एकाइहरू",
-        "id": "Halla Food Tuna Cair 900ml, 3 unit",
-        "tl": "Halla Food Tuna Liquid, 900ml, 3 units",
-        "uz": "Halla Food Tuna suyuqligi, 900ml, 3 dona",
-        "zh": "Halla Food 金枪鱼液，900ml，3 份",
-        "en": "Halla Food Tuna Liquid, 900ml, 3 units"
       }
     },
     {
