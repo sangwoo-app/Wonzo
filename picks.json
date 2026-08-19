@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T15:00:19.360Z",
+  "updated": "2026-08-19T21:00:16.603Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -269,6 +269,28 @@
     },
     {
       "cat": "food",
+      "id": 1469994201,
+      "ko": "농심, 신라면, 120g, 5봉 + 너구리, 120g, 5봉 + 짜파게티, 140g, 5봉 + 오징어짬뽕, 124g, 5봉",
+      "vi": "농심, 신라면, 120g, 5봉 + 너구리, 120g, 5봉 + 짜파게티, 140g, 5봉 + 오징어짬뽕, 124g, 5봉",
+      "img": "https://shopping.toss.im/live/taca/ai/ZDZlMDEy/UUU3bm9jKzJXa2EyL3B6TC83R2w3RWxFOHJrM0VkcmhZRms3RVdGVjVHND0.png",
+      "price": 19210,
+      "orig": 76510,
+      "disc": 74,
+      "url": "https://toss.im/_m/p68tfkTu",
+      "tr": {
+        "vi": "Nongshim, Shin Ramyun, 120g, 5 túi + Neoguri, 120g, 5 túi + Chapagetti, 140g, 5 túi + Mực Jjamppong, 124g, 5 túi",
+        "th": "นงชิม ชินรามยอน 120g 5 ถุง + นีโอกูริ 120g 5 ถุง + ชาปาเก็ตตี้ 140g 5 ถุง + จัมปงปลาหมึก 124g 5 ถุง",
+        "km": "Nongshim, Shin Ramyun, 120g, 5 ថង់ + Neoguri, 120g, 5 ថង់ + Chapagetti, 140g, 5 ថង់ + Squid Jjampong, 124g, 5 ថង់",
+        "ne": "नोङ्शिम, शिन राम्युन, १२० ग्राम, ५ झोला + निओगुरी, १२० ग्राम, ५ झोला + चापागेट्टी, १४० ग्राम, ५ झोला + स्क्विड जाम्पपोङ, १२४ ग्राम, ५ झोला",
+        "id": "Nongshim, Shin Ramyun, 120g, 5 kantong + Neoguri, 120g, 5 kantong + Chapagetti, 140g, 5 kantong + Cumi Jjamppong, 124g, 5 kantong",
+        "tl": "Nongshim, Shin Ramyun, 120g, 5 bags + Neoguri, 120g, 5 bags + Chapagetti, 140g, 5 bags + Squid Jjamppong, 124g, 5 bags",
+        "uz": "Nongshim, Shin Ramyun, 120g, 5 sumka + Neoguri, 120g, 5 sumka + Chapagetti, 140g, 5 sumka + Squid Jjampong, 124g, 5 sumka",
+        "zh": "农心辛拉面，120g，5袋 + Neoguri，120g，5袋 + Chapagetti，140g，5袋 + 鱿鱼Jjamppong，124g，5袋",
+        "en": "Nongshim, Shin Ramyun, 120g, 5 bags + Neoguri, 120g, 5 bags + Chapagetti, 140g, 5 bags + Squid Jjamppong, 124g, 5 bags"
+      }
+    },
+    {
+      "cat": "food",
       "id": 155766341,
       "ko": "푸드앳홈 매콤 짜장면, 230g, 10개",
       "vi": "푸드앳홈 매콤 짜장면, 230g, 10개",
@@ -287,28 +309,6 @@
         "zh": "Food @ Home 麻辣炸酱面, 230g, 10枚",
         "en": "Food @ Home Spicy Jjajangmyeon, 230g, 10 pieces",
         "tl": "Food @ Home Spicy Jjajangmyeon, 230g, 10 piraso"
-      }
-    },
-    {
-      "cat": "food",
-      "id": 142447811,
-      "ko": "삼양 불닭볶음면, 140g, 10개",
-      "vi": "삼양 불닭볶음면, 140g, 10개",
-      "img": "https://shopping.toss.im/live/taca/ai/v2/OGUwMzBm/TXZUbWdadTFHcFQ0TkV6OFd6Ujg3UFNGRWx5MHRSczh0ekdqTS95RDdjTT0.png",
-      "price": 10680,
-      "orig": 19480,
-      "disc": 45,
-      "url": "https://toss.im/_m/3fjhN3lD",
-      "tr": {
-        "vi": "Samyang Buldak Bokkeum Ramen, 140g, 10 miếng",
-        "th": "ซัมยัง บุลดัก บกอึม ราเมน 140กรัม 10ชิ้น",
-        "km": "Samyang Buldak Bokkeum Ramen 140 ក្រាម 10 ដុំ",
-        "ne": "साम्याङ बुलडाक बोक्केउम रामेन, 140 ग्राम, 10 टुक्रा",
-        "id": "Samyang Buldak Bokkeum Ramen, 140g, 10 buah",
-        "uz": "Samyang Buldak Bokkeum Ramen, 140g, 10 dona",
-        "zh": "Samyang Buldak Bokkeum 拉面, 140g, 10 个",
-        "en": "Samyang Buldak Bokkeum Ramen, 140g, 10 pieces",
-        "tl": "Samyang Buldak Bokkeum Ramen, 140g, 10 piraso"
       }
     },
     {
@@ -339,9 +339,9 @@
       "ko": "외갓집 남도식 들녘 추어탕, 450g, 5팩",
       "vi": "외갓집 남도식 들녘 추어탕, 450g, 5팩",
       "img": "https://shopping.toss.im/live/taca/ai/MmJiNjhj/ZmdEMnNQeEI4TjkySGVNOS9Menl6dFQweHJSRDVPT0V2L1BHeE5SUHp5dz0.png",
-      "price": 17990,
+      "price": 16990,
       "orig": 55000,
-      "disc": 67,
+      "disc": 69,
       "url": "https://toss.im/_m/rHX90p42",
       "tr": {
         "vi": "Cá chạch hầm kiểu Oegatjip Namdo, 450g, 5 gói",
@@ -401,6 +401,28 @@
     },
     {
       "cat": "food",
+      "id": 2317810445,
+      "ko": "전라도 총각김치, HACCP, 당일제조, 2kg, 1박스",
+      "vi": "전라도 총각김치, HACCP, 당일제조, 2kg, 1박스",
+      "img": "https://shopping.toss.im/live/taca/ai/MjMzZTkx/QUxXOXNlS3ZhUklmSzFQMmFzTFUzT0MwUnY3R1YxSkRVWmhvSS9wMDh1MlY.png",
+      "price": 11900,
+      "orig": 49900,
+      "disc": 76,
+      "url": "https://toss.im/_m/p2u5X1z4",
+      "tr": {
+        "vi": "Kimchi cử nhân Jeolla-do, HACCP, sản xuất trong ngày, 2kg, 1 hộp",
+        "th": "จอลลาโด กิมจิสละโสด HACCP ผลิตวันเดียว 2กก. 1กล่อง",
+        "km": "Jeolla-do bachelor Kimchi HACCP ផលិតថ្ងៃតែមួយ 2kg 1ប្រអប់",
+        "ne": "Jeolla-do स्नातक किम्ची, HACCP, उही दिन उत्पादन, 2kg, 1 बक्स",
+        "id": "Kimchi bujangan Jeolla-do, HACCP, produksi di hari yang sama, 2kg, 1 kotak",
+        "uz": "Jeolla-do bakalavr kimchi, HACCP, bir kunlik ishlab chiqarish, 2kg, 1 quti",
+        "zh": "全罗道学士泡菜，HACCP，当天生产，2公斤，1盒",
+        "en": "Jeolla-do bachelor kimchi, HACCP, same-day production, 2kg, 1 box",
+        "tl": "Jeolla-do bachelor kimchi, HACCP, parehong araw na produksyon, 2kg, 1 kahon"
+      }
+    },
+    {
+      "cat": "food",
       "id": 1910549827,
       "ko": "바른 전라도 열무자박이 김치, 1kg, 1개",
       "vi": "바른 전라도 열무자박이 김치, 1kg, 1개",
@@ -419,28 +441,6 @@
         "zh": "正品全罗道萝卜泡菜, 1 kg, 1 个",
         "en": "Proper Jeolla-do Yeolradish Jabagi Kimchi, 1 kg, 1 piece",
         "tl": "Wastong Jeolla-do Yeolradish Jabagi Kimchi, 1 kg, 1 piraso"
-      }
-    },
-    {
-      "cat": "food",
-      "id": 2317810445,
-      "ko": "전라도 총각김치, HACCP, 당일제조, 2kg, 1박스",
-      "vi": "전라도 총각김치, HACCP, 당일제조, 2kg, 1박스",
-      "img": "https://shopping.toss.im/live/taca/ai/MjMzZTkx/QUxXOXNlS3ZhUklmSzFQMmFzTFUzT0MwUnY3R1YxSkRVWmhvSS9wMDh1MlY.png",
-      "price": 13900,
-      "orig": 49900,
-      "disc": 72,
-      "url": "https://toss.im/_m/p2u5X1z4",
-      "tr": {
-        "vi": "Kimchi cử nhân Jeolla-do, HACCP, sản xuất trong ngày, 2kg, 1 hộp",
-        "th": "จอลลาโด กิมจิสละโสด HACCP ผลิตวันเดียว 2กก. 1กล่อง",
-        "km": "Jeolla-do bachelor Kimchi HACCP ផលិតថ្ងៃតែមួយ 2kg 1ប្រអប់",
-        "ne": "Jeolla-do स्नातक किम्ची, HACCP, उही दिन उत्पादन, 2kg, 1 बक्स",
-        "id": "Kimchi bujangan Jeolla-do, HACCP, produksi di hari yang sama, 2kg, 1 kotak",
-        "uz": "Jeolla-do bakalavr kimchi, HACCP, bir kunlik ishlab chiqarish, 2kg, 1 quti",
-        "zh": "全罗道学士泡菜，HACCP，当天生产，2公斤，1盒",
-        "en": "Jeolla-do bachelor kimchi, HACCP, same-day production, 2kg, 1 box",
-        "tl": "Jeolla-do bachelor kimchi, HACCP, parehong araw na produksyon, 2kg, 1 kahon"
       }
     },
     {
@@ -646,71 +646,25 @@
     },
     {
       "cat": "deal",
-      "id": 1220691781,
-      "ko": "바이탈포션 슈퍼 글루타씨온 앰플, 18ml, 1개",
-      "vi": "바이탈포션 슈퍼 글루타씨온 앰플, 18ml, 1개",
-      "img": "https://shopping.toss.im/live/temp/2026-06-18/46001376-e75e-4eef-881c-37ad9f02efaf.png",
-      "price": 7700,
-      "orig": 25000,
-      "disc": 69,
-      "url": "https://toss.im/_m/rUbcWjh2",
-      "endAt": "2026-08-20T23:59:59+09:00",
-      "tr": {
-        "vi": "Vital Potion Super Glutathione Ampoule, 18ml, 1 chiếc",
-        "th": "Vital Potion Super Glutathione Ampoule, 18ml, 1 ยูนิต",
-        "km": "Vital Potion Super Glutathione Ampoule ចំណុះ 18ml 1 ដប",
-        "ne": "महत्वपूर्ण औषधि सुपर ग्लुटाथियोन एम्पौल, 18ml, 1 एकाइ",
-        "id": "Ampul Vital Ramuan Super Glutathione, 18ml, 1 unit",
-        "tl": "Vital Potion Super Glutathione Ampoule, 18ml, 1 unit",
-        "uz": "Vital Potion Super Glutation Ampulasi, 18ml, 1 dona",
-        "zh": "Vital Potion 超级谷胱甘肽安瓶，18ml，1 单位",
-        "en": "Vital Potion Super Glutathione Ampoule, 18ml, 1 unit"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 1240490047,
-      "ko": "디마르3 시그니처 에스투드 프로텍터 5.2, 50ml, 2개",
-      "vi": "디마르3 시그니처 에스투드 프로텍터 5.2, 50ml, 2개",
-      "img": "https://shopping.toss.im/live/taca/ai/NzU3NzQ0/QU5PeGpObFh6ck5VVk9pelRwbzdwMGZyc1dqNU9ZNThuc3h4UXNOR2NGWTg.png",
-      "price": 18900,
-      "orig": 60000,
-      "disc": 68,
-      "url": "https://toss.im/_m/DxAYCiT4",
-      "endAt": "2026-08-20T23:59:59+09:00",
-      "tr": {
-        "vi": "Dimar3 Signature Estude Protector 5.2, 50ml, 2 chiếc",
-        "th": "Dimar3 Signature Estude Protector 5.2, 50ml, 2 ยูนิต",
-        "km": "Dimar3 Signature Estude Protector 5.2, 50ml, 2 គ្រឿង",
-        "ne": "Dimar3 सिग्नेचर एस्टुड प्रोटेक्टर 5.2, 50ml, 2 एकाइहरू",
-        "id": "Dimar3 Signature Estude Protector 5.2, 50ml, 2 unit",
-        "tl": "Dimar3 Signature Estude Protector 5.2, 50ml, 2 units",
-        "uz": "Dimar3 Signature Estude Protector 5.2, 50ml, 2 dona",
-        "zh": "Dimar3 Signature Estude 保护剂 5.2，50ml，2 件",
-        "en": "Dimar3 Signature Estude Protector 5.2, 50ml, 2 units"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 1753781327,
-      "ko": "찰랑 시원 핏 나시 원피스, 블랙, FREE",
-      "vi": "찰랑 시원 핏 나시 원피스, 블랙, FREE",
-      "img": "https://shopping.toss.im/live/temp/2026-04-28/f8241237-fa6e-4a86-9d3f-17af0025e200.jpeg",
-      "price": 9801,
+      "id": 105890759,
+      "ko": "깨끗한나라 순수한면 입는 오버나이트 생리대, 중대형, 4개입, 4팩",
+      "vi": "깨끗한나라 순수한면 입는 오버나이트 생리대, 중대형, 4개입, 4팩",
+      "img": "https://shopping.toss.im/live/taca/ai/NDJjMjNk/QUp2L1k3Zi9FSlhRdmVmZjUydEp0bGlVcGVmM2xLVWRtRUpSNnVjVVJXUG4.png",
+      "price": 9900,
       "orig": 29900,
-      "disc": 67,
-      "url": "https://toss.im/_m/TUUAbAs8",
+      "disc": 66,
+      "url": "https://toss.im/_m/9dosTY3w",
       "endAt": "2026-08-20T23:59:59+09:00",
       "tr": {
-        "vi": "Áo ba lỗ vừa vặn, giá rẻ, màu đen, MIỄN PHÍ",
-        "th": "เสื้อกล้ามสายเดี่ยวราคาถูกและเท่ สีดำ ฟรี",
-        "km": "អាវយឺតសាច់ស្អាត តម្លៃសមរម្យ ពណ៌ខ្មៅ ឥតគិតថ្លៃ",
-        "ne": "सस्तो र कूल फिट ट्याङ्क शीर्ष एक टुक्रा, कालो, नि: शुल्क",
-        "id": "Tank top one piece fit murah dan keren, hitam, GRATIS",
-        "tl": "Mura at cool fit na tank top na one-piece, itim, LIBRE",
-        "uz": "Arzon va salqin, bir parcha, qora tanli, BEPUL",
-        "zh": "便宜又酷的合身背心一件式，黑色，免费",
-        "en": "Cheap and cool fit tank top one-piece, black, FREE"
+        "vi": "Băng vệ sinh qua đêm Clean Nara Pure Cotton, cỡ vừa/lớn, 4 miếng, 4 gói",
+        "th": "ผ้าอนามัยคลีนนาราเพียวคอตตอนข้ามคืน ขนาดกลาง/ใหญ่ 4 ชิ้น 4 แพ็ค",
+        "km": "កន្សែងអនាម័យ Nara កប្បាសសុទ្ធ ខ្នាតមធ្យម/ធំ 4ដុំ 4កញ្ចប់",
+        "ne": "सफा नारा शुद्ध कपास रातभर सेनेटरी नेपकिन, मध्यम/ठूलो साइज, 4 टुक्रा, 4 प्याकहरू",
+        "id": "Pembalut Semalam Katun Murni Nara Bersih, Ukuran Sedang/Besar, 4 Buah, 4 Bungkus",
+        "tl": "Clean Nara Pure Cotton Overnight Sanitary Napkin, Medium/Large Size, 4 Pieces, 4 Packs",
+        "uz": "Clean Nara sof paxtadan tayyorlangan tungi gigiyenik salfetka, oʻrta/katta oʻlchamli, 4 dona, 4 ta paket",
+        "zh": "Clean Nara 纯棉隔夜卫生巾，中号/大号，4 片，4 包",
+        "en": "Clean Nara Pure Cotton Overnight Sanitary Napkin, Medium/Large Size, 4 Pieces, 4 Packs"
       }
     },
     {
@@ -734,6 +688,52 @@
         "uz": "40000km sirpanmaydigan tufli, kulrang, 270-280 mm, 2 dona",
         "zh": "40000公里防滑浴室拖鞋，灰色，270-280mm，2件",
         "en": "40000km non-slip bathroom slippers, gray, 270-280mm, 2 pieces"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 2615510101,
+      "ko": "자니베어 더 굵은 융모 운동화 세탁망, 다크그레이, 특대형, 2개",
+      "vi": "자니베어 더 굵은 융모 운동화 세탁망, 다크그레이, 특대형, 2개",
+      "img": "https://shopping.toss.im/live/temp/2026-08-14/25040750-14e0-42d1-b8c5-368f0d2f9909.png",
+      "price": 9980,
+      "orig": 29800,
+      "disc": 66,
+      "url": "https://toss.im/_m/p1ZjEpjx",
+      "endAt": "2026-08-20T23:59:59+09:00",
+      "tr": {
+        "vi": "Lưới giặt giày thể thao Johnny Bear dày hơn, xám đậm, cực lớn, 2 chiếc",
+        "th": "Johnny Bear ตาข่ายซักผ้ารองเท้าผ้าใบแบบหนา villi สีเทาเข้ม ขนาดใหญ่พิเศษ 2 ชิ้น",
+        "km": "សំណាញ់បោកអ៊ុតស្បែកជើងប៉ាតា villi ក្រាស់ជាង Johnny Bear ពណ៌ប្រផេះងងឹត ធំបន្ថែម 2 ដុំ",
+        "ne": "जोनी बियर गाढा भिल्ली स्नीकर्स लुन्ड्री नेट, गाढा खैरो, अतिरिक्त ठूलो, २ टुक्रा",
+        "id": "Jaring laundry vili sneakers Johnny Bear tebal, abu-abu tua, ekstra besar, 2 lembar",
+        "tl": "Johnny Bear thicker villi sneakers laundry net, dark grey, sobrang laki, 2 piraso",
+        "uz": "Johnny Bear qalinroq villi krossovkalar kir yuvish uchun toʻr, toʻq kulrang, juda katta, 2 dona",
+        "zh": "约翰尼熊加厚绒毛运动鞋洗衣网，深灰色，特大号，2 件",
+        "en": "Johnny Bear thicker villi sneakers laundry net, dark gray, extra large, 2 pieces"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 383195205,
+      "ko": "고궁 통참깨 참기름, 350ml, 4개",
+      "vi": "고궁 통참깨 참기름, 350ml, 4개",
+      "img": "https://shopping.toss.im/live/taca/ai/YWI3MDZm/QUxidnRjZm8vbVdXNGR4c3RHanMyM3U3RWJ0bEt4RHliU3NRTjgvckVHeS8.png",
+      "price": 20900,
+      "orig": 60000,
+      "disc": 65,
+      "url": "https://toss.im/_m/L1GngJsy",
+      "endAt": "2026-08-20T23:59:59+09:00",
+      "tr": {
+        "vi": "Dầu mè nguyên hạt Kogung, 350ml, 4 miếng",
+        "th": "Kogung น้ำมันงาทั้งงา 350มล. 4 ชิ้น",
+        "km": "Kogung Whole Sesame Oil, 350ml, 4 ដុំ",
+        "ne": "कोगुङ होल तिल तिलको तेल, 350ml, 4 टुक्रा",
+        "id": "Minyak Wijen Utuh Kogung, 350ml, 4 buah",
+        "tl": "Kogung Whole Sesame Sesame Oil, 350ml, 4 na piraso",
+        "uz": "Kogung butun kunjut yog'i, 350ml, 4 dona",
+        "zh": "Kogung 全芝麻芝麻油，350ml，4 件",
+        "en": "Kogung Whole Sesame Sesame Oil, 350ml, 4 pieces"
       }
     },
     {
