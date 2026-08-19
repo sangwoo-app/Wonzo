@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T03:00:17.369Z",
+  "updated": "2026-08-19T09:00:12.998Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -184,7 +184,7 @@
       "id": 34691521,
       "ko": "하루공방 고강도 카본 스틸 헤드 몽키스패너 렌치, 250mm, 2개",
       "vi": "하루공방 고강도 카본 스틸 헤드 몽키스패너 렌치, 250mm, 2개",
-      "img": "https://shopping.toss.im/live/taca/ai/NGViZWU1/WHFUdCtxbGIwZ2ZXcEMvNUMxdllIdldwQStFTFZGUmUrYnZWeXdyRmJWWT0.png",
+      "img": "https://shopping.toss.im/live/temp/2024-08-20/05a1b666-0892-4293-aa65-7a0563796c92.png",
       "price": 11900,
       "orig": 72000,
       "disc": 83,
@@ -577,29 +577,6 @@
     },
     {
       "cat": "deal",
-      "id": 7726685,
-      "ko": "동국제약 파워맥스 쏘팔메토 골드, 1000mg, 30캡슐, 2박스",
-      "vi": "동국제약 파워맥스 쏘팔메토 골드, 1000mg, 30캡슐, 2박스",
-      "img": "https://shopping.toss.im/live/taca/ai/Y2EwNDIz/QUxOYmR5YU0yNXV6T3h6b2NYbWNiR0Y1UE1ueDdQRnNac0x4ZlN6aDRaT2I.png",
-      "price": 11900,
-      "orig": 120000,
-      "disc": 90,
-      "url": "https://toss.im/_m/7WQojddx",
-      "endAt": "2026-08-19T23:59:59+09:00",
-      "tr": {
-        "vi": "Dược phẩm Dongkook Powermax Saw Palmetto Gold, 1000mg, 30 viên, 2 hộp",
-        "th": "Dongkook Pharmaceutical Powermax Saw Palmetto Gold 1000มก. 30 แคปซูล 2 กล่อง",
-        "km": "Dongkook Pharmaceutical Powermax Saw Palmetto Gold, 1000mg, 30 capsules, 2 boxes",
-        "ne": "Dongkook फार्मास्युटिकल Powermax सो पाल्मेटो गोल्ड, 1000mg, 30 क्याप्सुल, 2 बक्सहरू",
-        "id": "Dongkook Pharmaceutical Powermax Saw Palmetto Gold, 1000mg, 30 kapsul, 2 kotak",
-        "tl": "Dongkook Pharmaceutical Powermax Saw Palmetto Gold, 1000mg, 30 kapsula, 2 kahon",
-        "uz": "Dongkook Pharmaceutical Powermax Saw Palmetto Gold, 1000 mg, 30 kapsula, 2 quti",
-        "zh": "Dongkook Pharmaceutical Powermax 锯棕榈黄金，1000 毫克，30 粒胶囊，2 盒",
-        "en": "Dongkook Pharmaceutical Powermax Saw Palmetto Gold, 1000mg, 30 capsules, 2 boxes"
-      }
-    },
-    {
-      "cat": "deal",
       "id": 640222375,
       "ko": "쉬블림로브 스퀘어넥 체크 블라우스 GW1715, FREE, 1개",
       "vi": "쉬블림로브 스퀘어넥 체크 블라우스 GW1715, FREE, 1개",
@@ -627,9 +604,9 @@
       "ko": "라라로코 프리미엄 생 아보카도, 대과, 10과",
       "vi": "라라로코 프리미엄 생 아보카도, 대과, 10과",
       "img": "https://shopping.toss.im/live/taca/ai/OGQ5YzU3/QUl3eHJ6VHcyWFN6UzBaYXpMMDhwVG5TODl6aktVd3lUOVN6M2ZZcVRYS1o.png",
-      "price": 8400,
+      "price": 8900,
       "orig": 28900,
-      "disc": 70,
+      "disc": 69,
       "url": "https://toss.im/_m/BPMZSOyn",
       "endAt": "2026-08-19T23:59:59+09:00",
       "tr": {
@@ -757,6 +734,29 @@
         "uz": "Pastel bir teginish uchun ko'p maqsadli sumka, 1 fil suyagi + 1 sariq + 1 apelsin, 3 dona",
         "zh": "粉彩按扣一触式多功能小袋，1 个象牙色 + 1 个黄色 + 1 个橙色，3 件",
         "en": "Pastel snap one-touch multipurpose pouch, 1 ivory + 1 yellow + 1 orange, 3 pieces"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 376400349,
+      "ko": "모누아 멀티팬 냄비 블랙 4종 세트, 편수냄비 18cm + 양수냄비 20cm + 멀티팬 24cm + 멀티팬 26cm, 1세트",
+      "vi": "모누아 멀티팬 냄비 블랙 4종 세트, 편수냄비 18cm + 양수냄비 20cm + 멀티팬 24cm + 멀티팬 26cm, 1세트",
+      "img": "https://shopping.toss.im/live/taca/ai/ZGVlMDdj/UE15eUZtVWNOVGJNdGt5ekpKeVppYVZ0MWpISkpDeVdsR1pUS2FMWWJrWT0.png",
+      "price": 39900,
+      "orig": 99000,
+      "disc": 59,
+      "url": "https://toss.im/_m/NEYEiaP4",
+      "endAt": "2026-08-19T23:59:59+09:00",
+      "tr": {
+        "vi": "Bộ nồi nhiều chảo Monua đen 4 chiếc, nồi tay cầm đơn 18cm + nồi tay cầm đôi 20cm + chảo nhiều tay 24cm + chảo nhiều tay 26cm, 1 bộ",
+        "th": "Monua หม้อหลายกระทะสีดำ ชุด 4 ชิ้น หม้อด้ามเดียว 18ซม. + หม้อสองหู 20ซม. + หม้อหลายกระทะ 24ซม. + หม้อหลายกระทะ 26ซม. 1 ชุด",
+        "km": "Monua multi-pan pot black set 4 បន្ទះ ផើងតែមួយដៃ 18cm + ផើងដៃពីរ 20cm + ពហុខ្ទះ 24cm + ពហុខ្ទះ 26cm 1ឈុត",
+        "ne": "मोनुआ बहु-प्यान भाँडो कालो 4-टुक्रा सेट, एकल-ह्यान्डल भाँडो 18 सेमी + डबल-ह्यान्डल भाँडो 20 सेमी + बहु-प्यान 24 सेमी + बहु-प्यान 26 सेमी, 1 सेट",
+        "id": "Monua Panci Multi Pan Hitam Set 4 Buah, Panci Gagang Tunggal 18Cm + Panci Gagang Ganda 20Cm + Panci Multi 24Cm + Panci Multi Pan 26Cm, 1 Set",
+        "tl": "Monua multi-pan pot black 4-piece set, single-handle pot 18cm + double-handle pot 20cm + multi-pan 24cm + multi-pan 26cm, 1 set",
+        "uz": "Monua ko'p tovoqli qora 4 dona to'plam, bir tutqichli qozon 18 sm + ikki tutqichli qozon 20 sm + ko'p tovoq 24 sm + ko'p tovoq 26 sm, 1 to'plam",
+        "zh": "Monua 多锅锅黑色4件套，单柄锅18cm+双柄锅20cm+多锅24cm+多锅26cm，1套",
+        "en": "Monua multi-pan pot black 4-piece set, single-handle pot 18cm + double-handle pot 20cm + multi-pan 24cm + multi-pan 26cm, 1 set"
       }
     },
     {
