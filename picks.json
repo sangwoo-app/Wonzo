@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T03:00:19.032Z",
+  "updated": "2026-08-20T09:00:14.305Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -291,46 +291,24 @@
     },
     {
       "cat": "food",
-      "id": 155766339,
-      "ko": "푸드앳홈 매콤 짜장면, 230g, 5개",
-      "vi": "푸드앳홈 매콤 짜장면, 230g, 5개",
-      "img": "https://shopping.toss.im/live/taca/ai/ZWViZGZm/QUppM25KTjB5V1R6NXV5dG01WnM1bE56TVkrWjVUTW5XcVRldVZwVHpCU20.png",
-      "price": 7790,
-      "orig": 18900,
-      "disc": 58,
-      "url": "https://toss.im/_m/JkNxG6IC",
+      "id": 1749003989,
+      "ko": "삼양식품 삼양라면, 120g, 20개",
+      "vi": "삼양식품 삼양라면, 120g, 20개",
+      "img": "https://shopping.toss.im/live/taca/ai/YzUyNGFh/T01uM2podHlQZHNiUG1adjNIQXpteXpoeTUyWGRFV0c1eG11Unp6Y1ZYdz0.png",
+      "price": 13090,
+      "orig": 35020,
+      "disc": 62,
+      "url": "https://toss.im/_m/71nv7P3A",
       "tr": {
-        "vi": "Food @ Home Jajangmyeon cay, 230g, 5 miếng",
-        "th": "Food@Home จาจังมยอนรสเผ็ด 230g 5 ชิ้น",
-        "km": "Food @ Home Spicy Jajangmyeon 230g 5 ដុំ",
-        "ne": "खाना @ गृह मसालेदार Jajangmyeon, 230 ग्राम, 5 टुक्रा",
-        "id": "Makanan @ Home Spicy Jajangmyeon, 230g, 5 buah",
-        "uz": "Oziq-ovqat @ Home Spicy Jajangmyeon, 230g, 5 dona",
-        "zh": "Food @ Home 辣炸酱面, 230g, 5 块",
-        "en": "Food @ Home Spicy Jajangmyeon, 230g, 5 pieces",
-        "tl": "Food @ Home Spicy Jajangmyeon, 230g, 5 piraso"
-      }
-    },
-    {
-      "cat": "food",
-      "id": 1736438091,
-      "ko": "국내산 닭도리탕, 간편조리, 1kg, 2-3인분, 1개",
-      "vi": "국내산 닭도리탕, 간편조리, 1kg, 2-3인분, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/MTAxMzM4/QUp1WmhuYk1VMDB4WG56N014OGJETHg0Wk04bU9QQTR4b0hESGxvZlF0WnQ.png",
-      "price": 12700,
-      "orig": 59900,
-      "disc": 78,
-      "url": "https://toss.im/_m/lJX13aS1",
-      "tr": {
-        "vi": "Gà hầm, nấu đơn giản, 1kg, 2-3 phần, 1 miếng",
-        "th": "สตูว์ไก่บ้าน ทำอาหารง่ายๆ 1กก. 2-3 ที่ 1 ชิ้น",
-        "km": "ស្ងោរ​មាន់​តាម​ផ្ទះ ការ​ធ្វើ​ម្ហូប​សាមញ្ញ ១ គីឡូក្រាម ២-៣ ដង ១ ដុំ",
-        "ne": "घरेलु कुखुराको स्ट्यु, साधारण पकाउने, १ किलो, २-३ सर्भिङ, १ टुक्रा",
-        "id": "Rebusan ayam kampung, masakan sederhana, 1kg, 2-3 porsi, 1 potong",
-        "uz": "Uy tovuq go'shti, oddiy pishirish, 1 kg, 2-3 porsiya, 1 dona",
-        "zh": "国产炖鸡，简单烹饪，1公斤，2-3人份，1块",
-        "en": "Domestic chicken stew, simple cooking, 1kg, 2-3 servings, 1 piece",
-        "tl": "Domestic chicken stew, simpleng pagluluto, 1kg, 2-3 servings, 1 piece"
+        "vi": "Samyang Food Samyang Ramen, 120g, 20 miếng",
+        "th": "ซัมยังฟู้ด ซัมยังราเมน 120ก. 20ชิ้น",
+        "km": "Samyang Food Samyang Ramen, 120g, 20 pieces",
+        "ne": "Samyang खाना Samyang Ramen, 120 ग्राम, 20 टुक्रा",
+        "id": "Makanan Samyang Samyang Ramen, 120g, 20 buah",
+        "tl": "Samyang Food Samyang Ramen, 120g, 20 piraso",
+        "uz": "Samyang Food Samyang Ramen, 120g, 20 dona",
+        "zh": "Samyang Food 三养拉面, 120g, 20个",
+        "en": "Samyang Food Samyang Ramen, 120g, 20 pieces"
       }
     },
     {
@@ -353,6 +331,28 @@
         "uz": "Gyodong mol go'shti suyagi sho'rva, 500g, 18 dona",
         "zh": "校洞牛骨汤, 500g, 18块",
         "en": "Gyodong beef bone soup, 500g, 18 pieces"
+      }
+    },
+    {
+      "cat": "food",
+      "id": 2221151387,
+      "ko": "외갓집 남도식 들녘 추어탕, 450g, 10팩",
+      "vi": "외갓집 남도식 들녘 추어탕, 450g, 10팩",
+      "img": "https://shopping.toss.im/live/taca/ai/MjhlMmQx/QVBka25PMDMyNElGQW45NS92bkE4enZYajhhTmg3Mk9ORFF3Y0hMTXc5aEQ.png",
+      "price": 29990,
+      "orig": 110000,
+      "disc": 72,
+      "url": "https://toss.im/_m/BNKMyvW4",
+      "tr": {
+        "vi": "Deulnyeochueotang kiểu Namdo, 450g, 10 gói",
+        "th": "โอกัตจิป นัมโด ดึลนยอชือทัง 450ก. 10 ซอง",
+        "km": "Oegatjip Namdo-style deulnyeochueotang, 450g, 10 កញ្ចប់",
+        "ne": "Oegatjip Namdo-शैली deulnyeochueotang, 450g, 10 प्याकहरू",
+        "id": "Deulnyeochueotang ala Oegatjip Namdo, 450g, 10 bungkus",
+        "uz": "Oegatjip Namdo uslubidagi deulnyeochueotang, 450g, 10 ta paket",
+        "zh": "Oegatjip Namdo 风格 deulnyeochueotang, 450g, 10 包",
+        "en": "Oegatjip Namdo-style deulnyeochueotang, 450g, 10 packs",
+        "tl": "Oegatjip Namdo-style deulnyeochueotang, 450g, 10 pack"
       }
     },
     {
@@ -577,25 +577,25 @@
     },
     {
       "cat": "deal",
-      "id": 1249402879,
-      "ko": "블로즈 엑소셀 마스크팩, 5매입, 1개",
-      "vi": "블로즈 엑소셀 마스크팩, 5매입, 1개",
-      "img": "https://shopping.toss.im/live/temp/2026-06-17/3e1cddbc-6714-42f9-9fbe-fe7f9a27698c.png",
-      "price": 3400,
-      "orig": 25800,
+      "id": 687621943,
+      "ko": "일양 코엔자임Q10 코큐텐 올인원케어, 550mg, 30캡슐, 2박스",
+      "vi": "일양 코엔자임Q10 코큐텐 올인원케어, 550mg, 30캡슐, 2박스",
+      "img": "https://shopping.toss.im/live/taca/ai/v2/Y2U0NzE4/QU03UDNqd3ZHOWFrUHpuRHdkeThJZVhNTU9IRGtPUTk1dVBodER5UjVWb2I.png",
+      "price": 10900,
+      "orig": 80000,
       "disc": 86,
-      "url": "https://toss.im/_m/VQ6CtKnm",
+      "url": "https://toss.im/_m/hOuA58OD",
       "endAt": "2026-08-20T23:59:59+09:00",
       "tr": {
-        "vi": "Gói mặt nạ Blossom Exocell, 5 tờ, 1 gói",
-        "th": "มาส์ก Blossom Exocell แพ็ค 5 แผ่น 1 แพ็ค",
-        "km": "Blossom Exocell mask pack 5សន្លឹក 1កញ្ចប់",
-        "ne": "Blossom Exocell मास्क प्याक, 5 पाना, 1 प्याक",
-        "id": "Masker Blossom Exocell isi 5 lembar, 1 bungkus",
-        "tl": "Blossom Exocell mask pack, 5 sheet, 1 pack",
-        "uz": "Blossom Exocell niqob to'plami, 5 varaq, 1 paket",
-        "zh": "Blossom Exocell 面膜，5 片，1 包",
-        "en": "Blossom Exocell mask pack, 5 sheets, 1 pack"
+        "vi": "Ilyang Coenzym Q10 CoQ10 Chăm sóc đa năng, 550mg, 30 viên, 2 hộp",
+        "th": "Ilyang Coenzyme Q10 CoQ10 All-in-One Care 550มก. 30 แคปซูล 2 กล่อง",
+        "km": "Ilyang Coenzyme Q10 CoQ10 All-in-One Care, 550mg, 30 capsules, 2 boxes",
+        "ne": "Ilyang Coenzyme Q10 CoQ10 अल-इन-वन केयर, 550mg, 30 क्याप्सुल, 2 बक्सहरू",
+        "id": "Ilyang Coenzyme Q10 CoQ10 Perawatan All-in-One, 550mg, 30 kapsul, 2 kotak",
+        "tl": "Ilyang Coenzyme Q10 CoQ10 All-in-One Care, 550mg, 30 kapsula, 2 kahon",
+        "uz": "Ilyang Coenzyme Q10 CoQ10 All-in-One Care, 550mg, 30 kapsula, 2 quti",
+        "zh": "Ilyang 辅酶 Q10 CoQ10 多合一护理，550 毫克，30 粒胶囊，2 盒",
+        "en": "Ilyang Coenzyme Q10 CoQ10 All-in-One Care, 550mg, 30 capsules, 2 boxes"
       }
     },
     {
@@ -627,9 +627,9 @@
       "ko": "배수구 클리너, 60g, 20개",
       "vi": "배수구 클리너, 60g, 20개",
       "img": "https://shopping.toss.im/live/temp/2026-08-18/ddfdf445-276e-4931-9fac-bff1f42c3a55.jpeg",
-      "price": 8796,
+      "price": 8776,
       "orig": 39900,
-      "disc": 77,
+      "disc": 78,
       "url": "https://toss.im/_m/7X5IPTqC",
       "endAt": "2026-08-20T23:59:59+09:00",
       "tr": {
