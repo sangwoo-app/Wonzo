@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:00:14.663Z",
+  "updated": "2026-08-21T09:00:04.384Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -119,9 +119,9 @@
       "ko": "써지오 컬러멀티탭, 3구개별, 그린, 1m, 2개",
       "vi": "써지오 컬러멀티탭, 3구개별, 그린, 1m, 2개",
       "img": "https://shopping.toss.im/live/temp/2025-12-26/a03759fc-186b-45fc-8372-f62fec36d272.jpeg",
-      "price": 17900,
+      "price": 16400,
       "orig": 47600,
-      "disc": 62,
+      "disc": 65,
       "url": "https://toss.im/_m/ThXH3fIa",
       "tr": {
         "vi": "Sergio màu đa chạm, 3 lỗ riêng lẻ, màu xanh lá cây, 1m, 2 chiếc",
@@ -600,29 +600,6 @@
     },
     {
       "cat": "deal",
-      "id": 1731148811,
-      "ko": "에이지랩 스네일 뮤신 브라이트닝 선크림, 70ml, 2개",
-      "vi": "에이지랩 스네일 뮤신 브라이트닝 선크림, 70ml, 2개",
-      "img": "https://shopping.toss.im/live/taca/ai/MzY1ZDY2/QUtiWkdiTlRXeVdweVN5YVhKU1Q2WlltMlRMUDAxaHRNVTJueVVRdEpiUlg.png",
-      "price": 8800,
-      "orig": 50000,
-      "disc": 82,
-      "url": "https://toss.im/_m/TY3S5Xu4",
-      "endAt": "2026-08-21T23:59:59+09:00",
-      "tr": {
-        "vi": "Kem chống nắng làm sáng da Age Lab Snail Mucin, 70ml, 2 chiếc",
-        "th": "เอจแล็บ สเนล มูซิน ไบรท์เทนนิ่ง ซัน ครีม 70มล. 2 ยูนิต",
-        "km": "Age Lab Snail Mucin Brightening Sun Cream 70ml 2 គ្រឿង",
-        "ne": "Age Lab Snail Mucin Brightening Sun Cream, 70ml, 2 एकाइहरू",
-        "id": "Age Lab Snail Mucin Krim Matahari Pencerah, 70ml, 2 unit",
-        "uz": "Age Lab Snail Mucin Brightening Quyosh kremi, 70ml, 2 dona",
-        "zh": "Age Lab 蜗牛粘蛋白亮白防晒霜，70ml，2 件",
-        "en": "Age Lab Snail Mucin Brightening Sun Cream, 70ml, 2 units",
-        "tl": "Age Lab Snail Mucin Brightening Sun Cream, 70ml, 2 units"
-      }
-    },
-    {
-      "cat": "deal",
       "id": 1901994627,
       "ko": "코코에르 심플 다이닝 4인세트, 내추럴/웜, 1세트",
       "vi": "코코에르 심플 다이닝 4인세트, 내추럴/웜, 1세트",
@@ -757,6 +734,29 @@
         "uz": "Butun tovuq go'shti Chuncheon Dakgalbi, 500g, 2 dona",
         "zh": "全鸡腿春川鸡排, 500g, 2块",
         "en": "Whole chicken leg Chuncheon Dakgalbi, 500g, 2 pieces"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 550565957,
+      "ko": "지리산수 생수, 라벨랜덤, 2L, 18개",
+      "vi": "지리산수 생수, 라벨랜덤, 2L, 18개",
+      "img": "https://shopping.toss.im/live/taca/ai/v2/ZTE2NGNm/T1RrV25oNlRqenppeDNEbm0ya1BIQzRmY0dYSGpGamJjTFN6RnBselpHUT0.png",
+      "price": 9400,
+      "orig": 26400,
+      "disc": 64,
+      "url": "https://toss.im/_m/vp8aOcq3",
+      "endAt": "2026-08-21T23:59:59+09:00",
+      "tr": {
+        "vi": "Nước đóng chai Jirisansu, nhãn ngẫu nhiên, 2L, 18 chiếc",
+        "th": "น้ำดื่มบรรจุขวดจิริซันซู ป้ายสุ่ม 2 ลิตร 18 ยูนิต",
+        "km": "ទឹកសុទ្ធម៉ាក Jirisansu ស្លាកចៃដន្យ 2L ចំនួន 18 គ្រឿង",
+        "ne": "Jirisansu बोतलबंद पानी, लेबल अनियमित, 2L, 18 एकाइहरू",
+        "id": "Air Minum Kemasan Jirisansu, Label Random, 2L, 18 Unit",
+        "tl": "Jirisansu bottled water, label na random, 2L, 18 units",
+        "uz": "Jirisansu shisha suvi, tasodifiy yorliq, 2L, 18 dona",
+        "zh": "Jirisansu 瓶装水，标签随机，2L，18 瓶",
+        "en": "Jirisansu bottled water, label random, 2L, 18 units"
       }
     },
     {
