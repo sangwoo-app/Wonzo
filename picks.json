@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T15:00:25.510Z",
+  "updated": "2026-08-22T21:00:41.012Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -269,6 +269,28 @@
     },
     {
       "cat": "food",
+      "id": 1469994201,
+      "ko": "농심, 신라면, 120g, 5봉 + 너구리, 120g, 5봉 + 짜파게티, 140g, 5봉 + 오징어짬뽕, 124g, 5봉",
+      "vi": "농심, 신라면, 120g, 5봉 + 너구리, 120g, 5봉 + 짜파게티, 140g, 5봉 + 오징어짬뽕, 124g, 5봉",
+      "img": "https://shopping.toss.im/live/taca/ai/ZDZlMDEy/UUU3bm9jKzJXa2EyL3B6TC83R2w3RWxFOHJrM0VkcmhZRms3RVdGVjVHND0.png",
+      "price": 19210,
+      "orig": 76510,
+      "disc": 74,
+      "url": "https://toss.im/_m/p68tfkTu",
+      "tr": {
+        "vi": "Nongshim, Shin Ramyun, 120g, 5 túi + Neoguri, 120g, 5 túi + Chapagetti, 140g, 5 túi + Mực Jjamppong, 124g, 5 túi",
+        "th": "นงชิม ชินรามยอน 120g 5 ถุง + นีโอกูริ 120g 5 ถุง + ชาปาเก็ตตี้ 140g 5 ถุง + จัมปงปลาหมึก 124g 5 ถุง",
+        "km": "Nongshim, Shin Ramyun, 120g, 5 ថង់ + Neoguri, 120g, 5 ថង់ + Chapagetti, 140g, 5 ថង់ + Squid Jjampong, 124g, 5 ថង់",
+        "ne": "नोङ्शिम, शिन राम्युन, १२० ग्राम, ५ झोला + निओगुरी, १२० ग्राम, ५ झोला + चापागेट्टी, १४० ग्राम, ५ झोला + स्क्विड जाम्पपोङ, १२४ ग्राम, ५ झोला",
+        "id": "Nongshim, Shin Ramyun, 120g, 5 kantong + Neoguri, 120g, 5 kantong + Chapagetti, 140g, 5 kantong + Cumi Jjamppong, 124g, 5 kantong",
+        "tl": "Nongshim, Shin Ramyun, 120g, 5 bags + Neoguri, 120g, 5 bags + Chapagetti, 140g, 5 bags + Squid Jjamppong, 124g, 5 bags",
+        "uz": "Nongshim, Shin Ramyun, 120g, 5 sumka + Neoguri, 120g, 5 sumka + Chapagetti, 140g, 5 sumka + Squid Jjampong, 124g, 5 sumka",
+        "zh": "农心辛拉面，120g，5袋 + Neoguri，120g，5袋 + Chapagetti，140g，5袋 + 鱿鱼Jjamppong，124g，5袋",
+        "en": "Nongshim, Shin Ramyun, 120g, 5 bags + Neoguri, 120g, 5 bags + Chapagetti, 140g, 5 bags + Squid Jjamppong, 124g, 5 bags"
+      }
+    },
+    {
+      "cat": "food",
       "id": 155766339,
       "ko": "푸드앳홈 매콤 짜장면, 230g, 5개",
       "vi": "푸드앳홈 매콤 짜장면, 230g, 5개",
@@ -287,28 +309,6 @@
         "zh": "Food @ Home 辣炸酱面, 230g, 5 块",
         "en": "Food @ Home Spicy Jajangmyeon, 230g, 5 pieces",
         "tl": "Food @ Home Spicy Jajangmyeon, 230g, 5 piraso"
-      }
-    },
-    {
-      "cat": "food",
-      "id": 81611643,
-      "ko": "농심 신라면, 120g, 5개 + 안성탕면, 125g, 5개 + 너구리, 120g, 5개 + 짜파게티, 140g, 5개",
-      "vi": "농심 신라면, 120g, 5개 + 안성탕면, 125g, 5개 + 너구리, 120g, 5개 + 짜파게티, 140g, 5개",
-      "img": "https://shopping.toss.im/live/taca/ai/YmZiZDRh/V1l2S2NEellaYWFqZE9uTnlTU1JvemVMRGxaY0s4TW1xOVNrK2FqVVd3WT0.png",
-      "price": 18470,
-      "orig": 36900,
-      "disc": 49,
-      "url": "https://toss.im/_m/jASJuoqt",
-      "tr": {
-        "vi": "Nongshim Shin Ramyun, 120g, 5 miếng + Anseongtangmyeon, 125g, 5 miếng + Neoguri, 120g, 5 miếng + Chapagetti, 140g, 5 miếng",
-        "th": "นงชิมชินรามยอน 120กรัม 5ชิ้น + อันซองทังมยอน 125กรัม 5ชิ้น + นอกุริ 120กรัม 5ชิ้น + ชาปาเก็ตตี้ 140กรัม 5ชิ้น",
-        "km": "Nongshim Shin Ramyun, 120g, 5 pieces + Anseongtangmyeon, 125g, 5 pieces + Neoguri, 120g, 5 pieces + Chapagetti, 140g, 5 pieces",
-        "ne": "नोङ्शिम शिन राम्युन, १२० ग्राम, ५ टुक्रा + आन्सेङटाङम्योन, १२५ ग्राम, ५ टुक्रा + निओगुरी, १२० ग्राम, ५ टुक्रा + चापेजट्टी, १४० ग्राम, ५ टुक्रा",
-        "id": "Nongshim Shin Ramyun, 120g, 5 buah + Anseongtangmyeon, 125g, 5 buah + Neoguri, 120g, 5 buah + Chapagetti, 140g, 5 buah",
-        "uz": "Nongshim Shin Ramyun, 120 gr, 5 dona + Anseongtangmyeon, 125 gr, 5 dona + Neoguri, 120 gr, 5 dona + Chapagetti, 140 gr, 5 dona",
-        "zh": "农心辛拉面，120g，5个+安城汤面，125g，5个+Neoguri，120g，5个+薄煎饼，140g，5个",
-        "en": "Nongshim Shin Ramyun, 120g, 5 pieces + Anseongtangmyeon, 125g, 5 pieces + Neoguri, 120g, 5 pieces + Chapagetti, 140g, 5 pieces",
-        "tl": "Nongshim Shin Ramyun, 120g, 5 piraso + Anseongtangmyeon, 125g, 5 piraso + Neoguri, 120g, 5 piraso + Chapagetti, 140g, 5 piraso"
       }
     },
     {
@@ -577,6 +577,54 @@
     },
     {
       "cat": "deal",
+      "id": 63645,
+      "ko": "레오폴디 두피케어 무선마사지기, VMK-N9722M, 1개",
+      "vi": "레오폴디 두피케어 무선마사지기, VMK-N9722M, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/NmNmZDI1/QUt5MmZsZXp5OU50dytsNE5nL0RzRHA5SmFRc0gwYkIvbXlVVHFIVWRCOVM.png",
+      "price": 16900,
+      "orig": 199000,
+      "disc": 91,
+      "url": "https://toss.im/_m/jDzIMYYv",
+      "endAt": "2026-08-23T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
+      "id": 390831281,
+      "ko": "수블랑 래피드 프레쉬 두피 케어 샴푸, 300ml, 2개",
+      "vi": "수블랑 래피드 프레쉬 두피 케어 샴푸, 300ml, 2개",
+      "img": "https://shopping.toss.im/live/temp/2026-07-30/16c741e8-a622-42a2-9e75-efed25a6ccf5.jpeg",
+      "price": 10800,
+      "orig": 86000,
+      "disc": 87,
+      "url": "https://toss.im/_m/dJrGypex",
+      "endAt": "2026-08-23T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
+      "id": 2621602863,
+      "ko": "남해안 자연산 활 돌문어, 1kg, 1개",
+      "vi": "남해안 자연산 활 돌문어, 1kg, 1개",
+      "img": "https://shopping.toss.im/live/temp/2026-08-20/f38b6c18-05b5-48df-80ea-9d688add7dfa.png",
+      "price": 18900,
+      "orig": 79900,
+      "disc": 76,
+      "url": "https://toss.im/_m/ZHxbHsEy",
+      "endAt": "2026-08-23T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
+      "id": 2620696325,
+      "ko": "U자 변기 청소솔, 랜덤, 2개",
+      "vi": "U자 변기 청소솔, 랜덤, 2개",
+      "img": "https://shopping.toss.im/live/temp/2026-08-20/a631abbb-f1b5-48a5-a9ee-2428bfa4d478.jpeg",
+      "price": 7300,
+      "orig": 28900,
+      "disc": 74,
+      "url": "https://toss.im/_m/fo4xoBZA",
+      "endAt": "2026-08-23T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
       "id": 2211772279,
       "ko": "설탕바나나, 3kg, 1박스",
       "vi": "설탕바나나, 3kg, 1박스",
@@ -600,26 +648,15 @@
     },
     {
       "cat": "deal",
-      "id": 2280887773,
-      "ko": "리퍼 테팔 인덕션 티타늄 마스터쿡 4종, 프라이팬, 22cm, 1개 + 28cm, 1개 + 볶음팬, 28cm, 1개 + 유리뚜껑, 28cm, 1개",
-      "vi": "리퍼 테팔 인덕션 티타늄 마스터쿡 4종, 프라이팬, 22cm, 1개 + 28cm, 1개 + 볶음팬, 28cm, 1개 + 유리뚜껑, 28cm, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/YzhiYWNm/QU01NnBueE5mSkpqZElkWkI1bG5qVFJ5MkdtZUpXblduSmdrTGtuSG5OR20.png",
-      "price": 63900,
-      "orig": 219000,
+      "id": 2545973181,
+      "ko": "센티베르 저분자 히알루론산 토너, 1000ml, 2개",
+      "vi": "센티베르 저분자 히알루론산 토너, 1000ml, 2개",
+      "img": "https://shopping.toss.im/live/temp/2026-07-27/f0fa86c0-f8ea-419a-a698-9fe16837e923.jpeg",
+      "price": 11900,
+      "orig": 40000,
       "disc": 70,
-      "url": "https://toss.im/_m/t24UUHfn",
-      "endAt": "2026-08-23T23:59:59+09:00",
-      "tr": {
-        "vi": "Reaper Tefal Cảm Ứng Titanium Master Cook 4 loại, chảo rán, 22cm, 1 cái + 28cm, 1 cái + chảo xào, 28cm, 1 cái + nắp kính, 28cm, 1 cái",
-        "th": "Reaper Tefal Induction Titanium Master Cook 4 แบบ กระทะทอด 22ซม. 1 ชิ้น + 28ซม. 1 ชิ้น + กระทะผัด 28ซม. 1 ชิ้น + ฝาแก้ว 28ซม. 1 ชิ้น",
-        "km": "Reaper Tefal Induction Titanium Master Cook មាន 4 ប្រភេទ ខ្ទះចៀន 22cm, 1ដុំ + 28cm, 1ដុំ + ខ្ទះចៀន 28cm, 1ដុំ + គំរបកញ្ចក់ 28cm, 1ដុំ",
-        "ne": "रीपर टेफल इन्डक्सन टाइटेनियम मास्टर कुक ४ प्रकारका, फ्राइङ प्यान, २२ सेमी, १ टुक्रा + २८ सेमी, १ टुक्रा + स्टिर-फ्राइ प्यान, २८ सेमी, १ टुक्रा + गिलासको ढक्कन, २८ सेमी, १ टुक्रा",
-        "id": "Reaper Tefal Induksi Titanium Master Cook 4 jenis, penggorengan, 22cm, 1 buah + 28cm, 1 buah + wajan tumis, 28cm, 1 buah + tutup kaca, 28cm, 1 buah",
-        "tl": "Reaper Tefal Induction Titanium Master Cook 4 na uri, kawali, 22cm, 1 piraso + 28cm, 1 piraso + stir-fry pan, 28cm, 1 piraso + takip ng salamin, 28cm, 1 piraso",
-        "uz": "Oʻroq Tefal Induction Titanium Master Cook 4 turdagi, skovorodka, 22 sm, 1 dona + 28 sm, 1 dona + qovurilgan idish, 28 sm, 1 dona + shisha qopqoq, 28 sm, 1 dona",
-        "zh": "Reaper Tefal 电磁炉钛金Master Cook 4款，煎锅22cm，1件+28cm，1件+炒锅，28cm，1件+玻璃盖，28cm，1件",
-        "en": "Reaper Tefal Induction Titanium Master Cook 4 types, frying pan, 22cm, 1 piece + 28cm, 1 piece + stir-fry pan, 28cm, 1 piece + glass lid, 28cm, 1 piece"
-      }
+      "url": "https://toss.im/_m/hozoa2fC",
+      "endAt": "2026-08-23T23:59:59+09:00"
     },
     {
       "cat": "deal",
@@ -646,118 +683,15 @@
     },
     {
       "cat": "deal",
-      "id": 481367503,
-      "ko": "솔티스 눈 프로텍션 프로S3, 11g, 20캡슐, 3개",
-      "vi": "솔티스 눈 프로텍션 프로S3, 11g, 20캡슐, 3개",
-      "img": "https://shopping.toss.im/live/taca/ai/Y2Y1YzE0/QU01Yk1JdzVXOGR6TUM1dWU4Wk91WnpMZS9ic2w0VFpwRit4bEtRWHBXdGI.png",
-      "price": 32500,
-      "orig": 101700,
-      "disc": 68,
-      "url": "https://toss.im/_m/nFM023Ep",
-      "endAt": "2026-08-23T23:59:59+09:00",
-      "tr": {
-        "vi": "Soltis Eye Protection Pro S3, 11g, 20 viên, 3 chiếc",
-        "th": "Soltis Eye Protection Pro S3, 11g, 20 แคปซูล, 3 ยูนิต",
-        "km": "Soltis Eye Protection Pro S3, 11g, 20 capsules, 3 units",
-        "ne": "Soltis Eye Protection Pro S3, 11g, 20 क्याप्सुल, 3 इकाइहरू",
-        "id": "Soltis Eye Protection Pro S3, 11g, 20 kapsul, 3 unit",
-        "tl": "Soltis Eye Protection Pro S3, 11g, 20 kapsula, 3 unit",
-        "uz": "Soltis Eye Protection Pro S3, 11g, 20 kapsula, 3 dona",
-        "zh": "Soltis Eye Protection Pro S3，11 克，20 粒胶囊，3 粒",
-        "en": "Soltis Eye Protection Pro S3, 11g, 20 capsules, 3 units"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 1354289893,
-      "ko": "패치큐 나인슬림 다이어트 패치, 10매입, 1팩",
-      "vi": "패치큐 나인슬림 다이어트 패치, 10매입, 1팩",
-      "img": "https://shopping.toss.im/live/taca/ai/YTFkNjBl/QU9lRENCNzM0WGdGSjNFNXpNNHhJLzc0d1UrNUEzNzdpQUF6OG5KN25BUWI.png",
-      "price": 11700,
-      "orig": 33100,
-      "disc": 64,
-      "url": "https://toss.im/_m/laD5ZTbs",
-      "endAt": "2026-08-23T23:59:59+09:00",
-      "tr": {
-        "vi": "Miếng dán Q Nine Slim Diet Patch, 10 tờ, 1 gói",
-        "th": "Patch Q Nine Slim Diet Patch 10 แผ่น 1 แพ็ค",
-        "km": "Patch Q Nine Slim Diet Patch 10សន្លឹក 1កញ្ចប់",
-        "ne": "प्याच Q नौ स्लिम आहार प्याच, 10 पानाहरू, 1 प्याक",
-        "id": "Patch Q Nine Slim Diet Patch, 10 lembar, 1 bungkus",
-        "tl": "Patch Q Nine Slim Diet Patch, 10 sheet, 1 pack",
-        "uz": "Patch Q Nine Slim Diet Patch, 10 varaq, 1 paket",
-        "zh": "Patch Q 九号减肥贴，10 片，1 包",
-        "en": "Patch Q Nine Slim Diet Patch, 10 sheets, 1 pack"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 2590078561,
-      "ko": "수선비 굳는 완벽핏 자석 고정 클립, 3개입, 2세트",
-      "vi": "수선비 굳는 완벽핏 자석 고정 클립, 3개입, 2세트",
-      "img": "https://shopping.toss.im/live/temp/2026-07-24/073cc754-8f05-4f27-a27b-0ec69e77ec3e.jpeg",
-      "price": 9800,
-      "orig": 27800,
-      "disc": 64,
-      "url": "https://toss.im/_m/91i0iiKu",
-      "endAt": "2026-08-23T23:59:59+09:00",
-      "tr": {
-        "vi": "Phí sửa chữa kẹp cố định từ tính vừa khít hoàn hảo, 3 cái, 2 bộ",
-        "th": "ค่าซ่อมคลิปยึดแม่เหล็ก Perfect Fit 3 ชิ้น 2 ชุด",
-        "km": "ថ្លៃជួសជុលរឹង ឈុតជួសជុលម៉ាញេទិកសមឥតខ្ចោះ 3 ដុំ 2 ឈុត",
-        "ne": "मर्मत शुल्क कडा बनाउने उत्तम फिट चुम्बकीय फिक्सिङ क्लिप, 3 टुक्रा, 2 सेट",
-        "id": "Pengerasan biaya perbaikan klip pemasangan magnetik yang pas, 3 buah, 2 set",
-        "tl": "Repair fee hardening perfect fit magnetic fixing clip, 3 piraso, 2 sets",
-        "uz": "Ta'mirlash to'lovi qattiqlashuvchi mukammal mos magnit mahkamlash klipi, 3 dona, 2 to'plam",
-        "zh": "维修费硬化完美贴合磁性固定夹，3 件，2 套",
-        "en": "Repair fee hardening perfect fit magnetic fixing clip, 3 pieces, 2 sets"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 149265101,
-      "ko": "올바른 두뇌 인지력엔 포스파티딜세린 PS 300, 300mg, 30포, 3개",
-      "vi": "올바른 두뇌 인지력엔 포스파티딜세린 PS 300, 300mg, 30포, 3개",
-      "img": "https://shopping.toss.im/live/taca/ai/NzEzZGU4/STdiQnBwdFA1SHRlZVQzR0YvRzgxRk9KazB1dkNWY04vMlgwbzNyVUtkQT0.png",
-      "price": 29900,
-      "orig": 79900,
-      "disc": 62,
-      "url": "https://toss.im/_m/RSLoacWv",
-      "endAt": "2026-08-23T23:59:59+09:00",
-      "tr": {
-        "vi": "Hỗ trợ trí não nhận thức tốt Phosphatidylserine PS 300, 300mg, 30 gói, 3 chiếc",
-        "th": "เพื่อความรู้ความเข้าใจของสมองที่เหมาะสม Phosphatidylserine PS 300 300มก. 30 ซอง 3 ยูนิต",
-        "km": "សម្រាប់ការយល់ដឹងត្រឹមត្រូវនៃខួរក្បាល Phosphatidylserine PS 300, 300mg, 30 កញ្ចប់, 3 units",
-        "ne": "उचित मस्तिष्क अनुभूतिको लागि, Phosphatidylserine PS 300, 300mg, 30 प्याकेटहरू, 3 एकाइहरू",
-        "id": "Untuk kognisi otak yang tepat, Phosphatidylserine PS 300, 300mg, 30 paket, 3 unit",
-        "tl": "Para sa wastong pag-unawa sa utak, Phosphatidylserine PS 300, 300mg, 30 packet, 3 units",
-        "uz": "Miyani to'g'ri bilish uchun Fosfatidilserin PS 300, 300 mg, 30 paket, 3 birlik",
-        "zh": "为了维持正确的大脑认知，磷脂酰丝氨酸 PS 300，300 毫克，30 包，3 单位",
-        "en": "For proper brain cognition, Phosphatidylserine PS 300, 300mg, 30 packets, 3 units"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 2549076539,
-      "ko": "돈시몬 유기농 착즙 레몬, 25g, 50개",
-      "vi": "돈시몬 유기농 착즙 레몬, 25g, 50개",
-      "img": "https://shopping.toss.im/live/temp/2026-07-28/565a4d7f-2a85-410f-bded-0cb1dc9a2930.png",
-      "price": 9800,
-      "orig": 24900,
-      "disc": 60,
-      "url": "https://toss.im/_m/dSNOWQ9x",
-      "endAt": "2026-08-23T23:59:59+09:00",
-      "tr": {
-        "vi": "Nước ép chanh hữu cơ Don Simon, 25g, 50 miếng",
-        "th": "ดอน ไซมอน น้ำมะนาวออร์แกนิก 25ก. 50ชิ้น",
-        "km": "Don Simon Organic Juiced Lemon, ២៥ ក្រាម, ៥០ ដុំ",
-        "ne": "डन साइमन अर्गानिक जुस लेमन, 25 ग्राम, 50 टुक्रा",
-        "id": "Don Simon Organik Jus Lemon, 25g, 50 buah",
-        "tl": "Don Simon Organic Juiced Lemon, 25g, 50 piraso",
-        "uz": "Don Simon Organik sharbatli limon, 25 g, 50 dona",
-        "zh": "Don Simon 有机柠檬汁，25g，50 粒",
-        "en": "Don Simon Organic Juiced Lemon, 25g, 50 pieces"
-      }
+      "id": 1901664999,
+      "ko": "아스파시아 모이스트 업 페이스 미스트 알로에, 150ml, 2개",
+      "vi": "아스파시아 모이스트 업 페이스 미스트 알로에, 150ml, 2개",
+      "img": "https://shopping.toss.im/live/temp/2026-05-08/59a26a03-9718-4476-b36a-d7c975777b01.png",
+      "price": 6900,
+      "orig": 20000,
+      "disc": 65,
+      "url": "https://toss.im/_m/xpF6utFD",
+      "endAt": "2026-08-23T23:59:59+09:00"
     },
     {
       "cat": "home",
