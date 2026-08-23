@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T15:01:13.511Z",
+  "updated": "2026-08-23T21:01:16.441Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -258,6 +258,28 @@
     },
     {
       "cat": "food",
+      "id": 1469994201,
+      "ko": "농심, 신라면, 120g, 5봉 + 너구리, 120g, 5봉 + 짜파게티, 140g, 5봉 + 오징어짬뽕, 124g, 5봉",
+      "vi": "농심, 신라면, 120g, 5봉 + 너구리, 120g, 5봉 + 짜파게티, 140g, 5봉 + 오징어짬뽕, 124g, 5봉",
+      "img": "https://shopping.toss.im/live/taca/ai/ZDZlMDEy/UUU3bm9jKzJXa2EyL3B6TC83R2w3RWxFOHJrM0VkcmhZRms3RVdGVjVHND0.png",
+      "price": 19310,
+      "orig": 76510,
+      "disc": 74,
+      "url": "https://toss.im/_m/p68tfkTu",
+      "tr": {
+        "vi": "Nongshim, Shin Ramyun, 120g, 5 túi + Neoguri, 120g, 5 túi + Chapagetti, 140g, 5 túi + Mực Jjamppong, 124g, 5 túi",
+        "th": "นงชิม ชินรามยอน 120g 5 ถุง + นีโอกูริ 120g 5 ถุง + ชาปาเก็ตตี้ 140g 5 ถุง + จัมปงปลาหมึก 124g 5 ถุง",
+        "km": "Nongshim, Shin Ramyun, 120g, 5 ថង់ + Neoguri, 120g, 5 ថង់ + Chapagetti, 140g, 5 ថង់ + Squid Jjampong, 124g, 5 ថង់",
+        "ne": "नोङ्शिम, शिन राम्युन, १२० ग्राम, ५ झोला + निओगुरी, १२० ग्राम, ५ झोला + चापागेट्टी, १४० ग्राम, ५ झोला + स्क्विड जाम्पपोङ, १२४ ग्राम, ५ झोला",
+        "id": "Nongshim, Shin Ramyun, 120g, 5 kantong + Neoguri, 120g, 5 kantong + Chapagetti, 140g, 5 kantong + Cumi Jjamppong, 124g, 5 kantong",
+        "tl": "Nongshim, Shin Ramyun, 120g, 5 bags + Neoguri, 120g, 5 bags + Chapagetti, 140g, 5 bags + Squid Jjamppong, 124g, 5 bags",
+        "uz": "Nongshim, Shin Ramyun, 120g, 5 sumka + Neoguri, 120g, 5 sumka + Chapagetti, 140g, 5 sumka + Squid Jjampong, 124g, 5 sumka",
+        "zh": "农心辛拉面，120g，5袋 + Neoguri，120g，5袋 + Chapagetti，140g，5袋 + 鱿鱼Jjamppong，124g，5袋",
+        "en": "Nongshim, Shin Ramyun, 120g, 5 bags + Neoguri, 120g, 5 bags + Chapagetti, 140g, 5 bags + Squid Jjamppong, 124g, 5 bags"
+      }
+    },
+    {
+      "cat": "food",
       "id": 155766339,
       "ko": "푸드앳홈 매콤 짜장면, 230g, 5개",
       "vi": "푸드앳홈 매콤 짜장면, 230g, 5개",
@@ -276,28 +298,6 @@
         "zh": "Food @ Home 辣炸酱面, 230g, 5 块",
         "en": "Food @ Home Spicy Jajangmyeon, 230g, 5 pieces",
         "tl": "Food @ Home Spicy Jajangmyeon, 230g, 5 piraso"
-      }
-    },
-    {
-      "cat": "food",
-      "id": 81611643,
-      "ko": "농심 신라면, 120g, 5개 + 안성탕면, 125g, 5개 + 너구리, 120g, 5개 + 짜파게티, 140g, 5개",
-      "vi": "농심 신라면, 120g, 5개 + 안성탕면, 125g, 5개 + 너구리, 120g, 5개 + 짜파게티, 140g, 5개",
-      "img": "https://shopping.toss.im/live/taca/ai/YmZiZDRh/V1l2S2NEellaYWFqZE9uTnlTU1JvemVMRGxaY0s4TW1xOVNrK2FqVVd3WT0.png",
-      "price": 18470,
-      "orig": 36900,
-      "disc": 49,
-      "url": "https://toss.im/_m/jASJuoqt",
-      "tr": {
-        "vi": "Nongshim Shin Ramyun, 120g, 5 miếng + Anseongtangmyeon, 125g, 5 miếng + Neoguri, 120g, 5 miếng + Chapagetti, 140g, 5 miếng",
-        "th": "นงชิมชินรามยอน 120กรัม 5ชิ้น + อันซองทังมยอน 125กรัม 5ชิ้น + นอกุริ 120กรัม 5ชิ้น + ชาปาเก็ตตี้ 140กรัม 5ชิ้น",
-        "km": "Nongshim Shin Ramyun, 120g, 5 pieces + Anseongtangmyeon, 125g, 5 pieces + Neoguri, 120g, 5 pieces + Chapagetti, 140g, 5 pieces",
-        "ne": "नोङ्शिम शिन राम्युन, १२० ग्राम, ५ टुक्रा + आन्सेङटाङम्योन, १२५ ग्राम, ५ टुक्रा + निओगुरी, १२० ग्राम, ५ टुक्रा + चापेजट्टी, १४० ग्राम, ५ टुक्रा",
-        "id": "Nongshim Shin Ramyun, 120g, 5 buah + Anseongtangmyeon, 125g, 5 buah + Neoguri, 120g, 5 buah + Chapagetti, 140g, 5 buah",
-        "uz": "Nongshim Shin Ramyun, 120 gr, 5 dona + Anseongtangmyeon, 125 gr, 5 dona + Neoguri, 120 gr, 5 dona + Chapagetti, 140 gr, 5 dona",
-        "zh": "农心辛拉面，120g，5个+安城汤面，125g，5个+Neoguri，120g，5个+薄煎饼，140g，5个",
-        "en": "Nongshim Shin Ramyun, 120g, 5 pieces + Anseongtangmyeon, 125g, 5 pieces + Neoguri, 120g, 5 pieces + Chapagetti, 140g, 5 pieces",
-        "tl": "Nongshim Shin Ramyun, 120g, 5 piraso + Anseongtangmyeon, 125g, 5 piraso + Neoguri, 120g, 5 piraso + Chapagetti, 140g, 5 piraso"
       }
     },
     {
@@ -405,9 +405,9 @@
       "ko": "바다랑 진짜 파김치, 1kg, 1개",
       "vi": "바다랑 진짜 파김치, 1kg, 1개",
       "img": "https://shopping.toss.im/live/taca/ai/YWUyMjY0/QU9Mc0Fidm53NlVKQ0h2SzFpNlUvVEdCU1JiZVBYTHhSZENKcFVvbmFabG4.png",
-      "price": 8000,
+      "price": 8200,
       "orig": 19000,
-      "disc": 68,
+      "disc": 67,
       "url": "https://toss.im/_m/D2cEzZR5",
       "tr": {
         "vi": "Kim chi hành lá Badarang thật, 1 kg, 1 miếng",
@@ -543,6 +543,18 @@
     },
     {
       "cat": "deal",
+      "id": 1443644129,
+      "ko": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
+      "vi": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
+      "img": "https://shopping.toss.im/live/taca/ai/MDAwYTE4/TXpZeU5tWmxhejZaT1pseDJqSWNKd0xtWXRaN0NWb1M0V2lsdEY2bXBLND0.png",
+      "price": 4900,
+      "orig": 150000,
+      "disc": 96,
+      "url": "https://toss.im/_m/rwY8saKf",
+      "endAt": "2026-08-24T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
       "id": 264130953,
       "ko": "아스파시아 퍼퓸 샤워 코롱 돌체베르, 150ml, 2개",
       "vi": "아스파시아 퍼퓸 샤워 코롱 돌체베르, 150ml, 2개",
@@ -551,6 +563,18 @@
       "orig": 50000,
       "disc": 81,
       "url": "https://toss.im/_m/HdZw8mdb",
+      "endAt": "2026-08-24T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
+      "id": 1054244129,
+      "ko": "당연구소 귀리뻥, 40g, 10봉",
+      "vi": "당연구소 귀리뻥, 40g, 10봉",
+      "img": "https://shopping.toss.im/live/taca/ai/OGYwNTBl/QUlsTXpubVdiTzlOYTB4WXpkbHNtUTR4MlRtc0xZMzJzSVkxaDd6N1JGcEQ.png",
+      "price": 8900,
+      "orig": 40000,
+      "disc": 77,
+      "url": "https://toss.im/_m/5PP9bn1h",
       "endAt": "2026-08-24T23:59:59+09:00"
     },
     {
@@ -579,38 +603,26 @@
     },
     {
       "cat": "deal",
-      "id": 1666717281,
-      "ko": "고당도 하우스 수박, 3kg, 1박스",
-      "vi": "고당도 하우스 수박, 3kg, 1박스",
-      "img": "https://shopping.toss.im/live/temp/2026-04-24/456186b5-f941-403b-8c6a-0cd15d28bed9.jpeg",
+      "id": 843874559,
+      "ko": "슈베스 위드코튼 유기농 순면커버 생리대, 중형, 14개입, 1팩",
+      "vi": "슈베스 위드코튼 유기농 순면커버 생리대, 중형, 14개입, 1팩",
+      "img": "https://shopping.toss.im/live/taca/ai/ODkwYzA4/QU5jMk56VE13NXVaek5QbTV6TWV0Yk16SEROdHpNeE9Ic3pNakp6VExQSHA.png",
+      "price": 2900,
+      "orig": 7900,
+      "disc": 63,
+      "url": "https://toss.im/_m/jrvJiTJk",
+      "endAt": "2026-08-24T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
+      "id": 12151719,
+      "ko": "생활소품 일회용 위생수세미, 그레이, 60매, 4개",
+      "vi": "생활소품 일회용 위생수세미, 그레이, 60매, 4개",
+      "img": "https://shopping.toss.im/live/taca/ai/YTE4ZDdi/VGRCK0p6Z3ZiMmVISnJtY3VZM2Zjb1VuWm5MbUo3M2JHRnMwTjFsUXQ2VT0.png",
       "price": 8900,
-      "orig": 24900,
-      "disc": 64,
-      "url": "https://toss.im/_m/7ObLJs2g",
-      "endAt": "2026-08-24T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 2607949769,
-      "ko": "종근당 락토핏 골드, 140포, 2통 + 증정 락토핏 골드, 30포, 2개",
-      "vi": "종근당 락토핏 골드, 140포, 2통 + 증정 락토핏 골드, 30포, 2개",
-      "img": "https://shopping.toss.im/live/temp/2026-08-21/eb42f0c9-20e5-4d64-a779-3da9aedbef64.jpeg",
-      "price": 55900,
-      "orig": 148400,
-      "disc": 62,
-      "url": "https://toss.im/_m/hO33qGmh",
-      "endAt": "2026-08-24T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 104612267,
-      "ko": "모나리자 보타닉포레 소프트 화장지, 3겹, 30m, 30롤, 2팩",
-      "vi": "모나리자 보타닉포레 소프트 화장지, 3겹, 30m, 30롤, 2팩",
-      "img": "https://shopping.toss.im/live/taca/ai/NjcwMWRh/ZlU3cFhKd3VIc2REeHJZNWVjN2g1K1p4TmpHWm1ac09jL0ZHcCtuUXFWZz0.png",
-      "price": 23900,
-      "orig": 61900,
-      "disc": 61,
-      "url": "https://toss.im/_m/de35DWHi",
+      "orig": 22800,
+      "disc": 60,
+      "url": "https://toss.im/_m/zfaKnLgn",
       "endAt": "2026-08-24T23:59:59+09:00"
     },
     {
@@ -623,18 +635,6 @@
       "orig": 24000,
       "disc": 59,
       "url": "https://toss.im/_m/Hyeg2LMj",
-      "endAt": "2026-08-24T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 1455416743,
-      "ko": "과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
-      "vi": "과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
-      "img": "https://shopping.toss.im/live/taca/ai/ZWM2YTc4/YWVXV0laWWFhYzc4Zno5QjFQckovaXRsYmUvSjV6d2JOakRUNVRaeDAyVT0.png",
-      "price": 13800,
-      "orig": 32900,
-      "disc": 58,
-      "url": "https://toss.im/_m/DUuQNb2l",
       "endAt": "2026-08-24T23:59:59+09:00"
     },
     {
