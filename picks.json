@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T03:01:00.665Z",
+  "updated": "2026-08-23T09:01:00.809Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -401,24 +401,24 @@
     },
     {
       "cat": "food",
-      "id": 99367913,
-      "ko": "바른 전라도 열무자박이, 3kg, 1박스",
-      "vi": "바른 전라도 열무자박이, 3kg, 1박스",
-      "img": "https://shopping.toss.im/live/taca/ai/ZDk1ZGIx/QUlMS05GdmRhREZpdkk5NHVDdGxMbGV5bnJubEYrdG95b2U1UzA5bmc4Zk8.png",
-      "price": 15900,
-      "orig": 43000,
-      "disc": 67,
-      "url": "https://toss.im/_m/748wYi9d",
+      "id": 134321499,
+      "ko": "바다랑 진짜 파김치, 1kg, 1개",
+      "vi": "바다랑 진짜 파김치, 1kg, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/YWUyMjY0/QU9Mc0Fidm53NlVKQ0h2SzFpNlUvVEdCU1JiZVBYTHhSZENKcFVvbmFabG4.png",
+      "price": 8000,
+      "orig": 19000,
+      "disc": 68,
+      "url": "https://toss.im/_m/D2cEzZR5",
       "tr": {
-        "vi": "Jeolla-do Yeolradish Jabagi thích hợp, 3kg, 1 hộp",
-        "th": "จอลลา-โด ยอลแรดิช จาบากิ เหมาะสม 3กก. 1 กล่อง",
-        "km": "Jeolla-do Yeolradish Jabagi ត្រឹមត្រូវ 3kg 1ប្រអប់",
-        "ne": "उचित Jeolla-do Yeolradish Jabagi, 3kg, 1 बक्स",
-        "id": "Jeolla-do Yeolradish Jabagi yang tepat, 3kg, 1 kotak",
-        "tl": "Wastong Jeolla-do Yeolradish Jabagi, 3kg, 1 box",
-        "uz": "To'g'ri Jeolla-do Yeolradish Jabagi, 3kg, 1 quti",
-        "zh": "正品全罗道萝卜酱, 3kg, 1盒",
-        "en": "Proper Jeolla-do Yeolradish Jabagi, 3kg, 1 box"
+        "vi": "Kim chi hành lá Badarang thật, 1 kg, 1 miếng",
+        "th": "กิมจิต้นหอมบาดารัง 1กก. 1 ชิ้น",
+        "km": "គីមឈី ខ្ទឹមបារាំងបៃតង បាដារ៉ាង ១គីឡូក្រាម ១ដុំ",
+        "ne": "Badarang असली हरियो प्याज किम्ची, 1 किलो, 1 टुक्रा",
+        "id": "Badarang kimchi daun bawang asli, 1 kg, 1 buah",
+        "uz": "Badarang haqiqiy yashil piyoz kimchi, 1 kg, 1 dona",
+        "zh": "巴达朗正宗葱泡菜，1 公斤，1 个",
+        "en": "Badarang real green onion kimchi, 1 kg, 1 piece",
+        "tl": "Badarang tunay na berdeng sibuyas na kimchi, 1 kg, 1 piraso"
       }
     },
     {
