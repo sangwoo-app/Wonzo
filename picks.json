@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T15:01:20.918Z",
+  "updated": "2026-08-24T21:01:12.312Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -257,6 +257,28 @@
     },
     {
       "cat": "food",
+      "id": 1469994201,
+      "ko": "농심, 신라면, 120g, 5봉 + 너구리, 120g, 5봉 + 짜파게티, 140g, 5봉 + 오징어짬뽕, 124g, 5봉",
+      "vi": "농심, 신라면, 120g, 5봉 + 너구리, 120g, 5봉 + 짜파게티, 140g, 5봉 + 오징어짬뽕, 124g, 5봉",
+      "img": "https://shopping.toss.im/live/taca/ai/ZDZlMDEy/UUU3bm9jKzJXa2EyL3B6TC83R2w3RWxFOHJrM0VkcmhZRms3RVdGVjVHND0.png",
+      "price": 21590,
+      "orig": 76510,
+      "disc": 71,
+      "url": "https://toss.im/_m/p68tfkTu",
+      "tr": {
+        "vi": "Nongshim, Shin Ramyun, 120g, 5 túi + Neoguri, 120g, 5 túi + Chapagetti, 140g, 5 túi + Mực Jjamppong, 124g, 5 túi",
+        "th": "นงชิม ชินรามยอน 120g 5 ถุง + นีโอกูริ 120g 5 ถุง + ชาปาเก็ตตี้ 140g 5 ถุง + จัมปงปลาหมึก 124g 5 ถุง",
+        "km": "Nongshim, Shin Ramyun, 120g, 5 ថង់ + Neoguri, 120g, 5 ថង់ + Chapagetti, 140g, 5 ថង់ + Squid Jjampong, 124g, 5 ថង់",
+        "ne": "नोङ्शिम, शिन राम्युन, १२० ग्राम, ५ झोला + निओगुरी, १२० ग्राम, ५ झोला + चापागेट्टी, १४० ग्राम, ५ झोला + स्क्विड जाम्पपोङ, १२४ ग्राम, ५ झोला",
+        "id": "Nongshim, Shin Ramyun, 120g, 5 kantong + Neoguri, 120g, 5 kantong + Chapagetti, 140g, 5 kantong + Cumi Jjamppong, 124g, 5 kantong",
+        "tl": "Nongshim, Shin Ramyun, 120g, 5 bags + Neoguri, 120g, 5 bags + Chapagetti, 140g, 5 bags + Squid Jjamppong, 124g, 5 bags",
+        "uz": "Nongshim, Shin Ramyun, 120g, 5 sumka + Neoguri, 120g, 5 sumka + Chapagetti, 140g, 5 sumka + Squid Jjampong, 124g, 5 sumka",
+        "zh": "农心辛拉面，120g，5袋 + Neoguri，120g，5袋 + Chapagetti，140g，5袋 + 鱿鱼Jjamppong，124g，5袋",
+        "en": "Nongshim, Shin Ramyun, 120g, 5 bags + Neoguri, 120g, 5 bags + Chapagetti, 140g, 5 bags + Squid Jjamppong, 124g, 5 bags"
+      }
+    },
+    {
+      "cat": "food",
       "id": 155766339,
       "ko": "푸드앳홈 매콤 짜장면, 230g, 5개",
       "vi": "푸드앳홈 매콤 짜장면, 230g, 5개",
@@ -276,17 +298,6 @@
         "en": "Food @ Home Spicy Jajangmyeon, 230g, 5 pieces",
         "tl": "Food @ Home Spicy Jajangmyeon, 230g, 5 piraso"
       }
-    },
-    {
-      "cat": "food",
-      "id": 684623745,
-      "ko": "농심 신신너짜, 신라면 10봉 + 너구리 5봉 + 짜파게티 5봉, 20봉",
-      "vi": "농심 신신너짜, 신라면 10봉 + 너구리 5봉 + 짜파게티 5봉, 20봉",
-      "img": "https://shopping.toss.im/live/temp/2026-01-22/dd41694a-8fc8-47c5-a50b-11028a907d9f.png",
-      "price": 17060,
-      "orig": 30000,
-      "disc": 43,
-      "url": "https://toss.im/_m/9mJaQgMo"
     },
     {
       "cat": "food",
@@ -487,28 +498,6 @@
     },
     {
       "cat": "life",
-      "id": 1732110681,
-      "ko": "광동 썬키스트 피스타치오 언스위트, 190ml, 24개",
-      "vi": "광동 썬키스트 피스타치오 언스위트, 190ml, 24개",
-      "img": "https://shopping.toss.im/live/taca/ai/YmFiNjkz/QU1lZGIxeDYyUmFuYTNMTDNMU05yYlJVanl0YWVuUFVwNlhRMk0rbDBDdFU.png",
-      "price": 7700,
-      "orig": 27900,
-      "disc": 72,
-      "url": "https://toss.im/_m/7yUTq2Yb",
-      "tr": {
-        "vi": "Quả hồ trăn Sunkist Quảng Đông không đường, 190ml, 24 miếng",
-        "th": "กวางตุ้ง ซันคิสท์ พิสตาชิโอ รสไม่หวาน 190มล. 24 ชิ้น",
-        "km": "Guangdong Sunkist Pistachio Unsweetened, 190ml, 24 ដុំ",
-        "ne": "गुआंग्डोंग सनकिस्ट पिस्ता नमिठो, 190ml, 24 टुक्रा",
-        "id": "Guangdong Sunkist Pistachio Tanpa Pemanis, 190ml, 24 buah",
-        "tl": "Guangdong Sunkist Pistachio Unsweetened, 190ml, 24 piraso",
-        "uz": "Guangdong Sunkist pista shakarsiz, 190ml, 24 dona",
-        "zh": "广东新奇士开心果无糖，190ml，24粒",
-        "en": "Guangdong Sunkist Pistachio Unsweetened, 190ml, 24 pieces"
-      }
-    },
-    {
-      "cat": "life",
       "id": 2307373563,
       "ko": "연세두유 무가당 고칼슘 두유 오리지널, 190ml, 48개",
       "vi": "연세두유 무가당 고칼슘 두유 오리지널, 190ml, 48개",
@@ -519,12 +508,46 @@
       "url": "https://toss.im/_m/XTGHWgTD"
     },
     {
+      "cat": "life",
+      "id": 106741129,
+      "ko": "할리스 시그니처 아메리카노, 550ml, 24개",
+      "vi": "할리스 시그니처 아메리카노, 550ml, 24개",
+      "img": "https://shopping.toss.im/live/taca/ai/MGZkYjE2/Sk1aZUQrbHcxUGpHUERqSHp3dTdoelphYXo0Y2ZzT1dQdFRsYWMya1VuST0.png",
+      "price": 29480,
+      "orig": 76800,
+      "disc": 61,
+      "url": "https://toss.im/_m/JhzXvxv4",
+      "tr": {
+        "vi": "Holly's Signature Americano, 550ml, 24 miếng",
+        "th": "ฮอลลี่ส์ ซิกเนเจอร์ อเมริกาโน่ 550มล. 24 ชิ้น",
+        "km": "Holly's Signature Americano ចំណុះ 550ml, 24 ដុំ",
+        "ne": "Holly's Signature Americano, 550ml, 24 टुक्रा",
+        "id": "Holly's Signature Americano, 550ml, 24 buah",
+        "tl": "Holly's Signature Americano, 550ml, 24 piraso",
+        "uz": "Holly's Signature Americano, 550ml, 24 dona",
+        "zh": "Holly's 招牌美式咖啡，550 毫升，24 件",
+        "en": "Holly's Signature Americano, 550ml, 24 pieces"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 919650581,
+      "ko": "해피룸 휴플러스 무드등 무선충전기, 화이트",
+      "vi": "해피룸 휴플러스 무드등 무선충전기, 화이트",
+      "img": "https://shopping.toss.im/live/temp/2026-02-19/0d81e69c-6881-4f55-8d93-52d8aafeca91.jpeg",
+      "price": 6500,
+      "orig": 59000,
+      "disc": 88,
+      "url": "https://toss.im/_m/pXjn7iGa",
+      "endAt": "2026-08-25T23:59:59+09:00"
+    },
+    {
       "cat": "deal",
       "id": 9812295,
       "ko": "삼성제약 미국 특허 질유산균 이너와이밸런스, 400mg*30c, 2개",
       "vi": "삼성제약 미국 특허 질유산균 이너와이밸런스, 400mg*30c, 2개",
       "img": "https://shopping.toss.im/live/taca/ai/MTc3NzJh/QUtYV2E2bWJ6RDN5djF4UDZmWVcxRnlyY01mKzlGQmR6T013RGZ4Y0RMc0Q.png",
-      "price": 17800,
+      "price": 16900,
       "orig": 140000,
       "disc": 87,
       "url": "https://toss.im/_m/nc6OcWZz",
@@ -544,26 +567,14 @@
     },
     {
       "cat": "deal",
-      "id": 377032273,
-      "ko": "법성포 정품 영광 굴비, 18cm 내외, 1.2-1.3kg, 20마리",
-      "vi": "법성포 정품 영광 굴비, 18cm 내외, 1.2-1.3kg, 20마리",
-      "img": "https://shopping.toss.im/live/taca/ai/ZmY2ZDQ4/QU1PeXhuRTg0Vm5TQjZVWlNqTFZKQ0xKQmRhZW8yaWxrVm5ONUthS2tvUWY.png",
-      "price": 19900,
-      "orig": 90000,
-      "disc": 77,
-      "url": "https://toss.im/_m/baGyneKD",
-      "endAt": "2026-08-25T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 677606441,
-      "ko": "오늘부터 라이크밀 단백질 쉐이크, 초코맛 450g 1개 + 흑임자맛 450g 1개, 2개",
-      "vi": "오늘부터 라이크밀 단백질 쉐이크, 초코맛 450g 1개 + 흑임자맛 450g 1개, 2개",
-      "img": "https://shopping.toss.im/live/temp/2026-01-21/6ccb6b79-c629-4896-a1f3-8e1d118cb2a4.jpeg",
-      "price": 27900,
-      "orig": 104000,
-      "disc": 73,
-      "url": "https://toss.im/_m/95syST11",
+      "id": 2629143951,
+      "ko": "하운드투스 대용량 체크 수납함, 옷이불 정리용, 150L, 화이트, 4팩",
+      "vi": "하운드투스 대용량 체크 수납함, 옷이불 정리용, 150L, 화이트, 4팩",
+      "img": "https://shopping.toss.im/ml-vision/smart-crop/1cfe4c68-8b6e-4006-8478-a663276ae12b.jpg",
+      "price": 8720,
+      "orig": 35900,
+      "disc": 75,
+      "url": "https://toss.im/_m/Xw5SYjrc",
       "endAt": "2026-08-25T23:59:59+09:00"
     },
     {
@@ -576,18 +587,6 @@
       "orig": 100000,
       "disc": 72,
       "url": "https://toss.im/_m/hx3VDkh2",
-      "endAt": "2026-08-25T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 213661055,
-      "ko": "쉬블림로브 멀티 지퍼 나일론 크로스백, 블랙, 1개",
-      "vi": "쉬블림로브 멀티 지퍼 나일론 크로스백, 블랙, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/M2U0Mjgx/QitQdysrSHJQemU4TG9QRDlLejRmcGJzRDRkTDlKTDRhOEh0SERwUS91VT0.png",
-      "price": 8900,
-      "orig": 32900,
-      "disc": 72,
-      "url": "https://toss.im/_m/f6D4DZz3",
       "endAt": "2026-08-25T23:59:59+09:00"
     },
     {
@@ -614,25 +613,37 @@
     },
     {
       "cat": "deal",
-      "id": 142904489,
-      "ko": "지그비 고불소 구취케어 치약, 아쿠아민트향, 117g, 4개",
-      "vi": "지그비 고불소 구취케어 치약, 아쿠아민트향, 117g, 4개",
-      "img": "https://shopping.toss.im/live/taca/ai/NTc1NjEy/TWpIVTJpczJsTXNyWmppYnhtOHRrc3B0cFNLTmpXWXp0WXdMQmdyVitTND0.png",
-      "price": 8900,
-      "orig": 29900,
-      "disc": 70,
-      "url": "https://toss.im/_m/rAhAY5hh",
+      "id": 80653741,
+      "ko": "황쉐프 무 동치미, 5kg, 1개",
+      "vi": "황쉐프 무 동치미, 5kg, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/OWM0Nzgx/QUxZNThqb2VlTjVsbUd6OEI3cHRUNFduNURlY1BER0NrckNtV2xvZlJ1cjE.png",
+      "price": 7900,
+      "orig": 20000,
+      "disc": 60,
+      "url": "https://toss.im/_m/r4KUJKGd",
       "endAt": "2026-08-25T23:59:59+09:00",
       "tr": {
-        "vi": "Kem đánh răng trị hôi miệng có hàm lượng fluoride cao Zigbee, hương bạc hà, 117g, 4 miếng",
-        "th": "Zigbee ยาสีฟันดูแลกลิ่นปากฟลูออไรด์สูง รสอความินต์ 117ก. 4ชิ้น",
-        "km": "ថ្នាំដុសធ្មេញ Zigbee មានហ្វ្លុយអូរីខ្ពស់ ក្លិនមាត់ ក្លិនក្រអូប 117g 4ដុំ",
-        "ne": "Zigbee उच्च फ्लोराइड खराब सास हेरचाह टूथपेस्ट, एक्वामिन्ट स्वाद, 117g, 4 टुक्रा",
-        "id": "Zigbee Pasta Gigi Perawatan Bau Mulut Fluorida Tinggi, Rasa Aquamint, 117G, 4 Buah",
-        "uz": "Zigbee yuqori ftoridli og'izdan yomon hidni parvarish qiluvchi tish pastasi, aquamint aromati, 117g, 4 dona",
-        "zh": "Zigbee 高氟口臭护理牙膏，海薄荷味，117 克，4 件",
-        "en": "Zigbee high fluoride bad breath care toothpaste, aquamint flavor, 117g, 4 pieces"
+        "vi": "Đầu bếp Hwang Củ cải Dongchimi, 5kg, 1 miếng",
+        "th": "เชฟฮวัง แรดิช ทงชิมิ 5กก. 1 ชิ้น",
+        "km": "ចុងភៅ Hwang Radish Dongchimi 5 គីឡូក្រាម 1 ដុំ",
+        "ne": "शेफ ह्वांग मूला डोंगचीमी, 5 किलो, 1 टुक्रा",
+        "id": "Chef Hwang Lobak Dongchimi, 5kg, 1 buah",
+        "uz": "Oshpaz Xvang Turp Dongchimi, 5 kg, 1 dona",
+        "zh": "黄师傅萝卜冬吃，5公斤，1个",
+        "en": "Chef Hwang Radish Dongchimi, 5kg, 1 piece"
       }
+    },
+    {
+      "cat": "deal",
+      "id": 2162425033,
+      "ko": "순수데이 네이처 슬림, 중형, 16개입, 5팩",
+      "vi": "순수데이 네이처 슬림, 중형, 16개입, 5팩",
+      "img": "https://shopping.toss.im/live/taca/ai/MjhiZWVh/TndieC9ySGtEWkZOa3paajNva2MvTStKeXdOOG1TVGN2VEE0L0s5MFczcz0.png",
+      "price": 9990,
+      "orig": 24900,
+      "disc": 59,
+      "url": "https://toss.im/_m/Z909eiSe",
+      "endAt": "2026-08-25T23:59:59+09:00"
     },
     {
       "cat": "home",
