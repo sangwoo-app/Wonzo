@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T03:01:26.333Z",
+  "updated": "2026-08-24T09:01:16.931Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -301,6 +301,27 @@
     },
     {
       "cat": "food",
+      "id": 2159216247,
+      "ko": "더 미식 밥알이 살아있는 백미밥, 200g, 24개",
+      "vi": "더 미식 밥알이 살아있는 백미밥, 200g, 24개",
+      "img": "https://shopping.toss.im/live/taca/ai/MjMyMDQ3/UEZ2UG1mVzhubWJENUhqc1B0R1RsOThPem5ud2ZuSEdsT0dNN0V1UmN4cz0.png",
+      "price": 25000,
+      "orig": 100000,
+      "disc": 75,
+      "url": "https://toss.im/_m/5a31PmDn",
+      "tr": {
+        "vi": "Gạo Trắng Gourmet, 200g, 24 miếng",
+        "th": "ข้าวขาวกูร์เมต์ 200กรัม 24 ชิ้น",
+        "km": "The Gourmet White Rice, 200 ក្រាម, 24 ដុំ",
+        "ne": "गउरमेट सेतो चावल, 200 ग्राम, 24 टुक्रा",
+        "id": "Nasi Putih Gourmet, 200g, 24 buah",
+        "uz": "Gurme oq guruch, 200 g, 24 dona",
+        "zh": "极品白米饭，200g，24粒",
+        "en": "The Gourmet White Rice, 200g, 24 pieces"
+      }
+    },
+    {
+      "cat": "food",
       "id": 2261736853,
       "ko": "바른 돼지국밥, 500g, 1개",
       "vi": "바른 돼지국밥, 500g, 1개",
@@ -309,28 +330,6 @@
       "orig": 15900,
       "disc": 62,
       "url": "https://toss.im/_m/zbInekZf"
-    },
-    {
-      "cat": "food",
-      "id": 2287417559,
-      "ko": "맛생각 시골 전통 된장찌개, 600g, 5개",
-      "vi": "맛생각 시골 전통 된장찌개, 600g, 5개",
-      "img": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
-      "price": 16500,
-      "orig": 34900,
-      "disc": 52,
-      "url": "https://toss.im/_m/1Jfg14Sq",
-      "tr": {
-        "vi": "Món đậu nành hầm truyền thống thơm ngon vùng nông thôn, 600g, 5 miếng",
-        "th": "สตูว์เต้าเจี้ยวแบบดั้งเดิมในชนบทแสนอร่อย 600 กรัม 5 ชิ้น",
-        "km": "ចំហុយសណ្តែកសៀងបែបប្រពៃណីជនបទឆ្ងាញ់ៗ 600g 5ដុំ",
-        "ne": "स्वादिष्ट ग्रामीण परम्परागत सोयाबीन पेस्ट स्टू, 600 ग्राम, 5 टुक्रा",
-        "id": "Rebusan pasta kedelai tradisional pedesaan yang lezat, 600g, 5 buah",
-        "uz": "Mazali qishloq an'anaviy soya pastasi güveç, 600g, 5 dona",
-        "zh": "美味农村传统大酱炖菜，600克，5件",
-        "en": "Delicious rural traditional soybean paste stew, 600g, 5 pieces",
-        "tl": "Tassaengkk rural traditional soybean paste stew, 600g, 5 piraso"
-      }
     },
     {
       "cat": "food",
@@ -378,6 +377,27 @@
     },
     {
       "cat": "food",
+      "id": 1239637439,
+      "ko": "황쉐프 무 동치미, 5kg, 1개",
+      "vi": "황쉐프 무 동치미, 5kg, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/OWM0Nzgx/QUxZNThqb2VlTjVsbUd6OEI3cHRUNFduNURlY1BER0NrckNtV2xvZlJ1cjE.png",
+      "price": 8490,
+      "orig": 25000,
+      "disc": 66,
+      "url": "https://toss.im/_m/PTDI5Dyi",
+      "tr": {
+        "vi": "Đầu bếp Hwang Củ cải Dongchimi, 5kg, 1 miếng",
+        "th": "เชฟฮวัง แรดิช ทงชิมิ 5กก. 1 ชิ้น",
+        "km": "ចុងភៅ Hwang Radish Dongchimi 5 គីឡូក្រាម 1 ដុំ",
+        "ne": "शेफ ह्वांग मूला डोंगचीमी, 5 किलो, 1 टुक्रा",
+        "id": "Chef Hwang Lobak Dongchimi, 5kg, 1 buah",
+        "uz": "Oshpaz Xvang Turp Dongchimi, 5 kg, 1 dona",
+        "zh": "黄师傅萝卜冬吃，5公斤，1个",
+        "en": "Chef Hwang Radish Dongchimi, 5kg, 1 piece"
+      }
+    },
+    {
+      "cat": "food",
       "id": 10283163,
       "ko": "이씨네 전라도 겉절이, 2kg, 1개",
       "vi": "이씨네 전라도 겉절이, 2kg, 1개",
@@ -397,17 +417,6 @@
         "zh": "Lee's 全罗道 Geotjeori, 2 kg, 1 个",
         "en": "Lee's Jeolla-do Geotjeori, 2 kg, 1 piece"
       }
-    },
-    {
-      "cat": "food",
-      "id": 200725873,
-      "ko": "남다른 농수산 여수 돌산 갓김치, 3kg, 1개",
-      "vi": "남다른 농수산 여수 돌산 갓김치, 3kg, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/ZDA3ODgy/RXRQSlB2OVEzd2tEL3ZQNy9sZXlTZDJTcGtobDlqdzZMQUNGc3JQczI3UT0.png",
-      "price": 13800,
-      "orig": 36900,
-      "disc": 62,
-      "url": "https://toss.im/_m/9OZlTbui"
     },
     {
       "cat": "life",
@@ -532,18 +541,6 @@
     },
     {
       "cat": "deal",
-      "id": 1443644129,
-      "ko": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
-      "vi": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
-      "img": "https://shopping.toss.im/live/taca/ai/MDAwYTE4/TXpZeU5tWmxhejZaT1pseDJqSWNKd0xtWXRaN0NWb1M0V2lsdEY2bXBLND0.png",
-      "price": 4900,
-      "orig": 150000,
-      "disc": 96,
-      "url": "https://toss.im/_m/rwY8saKf",
-      "endAt": "2026-08-24T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
       "id": 264130953,
       "ko": "아스파시아 퍼퓸 샤워 코롱 돌체베르, 150ml, 2개",
       "vi": "아스파시아 퍼퓸 샤워 코롱 돌체베르, 150ml, 2개",
@@ -600,6 +597,18 @@
       "orig": 42000,
       "disc": 64,
       "url": "https://toss.im/_m/PxIdWuyd",
+      "endAt": "2026-08-24T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
+      "id": 1666717283,
+      "ko": "수박, 4kg, 1박스",
+      "vi": "수박, 4kg, 1박스",
+      "img": "https://shopping.toss.im/live/taca/ai/YTFlNzlm/QU1kRCtTS3l2VXZjeFNaN1EwUzVLdDV0ZHNvelpJdGpyWm5zVGpZeXA3V1Y.png",
+      "price": 9900,
+      "orig": 27900,
+      "disc": 64,
+      "url": "https://toss.im/_m/7nKjnDSz",
       "endAt": "2026-08-24T23:59:59+09:00"
     },
     {
