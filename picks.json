@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T03:01:11.032Z",
+  "updated": "2026-08-25T09:01:16.030Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -422,14 +422,14 @@
     },
     {
       "cat": "life",
-      "id": 2244788693,
+      "id": 2243195483,
       "ko": "클린 보틀 변기세정제 클리너, 320g, 4개",
       "vi": "클린 보틀 변기세정제 클리너, 320g, 4개",
       "img": "https://shopping.toss.im/live/taca/ai/OTZhODYw/QU1XWm5rbXFaekJtTVdiUlNrV1laYm5FK2N5ak9xWTZaMWRNRHhtUHVWSDI.png",
-      "price": 6289,
+      "price": 6586,
       "orig": 39900,
-      "disc": 84,
-      "url": "https://toss.im/_m/hkCuX27d",
+      "disc": 83,
+      "url": "https://toss.im/_m/fTcW1Yds",
       "tr": {
         "vi": "Chai Clean Nước Tẩy Bồn Cầu, 320g, 4 miếng",
         "th": "Clean Bottle น้ำยาล้างโถส้วม 320ก. 4 ชิ้น",
@@ -488,6 +488,28 @@
     },
     {
       "cat": "life",
+      "id": 1732110681,
+      "ko": "광동 썬키스트 피스타치오 언스위트, 190ml, 24개",
+      "vi": "광동 썬키스트 피스타치오 언스위트, 190ml, 24개",
+      "img": "https://shopping.toss.im/live/taca/ai/YmFiNjkz/QU1lZGIxeDYyUmFuYTNMTDNMU05yYlJVanl0YWVuUFVwNlhRMk0rbDBDdFU.png",
+      "price": 7700,
+      "orig": 27900,
+      "disc": 72,
+      "url": "https://toss.im/_m/7yUTq2Yb",
+      "tr": {
+        "vi": "Quả hồ trăn Sunkist Quảng Đông không đường, 190ml, 24 miếng",
+        "th": "กวางตุ้ง ซันคิสท์ พิสตาชิโอ รสไม่หวาน 190มล. 24 ชิ้น",
+        "km": "Guangdong Sunkist Pistachio Unsweetened, 190ml, 24 ដុំ",
+        "ne": "गुआंग्डोंग सनकिस्ट पिस्ता नमिठो, 190ml, 24 टुक्रा",
+        "id": "Guangdong Sunkist Pistachio Tanpa Pemanis, 190ml, 24 buah",
+        "tl": "Guangdong Sunkist Pistachio Unsweetened, 190ml, 24 piraso",
+        "uz": "Guangdong Sunkist pista shakarsiz, 190ml, 24 dona",
+        "zh": "广东新奇士开心果无糖，190ml，24粒",
+        "en": "Guangdong Sunkist Pistachio Unsweetened, 190ml, 24 pieces"
+      }
+    },
+    {
+      "cat": "life",
       "id": 2307373561,
       "ko": "연세두유 무가당 고칼슘 두유 오리지널, 190ml, 32개",
       "vi": "연세두유 무가당 고칼슘 두유 오리지널, 190ml, 32개",
@@ -509,28 +531,6 @@
       }
     },
     {
-      "cat": "life",
-      "id": 2529818959,
-      "ko": "초록매실 스파클링 제로, 350ml, 40개",
-      "vi": "초록매실 스파클링 제로, 350ml, 40개",
-      "img": "https://shopping.toss.im/live/taca/ai/OTg1MDQ2/QUpadXBhRjlLNHZaZmxSQ1k2bVRHMGxVN0tjbktaQ05pVkpycThOTm5CYWw.png",
-      "price": 29800,
-      "orig": 82500,
-      "disc": 63,
-      "url": "https://toss.im/_m/rmTPLPAj",
-      "tr": {
-        "vi": "Mận Xanh Sparkling Zero, 350ml, 40 miếng",
-        "th": "Green Plum Sparkling Zero 350ml 40 ชิ้น",
-        "km": "Green Plum Sparkling Zero, 350ml, 40 ដុំ",
-        "ne": "हरियो बेर स्पार्कलिंग शून्य, 350ml, 40 टुक्रा",
-        "id": "Green Plum Sparkling Zero, 350ml, 40 buah",
-        "tl": "Green Plum Sparkling Zero, 350ml, 40 piraso",
-        "uz": "Yashil olxo'ri Sparkling Zero, 350ml, 40 dona",
-        "zh": "青梅零气泡酒，350ml，40 件",
-        "en": "Green Plum Sparkling Zero, 350ml, 40 pieces"
-      }
-    },
-    {
       "cat": "deal",
       "id": 9812295,
       "ko": "삼성제약 미국 특허 질유산균 이너와이밸런스, 400mg*30c, 2개",
@@ -540,6 +540,30 @@
       "orig": 140000,
       "disc": 87,
       "url": "https://toss.im/_m/nc6OcWZz",
+      "endAt": "2026-08-25T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
+      "id": 87777473,
+      "ko": "칼앤한스 보타닉 샴푸, 더블민트, 390ml, 1개",
+      "vi": "칼앤한스 보타닉 샴푸, 더블민트, 390ml, 1개",
+      "img": "https://shopping.toss.im/live/temp/2025-04-02/69eab824-fca1-4e79-8823-bed170684fe5.jpeg",
+      "price": 4900,
+      "orig": 25900,
+      "disc": 81,
+      "url": "https://toss.im/_m/7BtZ1qwy",
+      "endAt": "2026-08-25T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
+      "id": 377032273,
+      "ko": "법성포 정품 영광 굴비, 18cm 내외, 1.2-1.3kg, 20마리",
+      "vi": "법성포 정품 영광 굴비, 18cm 내외, 1.2-1.3kg, 20마리",
+      "img": "https://shopping.toss.im/live/taca/ai/ZmY2ZDQ4/QU1PeXhuRTg0Vm5TQjZVWlNqTFZKQ0xKQmRhZW8yaWxrVm5ONUthS2tvUWY.png",
+      "price": 19900,
+      "orig": 90000,
+      "disc": 77,
+      "url": "https://toss.im/_m/baGyneKD",
       "endAt": "2026-08-25T23:59:59+09:00"
     },
     {
@@ -590,18 +614,6 @@
     },
     {
       "cat": "deal",
-      "id": 135090985,
-      "ko": "한경희 4세대 하이엔드퓨어 BLDC 무선 탁상용 선풍기, HAAN-MFL500, 퓨어화이트, 1개",
-      "vi": "한경희 4세대 하이엔드퓨어 BLDC 무선 탁상용 선풍기, HAAN-MFL500, 퓨어화이트, 1개",
-      "img": "https://shopping.toss.im/live/temp/2025-07-03/47dc103b-b729-4e8f-810f-479b0bf60577.jpeg",
-      "price": 19900,
-      "orig": 69900,
-      "disc": 71,
-      "url": "https://toss.im/_m/NAxREG3m",
-      "endAt": "2026-08-25T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
       "id": 142904489,
       "ko": "지그비 고불소 구취케어 치약, 아쿠아민트향, 117g, 4개",
       "vi": "지그비 고불소 구취케어 치약, 아쿠아민트향, 117g, 4개",
@@ -624,36 +636,14 @@
     },
     {
       "cat": "deal",
-      "id": 80653741,
-      "ko": "황쉐프 무 동치미, 5kg, 1개",
-      "vi": "황쉐프 무 동치미, 5kg, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/OWM0Nzgx/QUxZNThqb2VlTjVsbUd6OEI3cHRUNFduNURlY1BER0NrckNtV2xvZlJ1cjE.png",
-      "price": 7900,
-      "orig": 20000,
-      "disc": 60,
-      "url": "https://toss.im/_m/r4KUJKGd",
-      "endAt": "2026-08-25T23:59:59+09:00",
-      "tr": {
-        "vi": "Đầu bếp Hwang Củ cải Dongchimi, 5kg, 1 miếng",
-        "th": "เชฟฮวัง แรดิช ทงชิมิ 5กก. 1 ชิ้น",
-        "km": "ចុងភៅ Hwang Radish Dongchimi 5 គីឡូក្រាម 1 ដុំ",
-        "ne": "शेफ ह्वांग मूला डोंगचीमी, 5 किलो, 1 टुक्रा",
-        "id": "Chef Hwang Lobak Dongchimi, 5kg, 1 buah",
-        "uz": "Oshpaz Xvang Turp Dongchimi, 5 kg, 1 dona",
-        "zh": "黄师傅萝卜冬吃，5公斤，1个",
-        "en": "Chef Hwang Radish Dongchimi, 5kg, 1 piece"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 2162425033,
-      "ko": "순수데이 네이처 슬림, 중형, 16개입, 5팩",
-      "vi": "순수데이 네이처 슬림, 중형, 16개입, 5팩",
-      "img": "https://shopping.toss.im/live/taca/ai/MjhiZWVh/TndieC9ySGtEWkZOa3paajNva2MvTStKeXdOOG1TVGN2VEE0L0s5MFczcz0.png",
-      "price": 9990,
-      "orig": 24900,
-      "disc": 59,
-      "url": "https://toss.im/_m/Z909eiSe",
+      "id": 961659335,
+      "ko": "맘스케이크 우리밀 데일리 머핀, 3종혼합, 40g, 15개",
+      "vi": "맘스케이크 우리밀 데일리 머핀, 3종혼합, 40g, 15개",
+      "img": "https://shopping.toss.im/live/temp/2026-08-24/4cda9bd9-b876-4bbd-956b-50f22be081dc.png",
+      "price": 9900,
+      "orig": 25900,
+      "disc": 61,
+      "url": "https://toss.im/_m/1PTfXxGz",
       "endAt": "2026-08-25T23:59:59+09:00"
     },
     {
