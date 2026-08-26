@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T03:01:08.406Z",
+  "updated": "2026-08-26T09:01:17.605Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -278,25 +278,14 @@
     },
     {
       "cat": "food",
-      "id": 2324631905,
-      "ko": "농심 신라면 + 너구리 + 짜파게티 + 배홍동, 1세트",
-      "vi": "농심 신라면 + 너구리 + 짜파게티 + 배홍동, 1세트",
-      "img": "https://shopping.toss.im/250/live/product/404057637/250531aa-3ac9-4e97-9b1c-b1b3a4ecb143.png",
-      "price": 17190,
-      "orig": 29900,
-      "disc": 42,
-      "url": "https://toss.im/_m/Zy7VdmUD",
-      "tr": {
-        "vi": "Nongshim Shin Ramyun + Neoguri + Chapagetti + Bae Hongdong, 1 bộ",
-        "th": "นงชิมชินรามยอน + นอกูริ + ชาปาเก็ตตี้ + แบฮงดอง 1 ชุด",
-        "km": "Nongshim Shin Ramyun + Neoguri + Chapagetti + Bae Hongdong ១ឈុត",
-        "ne": "नोङ्शिम शिन राम्युन + नेओगुरी + चापेगेटी + बे होंगडोंग, १ सेट",
-        "id": "Nongshim Shin Ramyun + Neoguri + Chapagetti + Bae Hongdong, 1 set",
-        "tl": "Nongshim Shin Ramyun + Neoguri + Chapagetti + Bae Hongdong, 1 set",
-        "uz": "Nongshim Shin Ramyun + Neoguri + Chapagetti + Bae Xongdong, 1 to'plam",
-        "zh": "农心辛拉面+Neoguri+Chapagetti+裴弘东，1套",
-        "en": "Nongshim Shin Ramyun + Neoguri + Chapagetti + Bae Hongdong, 1 set"
-      }
+      "id": 1365046635,
+      "ko": "농심 신신너짜, 신라면 10봉 + 너구리 5봉 + 짜파게티 5봉, 20봉",
+      "vi": "농심 신신너짜, 신라면 10봉 + 너구리 5봉 + 짜파게티 5봉, 20봉",
+      "img": "https://shopping.toss.im/288/live/product/416028277/288709fc-c41b-4bd2-972a-590729e7978e.jpg",
+      "price": 17050,
+      "orig": 29000,
+      "disc": 41,
+      "url": "https://toss.im/_m/ZNfEFx8q"
     },
     {
       "cat": "food",
@@ -625,25 +614,15 @@
     },
     {
       "cat": "deal",
-      "id": 685823575,
-      "ko": "바이퀸 데일리 블루베리주스 100퍼센트, 100ml, 30포, 1박스",
-      "vi": "바이퀸 데일리 블루베리주스 100퍼센트, 100ml, 30포, 1박스",
-      "img": "https://shopping.toss.im/live/taca/ai/MDhjNTg0/QUtyVmlGTDg5Z2pFSFBsV1dRSm5RU2JCS3ppazI1cm1sYWNsUHFrWm0vQ2Y.png",
-      "price": 19900,
-      "orig": 59000,
-      "disc": 66,
-      "url": "https://toss.im/_m/HBvDaLHi",
-      "endAt": "2026-08-26T23:59:59+09:00",
-      "tr": {
-        "vi": "By Queen Daily Blueberry Juice 100%, 100ml, 30 gói, 1 hộp",
-        "th": "By Queen Daily น้ำบลูเบอร์รี่ 100% 100มล. 30 ซอง 1 กล่อง",
-        "km": "By Queen Daily Blueberry Juice 100%, 100ml មាន 30 កញ្ចប់ 1 ប្រអប់",
-        "ne": "क्वीन डेली ब्लुबेरी जुस १००%, १०० एमएल, ३० पाउच, १ बक्स",
-        "id": "Oleh Queen Daily Blueberry Juice 100%, 100ml, 30 sachet, 1 box",
-        "uz": "By Queen Daily Blueberry sharbati 100%, 100ml, 30 paket, 1 quti",
-        "zh": "By Queen Daily 蓝莓汁 100%，100ml，30 袋，1 盒",
-        "en": "By Queen Daily Blueberry Juice 100%, 100ml, 30 sachets, 1 box"
-      }
+      "id": 1657765055,
+      "ko": "칼로쿡 IH 스텐 올인원 튀김냄비 6p, 1세트",
+      "vi": "칼로쿡 IH 스텐 올인원 튀김냄비 6p, 1세트",
+      "img": "https://shopping.toss.im/live/temp/2026-04-28/3d7bc3f0-d433-4873-8d28-55383839e567.jpeg",
+      "price": 15900,
+      "orig": 49900,
+      "disc": 68,
+      "url": "https://toss.im/_m/1qHWcf62",
+      "endAt": "2026-08-26T23:59:59+09:00"
     },
     {
       "cat": "home",
