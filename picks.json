@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T15:01:18.566Z",
+  "updated": "2026-08-26T21:01:26.309Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -344,6 +344,17 @@
     },
     {
       "cat": "food",
+      "id": 2317810443,
+      "ko": "전라도 총각김치, HACCP, 당일제조, 1kg, 1박스",
+      "vi": "전라도 총각김치, HACCP, 당일제조, 1kg, 1박스",
+      "img": "https://shopping.toss.im/live/taca/ai/MjMzZTkx/QUxXOXNlS3ZhUklmSzFQMmFzTFUzT0MwUnY3R1YxSkRVWmhvSS9wMDh1MlY.png",
+      "price": 8500,
+      "orig": 39900,
+      "disc": 78,
+      "url": "https://toss.im/_m/bEhfTEJ5"
+    },
+    {
+      "cat": "food",
       "id": 1910549827,
       "ko": "바른 전라도 열무자박이 김치, 1kg, 1개",
       "vi": "바른 전라도 열무자박이 김치, 1kg, 1개",
@@ -363,17 +374,6 @@
         "en": "Proper Jeolla-do Yeolradish Jabagi Kimchi, 1 kg, 1 piece",
         "tl": "Wastong Jeolla-do Yeolradish Jabagi Kimchi, 1 kg, 1 piraso"
       }
-    },
-    {
-      "cat": "food",
-      "id": 2317810443,
-      "ko": "전라도 총각김치, HACCP, 당일제조, 1kg, 1박스",
-      "vi": "전라도 총각김치, HACCP, 당일제조, 1kg, 1박스",
-      "img": "https://shopping.toss.im/live/taca/ai/MjMzZTkx/QUxXOXNlS3ZhUklmSzFQMmFzTFUzT0MwUnY3R1YxSkRVWmhvSS9wMDh1MlY.png",
-      "price": 10800,
-      "orig": 39900,
-      "disc": 72,
-      "url": "https://toss.im/_m/bEhfTEJ5"
     },
     {
       "cat": "life",
@@ -502,9 +502,9 @@
       "ko": "산들에담다 통영 손질 활 바다장어, 대, 1kg, 1박스",
       "vi": "산들에담다 통영 손질 활 바다장어, 대, 1kg, 1박스",
       "img": "https://shopping.toss.im/live/temp/2026-07-30/2d372a8b-a273-47b6-b170-154c2e8e8652.png",
-      "price": 13600,
+      "price": 12990,
       "orig": 69900,
-      "disc": 80,
+      "disc": 81,
       "url": "https://toss.im/_m/jCTQbvpj",
       "endAt": "2026-08-27T23:59:59+09:00",
       "tr": {
@@ -517,62 +517,6 @@
         "zh": "Sandeulda统营活鳗鱼，大，1公斤，1盒",
         "en": "Sandeulda Tongyeong prepared live sea eel, large, 1kg, 1 box"
       }
-    },
-    {
-      "cat": "deal",
-      "id": 513805055,
-      "ko": "이장네푸드 전통압착 통들기름 100%, 350ml, 4개",
-      "vi": "이장네푸드 전통압착 통들기름 100%, 350ml, 4개",
-      "img": "https://shopping.toss.im/live/taca/ai/NWNiMTM3/QU0vYytQTWJubnh4R0p5ZWRaU3Y4ODVyMENjT1c5RE0rVnVZZmJWYm1PMzU.png",
-      "price": 24900,
-      "orig": 106000,
-      "disc": 76,
-      "url": "https://toss.im/_m/1JVa9nr8",
-      "endAt": "2026-08-27T23:59:59+09:00",
-      "tr": {
-        "vi": "Ijangne Food Dầu tía tô nguyên hạt ép truyền thống 100%, 350ml, 4 miếng",
-        "th": "Ijangne Food น้ำมันเพริลลาบดแบบดั้งเดิม 100%, 350ml, 4 ชิ้น",
-        "km": "Ijangne Food Traditional Pressed Whole Perilla Oil 100%, 350ml, 4 ដុំ",
-        "ne": "इजान्ग्ने फूड ट्रेडिशनल प्रेस्ड होल पेरिल्ला आयल १००%, ३५० एमएल, ४ टुक्रा",
-        "id": "Ijangne Food Minyak Perilla Utuh Peras Tradisional 100%, 350ml, 4 buah",
-        "uz": "Ijangne oziq-ovqat an'anaviy presslangan butun Perilla yog'i 100%, 350ml, 4 dona",
-        "zh": "Ijangne Food 传统压榨全紫苏油 100%，350ml，4 件",
-        "en": "Ijangne Food Traditional Pressed Whole Perilla Oil 100%, 350ml, 4 pieces"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 1106362547,
-      "ko": "와이니즈 질레트 호환용 5중 면도날 면도기 세트, 스윙면도기 1개 + 면도날 12개입, 1세트",
-      "vi": "와이니즈 질레트 호환용 5중 면도날 면도기 세트, 스윙면도기 1개 + 면도날 12개입, 1세트",
-      "img": "https://shopping.toss.im/live/temp/2026-03-11/cef2bd14-c0de-478c-91f2-42ba5a900153.jpeg",
-      "price": 8600,
-      "orig": 29700,
-      "disc": 71,
-      "url": "https://toss.im/_m/7dy1jYPj",
-      "endAt": "2026-08-27T23:59:59+09:00",
-      "tr": {
-        "vi": "Bộ dao cạo 5 lưỡi tương thích Weinies Gillette, 1 dao cạo xoay + 12 lưỡi dao cạo, 1 bộ",
-        "th": "ชุดมีดโกน 5 ใบที่ใช้ร่วมกันได้ของ Weinies Gillette, มีดโกนแบบแกว่ง 1 ใบ + ใบมีดโกน 12 ใบ, 1 ชุด",
-        "km": "Weinies Gillette ឆបគ្នា 5- blade razor, 1 swing blades + 12 blades, 1 set",
-        "ne": "Weinies Gillette संगत 5-ब्लेड रेजर सेट, 1 स्विङ रेजर + 12 रेजर ब्लेड, 1 सेट",
-        "id": "Set pisau cukur 5 pisau yang kompatibel dengan Weinies Gillette, 1 pisau cukur ayun + 12 pisau cukur, 1 set",
-        "uz": "Weinies Gillette mos keluvchi 5 pichoqli ustara to‘plami, 1 ta tebranishli ustara + 12 ta ustara, 1 ta to‘plam",
-        "zh": "Weinies Gillette 兼容 5 刀片剃须刀套装，1 个摆动剃须刀 + 12 个剃须刀刀片，1 套",
-        "en": "Weinies Gillette compatible 5-blade razor set, 1 swing razor + 12 razor blades, 1 set"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 332707161,
-      "ko": "로로보아 스타일톡 무선 헤어브러쉬, 블라썸핑크, 1개",
-      "vi": "로로보아 스타일톡 무선 헤어브러쉬, 블라썸핑크, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/MDM5OWU1/QUpTZVRXRzJIc2xyVGVGbUhqSnptek9abm96SmJTd3lXZ1d4dEk1S3lGdTA.png",
-      "price": 15900,
-      "orig": 50000,
-      "disc": 68,
-      "url": "https://toss.im/_m/XbseFjcl",
-      "endAt": "2026-08-27T23:59:59+09:00"
     },
     {
       "cat": "deal",
@@ -612,6 +556,41 @@
     },
     {
       "cat": "deal",
+      "id": 12833301,
+      "ko": "에브리워터 무라벨, 500ml, 40개",
+      "vi": "에브리워터 무라벨, 500ml, 40개",
+      "img": "https://shopping.toss.im/live/temp/2026-02-17/32d41410-98f1-42d9-a442-9e8820fad904.jpeg",
+      "price": 7390,
+      "orig": 19800,
+      "disc": 62,
+      "url": "https://toss.im/_m/7I6WkB02",
+      "endAt": "2026-08-27T23:59:59+09:00",
+      "tr": {
+        "vi": "Everywater không nhãn, 500ml, 40 đơn vị",
+        "th": "Everywater ไม่มีฉลาก 500มล. 40 ยูนิต",
+        "km": "ទឹកសុទ្ធគ្មានស្លាកលេខ 500ml 40 គ្រឿង",
+        "ne": "हरेक पानी लेबल-रहित, 500ml, 40 एकाइहरू",
+        "id": "Everywater bebas label, 500ml, 40 unit",
+        "uz": "Har bir suv yorliqsiz, 500ml, 40 birlik",
+        "zh": "Everywater 无标签，500 毫升，40 单位",
+        "en": "Everywater label-free, 500ml, 40 units",
+        "tl": "Everywater label-free, 500ml, 40 units"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 1176609957,
+      "ko": "상신 더 바삭한 치즈듬뿍 돈까스, 420g, 2팩",
+      "vi": "상신 더 바삭한 치즈듬뿍 돈까스, 420g, 2팩",
+      "img": "https://shopping.toss.im/live/taca/ai/MzQzNDli/WXhONU9aMFp6c1o0NXpQeHB4YlBIQndaT09maTVzYytQNTRaeWNFUjV6WT0.png",
+      "price": 14060,
+      "orig": 36900,
+      "disc": 61,
+      "url": "https://toss.im/_m/x0MB0omy",
+      "endAt": "2026-08-27T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
       "id": 10606387,
       "ko": "에어보나 올클린 스팀 클렌저 AB-SM800, 1개",
       "vi": "에어보나 올클린 스팀 클렌저 AB-SM800, 1개",
@@ -620,6 +599,18 @@
       "orig": 89800,
       "disc": 61,
       "url": "https://toss.im/_m/PME2hv6r",
+      "endAt": "2026-08-27T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
+      "id": 2309142767,
+      "ko": "디포아 스포츠 헤어밴드, 블랙 FREE 2개 + 그레이 FREE 2개, 4개",
+      "vi": "디포아 스포츠 헤어밴드, 블랙 FREE 2개 + 그레이 FREE 2개, 4개",
+      "img": "https://shopping.toss.im/live/temp/2026-06-22/9b2c9830-195a-46a9-a136-89b722d1dc6b.jpeg",
+      "price": 5900,
+      "orig": 14900,
+      "disc": 60,
+      "url": "https://toss.im/_m/pTckqAZz",
       "endAt": "2026-08-27T23:59:59+09:00"
     },
     {
