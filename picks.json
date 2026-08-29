@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T09:01:16.440Z",
+  "updated": "2026-08-29T15:00:27.143Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -34,7 +34,18 @@
       "price": 19240,
       "orig": 109000,
       "disc": 82,
-      "url": "https://toss.im/_m/rWCzFpJ"
+      "url": "https://toss.im/_m/rWCzFpJ",
+      "tr": {
+        "vi": "Tấm làm mát hai mặt Feel Sleep 2WAY, màu trắng, cỡ Queen, 1 miếng",
+        "th": "Feel Sleep 2WAY แผ่นทำความเย็น 2 ด้าน สีขาว ควีน 1 ชิ้น",
+        "km": "Feel Sleep 2WAY cooling pad two-sided, white, queen, 1 ដុំ",
+        "ne": "Feel Sleep 2WAY कूलिङ डबल-साइडेड प्याड, सेतो, रानी, १ टुक्रा",
+        "id": "Feel Sleep 2WAY bantalan pendingin dua sisi, putih, queen, 1 buah",
+        "tl": "Feel Sleep 2WAY cooling double-sided pad, puti, queen, 1 piraso",
+        "uz": "Feel Sleep 2WAY sovutuvchi ikki tomonlama yostiq, oq, malika, 1 dona",
+        "zh": "Feel Sleep 2WAY 冷却双面垫，白色，大号，1 件",
+        "en": "Feel Sleep 2WAY cooling double-sided pad, white, queen, 1 piece"
+      }
     },
     {
       "cat": "dorm",
@@ -192,14 +203,25 @@
     },
     {
       "cat": "work",
-      "id": 1552353105,
-      "ko": "세플로 스티커 제거 안심 스크래퍼, 본품, 1개 + 리필, 10개, 2세트",
-      "vi": "세플로 스티커 제거 안심 스크래퍼, 본품, 1개 + 리필, 10개, 2세트",
-      "img": "https://shopping.toss.im/live/temp/2026-08-11/cefaa8d6-2940-45e7-85ff-f12a0ed57f5e.png",
-      "price": 9600,
-      "orig": 39000,
-      "disc": 75,
-      "url": "https://toss.im/_m/xyYk2Omt"
+      "id": 91564771,
+      "ko": "비로르 액화방지 원터치 요리용 부탄가스 토치, 화이트, 1개",
+      "vi": "비로르 액화방지 원터치 요리용 부탄가스 토치, 화이트, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/ZDRmOTU5/QVBjejJabG1aaWJNeXpuTE9Tek1abWJabVNNdzF0bG1aaTIyMHhzempCek0.png",
+      "price": 7300,
+      "orig": 20400,
+      "disc": 73,
+      "url": "https://toss.im/_m/vk6GFyf2",
+      "tr": {
+        "vi": "Đèn khò gas butan một chạm chống hóa lỏng Biror để nấu ăn, màu trắng, 1 chiếc",
+        "th": "Biror ไฟฉายแก๊สบิวเทนแบบสัมผัสเดียวป้องกันการเหลวสำหรับทำอาหารสีขาว 1 ชิ้น",
+        "km": "Biror anti-liquefaction gas butane touch for one touch ពិលសម្រាប់ចម្អិនអាហារ ពណ៌ស 1 ដុំ",
+        "ne": "बिरर एन्टी-लिक्विफेक्सन एक-टच ब्यूटेन ग्यास टर्च खाना पकाउनको लागि, सेतो, 1 टुक्रा",
+        "id": "Obor gas butana satu sentuhan biror anti pencairan untuk memasak, putih, 1 buah",
+        "tl": "Biror anti-liquefaction one-touch butane gas torch para sa pagluluto, puti, 1 piraso",
+        "uz": "Biror suyuqlikka qarshi bir marta bosish bilan pishirish uchun butanli gaz mash'alasi, oq, 1 dona",
+        "zh": "Biror 防液化一触式丁烷气火炬，用于烹饪，白色，1 件",
+        "en": "Biror anti-liquefaction one-touch butane gas torch for cooking, white, 1 piece"
+      }
     },
     {
       "cat": "work",
@@ -254,7 +276,18 @@
       "price": 7790,
       "orig": 18900,
       "disc": 58,
-      "url": "https://toss.im/_m/JkNxG6IC"
+      "url": "https://toss.im/_m/JkNxG6IC",
+      "tr": {
+        "vi": "Food @ Home Jajangmyeon cay, 230g, 5 miếng, 1 bộ",
+        "th": "Food@Home จาจังมยอนรสเผ็ด 230g 5 ชิ้น 1 ชุด",
+        "km": "Food @ Home Spicy Jajangmyeon 230g 5 ដុំ 1 ឈុត",
+        "ne": "खाना @ घरको मसालेदार Jajangmyeon, 230 ग्राम, 5 टुक्रा, 1 सेट",
+        "id": "Makanan @ Home Spicy Jajangmyeon, 230g, 5 buah, 1 set",
+        "tl": "Food @ Home Spicy Jajangmyeon, 230g, 5 piraso, 1 set",
+        "uz": "Oziq-ovqat @ Home Spicy Jajangmyeon, 230g, 5 dona, 1 to'plam",
+        "zh": "Food @ Home 麻辣炸酱面, 230g, 5块, 1套",
+        "en": "Food @ Home Spicy Jajangmyeon, 230g, 5 pieces, 1 set"
+      }
     },
     {
       "cat": "food",
@@ -309,7 +342,18 @@
       "price": 5900,
       "orig": 15900,
       "disc": 62,
-      "url": "https://toss.im/_m/zbInekZf"
+      "url": "https://toss.im/_m/zbInekZf",
+      "tr": {
+        "vi": "Canh thịt heo cay 500g 1 miếng",
+        "th": "ต้มแซ่บหมู 500g 1 ชิ้น",
+        "km": "ស៊ុបសាច់ជ្រូកហឹរ ៥០០ក្រាម ១ដុំ",
+        "ne": "मसालेदार पोर्क सूप, 500 ग्राम, 1 टुक्रा",
+        "id": "Sup daging babi pedas, 500g, 1 buah",
+        "tl": "Maanghang na sopas ng baboy, 500g, 1 piraso",
+        "uz": "Achchiq cho'chqa sho'rva, 500 g, 1 dona",
+        "zh": "辣肉汤，500g，1块",
+        "en": "Spicy pork soup, 500g, 1 piece"
+      }
     },
     {
       "cat": "food",
@@ -361,9 +405,9 @@
       "ko": "전라도 총각김치, HACCP, 당일제조, 2kg, 1박스",
       "vi": "전라도 총각김치, HACCP, 당일제조, 2kg, 1박스",
       "img": "https://shopping.toss.im/live/taca/ai/MjMzZTkx/QUxXOXNlS3ZhUklmSzFQMmFzTFUzT0MwUnY3R1YxSkRVWmhvSS9wMDh1MlY.png",
-      "price": 11900,
+      "price": 13900,
       "orig": 49900,
-      "disc": 76,
+      "disc": 72,
       "url": "https://toss.im/_m/p2u5X1z4",
       "tr": {
         "vi": "Kimchi cử nhân Jeolla-do, HACCP, sản xuất trong ngày, 2kg, 1 hộp",
@@ -386,7 +430,18 @@
       "price": 16490,
       "orig": 50000,
       "disc": 67,
-      "url": "https://toss.im/_m/FJXJgAY6"
+      "url": "https://toss.im/_m/FJXJgAY6",
+      "tr": {
+        "vi": "Đầu bếp Hwang Mudongchimi, 10kg, 1 miếng",
+        "th": "เชฟฮวาง มูดงชิมิ 10กก. 1 ชิ้น",
+        "km": "ចុងភៅ Hwang Mudongchimi 10 គីឡូក្រាម 1 ដុំ",
+        "ne": "शेफ ह्वांग मुडोंगचिमी, १० किलो, १ टुक्रा",
+        "id": "Chef Hwang Mudongchimi, 10kg, 1 buah",
+        "tl": "Chef Hwang Mudongchimi, 10kg, 1 piraso",
+        "uz": "Oshpaz Xvang Mudongchimi, 10 kg, 1 dona",
+        "zh": "主厨黄木洞七味，10公斤，1个",
+        "en": "Chef Hwang Mudongchimi, 10kg, 1 piece"
+      }
     },
     {
       "cat": "life",
@@ -522,119 +577,186 @@
     },
     {
       "cat": "deal",
-      "id": 127614111,
-      "ko": "레이데이 살몬퓨어 리페어 비비크림, 50ml, 3개",
-      "vi": "레이데이 살몬퓨어 리페어 비비크림, 50ml, 3개",
-      "img": "https://shopping.toss.im/live/taca/ai/ZDRlOGM0/QUp4TVR5eU9OazQ0bkdobFRKS1dCcGFXbW8wcXpXSklWMXJYc2EyMTQ1TFM.png",
-      "price": 9500,
-      "orig": 75000,
-      "disc": 87,
-      "url": "https://toss.im/_m/pBMpZs6x",
-      "endAt": "2026-08-29T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 1197676481,
-      "ko": "투라 뱀파이어 여신 쿠션 팩트, 21호, 케이스 랜덤 1개 + 리필 2개, 1세트",
-      "vi": "투라 뱀파이어 여신 쿠션 팩트, 21호, 케이스 랜덤 1개 + 리필 2개, 1세트",
-      "img": "https://shopping.toss.im/live/temp/2026-07-10/adb74550-6827-4434-b284-09f5a76f4773.png",
-      "price": 22400,
-      "orig": 180000,
-      "disc": 87,
-      "url": "https://toss.im/_m/XGvOOvuy",
-      "endAt": "2026-08-29T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 94527805,
-      "ko": "슈가로로 스파클링, 사과맛, 250ml, 30개",
-      "vi": "슈가로로 스파클링, 사과맛, 250ml, 30개",
-      "img": "https://shopping.toss.im/live/temp/2025-04-29/4f3839bc-d447-408d-af41-83c7283dfd79.jpeg",
-      "price": 10500,
-      "orig": 60000,
+      "id": 779603099,
+      "ko": "포천이동갈비, 1kg, 2팩",
+      "vi": "포천이동갈비, 1kg, 2팩",
+      "img": "https://shopping.toss.im/live/taca/ai/ZGU1M2Ni/QUlSbkFXVWhwUVdXaGJIZm5sUDJkOC9mcHllV1h3WDFtK0lUbStZZDExeWM.png",
+      "price": 42900,
+      "orig": 250000,
       "disc": 82,
-      "url": "https://toss.im/_m/dUK4flJz",
-      "endAt": "2026-08-29T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 650246147,
-      "ko": "경남제약 레모나 샤인머스캣 젤리, 43g, 20개",
-      "vi": "경남제약 레모나 샤인머스캣 젤리, 43g, 20개",
-      "img": "https://shopping.toss.im/live/taca/ai/v2/NzMxZTll/QU9Na3ZNYWttM01aR2tYR1owK1JLWjJ4TE5aYXRIb2xaazVqbVpsYmtYWm0.png",
-      "price": 9900,
-      "orig": 30000,
-      "disc": 67,
-      "url": "https://toss.im/_m/fviE0MYA",
-      "endAt": "2026-08-29T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 2519583205,
-      "ko": "탐나유 캠벨포도, 2kg, 1개",
-      "vi": "탐나유 캠벨포도, 2kg, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/v2/MWJkZjAx/QUl1SkozcmRlMmtJMUEwMUtRcWxHUWptOVZ5dnZSV3VyVnhVSHJSUkR1Lys.png",
-      "price": 12800,
-      "orig": 37900,
-      "disc": 66,
-      "url": "https://toss.im/_m/DKQ63ydq",
-      "endAt": "2026-08-29T23:59:59+09:00",
+      "url": "https://toss.im/_m/XoBVlLXj",
+      "endAt": "2026-08-30T23:59:59+09:00",
       "tr": {
-        "vi": "Nho Tamnayu Campbell, 2kg, 1 quả",
-        "th": "องุ่นตำนายูแคมป์เบล 2กก. 1 ชิ้น",
-        "km": "Tamnayu Campbell ទំពាំងបាយជូ 2 គីឡូក្រាម 1 ដុំ",
-        "ne": "Tamnayu क्याम्पबेल अंगूर, 2 kg, 1 टुक्रा",
-        "id": "Anggur Tamnayu Campbell, 2kg, 1 buah",
-        "tl": "Tamnayu Campbell Grape, 2kg, 1 piraso",
-        "uz": "Tamnayu Kempbell uzum, 2kg, 1 dona",
-        "zh": "Tamnayu Campbell 葡萄，2kg，1 颗",
-        "en": "Tamnayu Campbell Grape, 2kg, 1 piece"
+        "vi": "Pocheon Idong Galbi, 1kg, 2 gói",
+        "th": "โพชอนอิดงคัลบี 1กก. 2ห่อ",
+        "km": "Pocheon Idong Galbi 1 គីឡូក្រាម 2 កញ្ចប់",
+        "ne": "Pocheon Idong Galbi, 1kg, 2 प्याक",
+        "id": "Pocheon Idong Galbi, 1kg, 2 bungkus",
+        "tl": "Pocheon Idong Galbi, 1kg, 2 packs",
+        "uz": "Pocheon Idong Galbi, 1kg, 2 paket",
+        "zh": "抱川二东排骨, 1kg, 2包",
+        "en": "Pocheon Idong Galbi, 1kg, 2 packs"
       }
     },
     {
       "cat": "deal",
-      "id": 93219325,
-      "ko": "대한민국농수산 에어프라이어 치킨, 한 마리, 1kg, 1개",
-      "vi": "대한민국농수산 에어프라이어 치킨, 한 마리, 1kg, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/MWM1NjJj/VE9aek9LZWJiYkdVNWlKbmxzeTZlRnJOM1p0NkREV3ZMd3c4TEt4d1Zodz0.png",
-      "price": 9900,
-      "orig": 21500,
-      "disc": 62,
-      "url": "https://toss.im/_m/RBOuMceC",
-      "endAt": "2026-08-29T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 126538969,
-      "ko": "생물 왕 바지락, 1kg, 1개",
-      "vi": "생물 왕 바지락, 1kg, 1개",
-      "img": "https://shopping.toss.im/live/product/39446397/df7a79ff-69b1-4ea9-9b04-6d76213022f1.png",
-      "price": 7900,
-      "orig": 20000,
-      "disc": 60,
-      "url": "https://toss.im/_m/HGe69gfc",
-      "endAt": "2026-08-29T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 111059033,
-      "ko": "ACRO 스마트 디지털 체중계, ibody-100, 화이트, 1개",
-      "vi": "ACRO 스마트 디지털 체중계, ibody-100, 화이트, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/NDE5NTlk/SE53WHhQclVlTFFMRlBIVXVWeVB4RGdjK0R4bm1XZWI4am53T1kvRG5PYz0.png",
-      "price": 13900,
-      "orig": 34900,
-      "disc": 60,
-      "url": "https://toss.im/_m/37ziu4K9",
-      "endAt": "2026-08-29T23:59:59+09:00",
+      "id": 138353753,
+      "ko": "슈틸루스터 클린 풋 전동 무선 발각질제거기, 올리브, 1개",
+      "vi": "슈틸루스터 클린 풋 전동 무선 발각질제거기, 올리브, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/ZTk3MmIz/QUlld0xROXFXOExZc1lhL01lRHNXcmxhUjdEZXBiZzlKMXR0d2w1KzFLMlo.png",
+      "price": 14900,
+      "orig": 79900,
+      "disc": 81,
+      "url": "https://toss.im/_m/Vcaps3In",
+      "endAt": "2026-08-30T23:59:59+09:00",
       "tr": {
-        "vi": "Cân kỹ thuật số thông minh ACRO, ibody-100, màu trắng, 1 chiếc",
-        "th": "ACRO เครื่องชั่งดิจิตอลอัจฉริยะ ibody-100 สีขาว 1 ชิ้น",
-        "km": "មាត្រដ្ឋានឌីជីថលឆ្លាតវៃ ACRO, ibody-100, ពណ៌ស, 1 ដុំ",
-        "ne": "ACRO स्मार्ट डिजिटल स्केल, ibody-100, सेतो, 1 टुक्रा",
-        "id": "Timbangan digital pintar ACRO, ibody-100, putih, 1 buah",
-        "uz": "ACRO aqlli raqamli tarozi, ibody-100, oq, 1 dona",
-        "zh": "ACRO 智能数字秤，ibody-100，白色，1 件",
-        "en": "ACRO smart digital scale, ibody-100, white, 1 piece"
+        "vi": "Stilooster Clean Foot Electric Cordless Foot Callus Remover, Olive, 1 Piece",
+        "th": "Stilooster Clean Foot เครื่องกำจัดแคลลัสเท้าไฟฟ้าไร้สาย, มะกอก, ชิ้น 1",
+        "km": "Stilooster Clean Foot Electric Cordless Foot Remover ប្រេងអូលីវ ១ដុំ",
+        "ne": "स्टिलोस्टर क्लिन फुट इलेक्ट्रिक कर्डलेस फुट क्यालस रिमूभर, ओलिभ, १ टुक्रा",
+        "id": "Stilooster Clean Foot Penghilang Kalus Kaki Tanpa Kabel Elektrik, Zaitun, 1 Buah",
+        "tl": "Stilooster Clean Foot Electric Cordless Foot Callus Remover, Olive, 1 Piece",
+        "uz": "Stilooster toza oyoq elektr simsiz oyoq kallusini olib tashlash, zaytun, 1 dona",
+        "zh": "Stilooster Clean Foot 电动无绳足部老茧去除器，橄榄色，1 件",
+        "en": "Stilooster Clean Foot Electric Cordless Foot Callus Remover, Olive, 1 Piece"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 1896378907,
+      "ko": "퓨노센스 듀얼 퓨어 크림, 50ml, 1개",
+      "vi": "퓨노센스 듀얼 퓨어 크림, 50ml, 1개",
+      "img": "https://shopping.toss.im/live/temp/2026-07-03/11bd041e-4d2f-4950-bb64-bd63cbd68c10.png",
+      "price": 9900,
+      "orig": 49800,
+      "disc": 80,
+      "url": "https://toss.im/_m/h5dHDfEp",
+      "endAt": "2026-08-30T23:59:59+09:00",
+      "tr": {
+        "vi": "Kem nguyên chất Funosense Dual, 50ml, 1 chiếc",
+        "th": "Funosense Dual Pure Cream 50มล. 1 ยูนิต",
+        "km": "Funosense Dual Pure Cream ចំណុះ 50ml 1 គ្រឿង",
+        "ne": "Funosense दोहोरो शुद्ध क्रीम, 50ml, 1 एकाइ",
+        "id": "Krim Murni Ganda Funosense, 50ml, 1 unit",
+        "tl": "Funosense Dual Pure Cream, 50ml, 1 unit",
+        "uz": "Funosense Dual Pure Cream, 50ml, 1 dona",
+        "zh": "Funosense 双效纯霜，50ml，1 单位",
+        "en": "Funosense Dual Pure Cream, 50ml, 1 unit"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 95354191,
+      "ko": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
+      "vi": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
+      "img": "https://shopping.toss.im/live/temp/2026-07-13/12251a6b-52f2-454b-a7a2-4505757a22ed.jpeg",
+      "price": 61900,
+      "orig": 299000,
+      "disc": 79,
+      "url": "https://toss.im/_m/HIck4CV5",
+      "endAt": "2026-08-30T23:59:59+09:00",
+      "tr": {
+        "vi": "Chong Kun Dang Health Lactopit Dang Care, 100 gói, 3 đơn vị + Lactopit Gold, 30 gói, 1 đơn vị + Promega Altizomega 3 Dual, dùng trong 15 ngày",
+        "th": "Chong Kun Dang Health Lactopit Dang Care 100 ซอง 3 ยูนิต + Lactopit Gold 30 ซอง 1 ยูนิต + Promega Altizomega 3 Dual จ่าย 15 วัน",
+        "km": "Chong Kun Dang Health Lactopit Dang Care 100 កញ្ចប់ 3 យូនីត + Lactopit Gold 30 កញ្ចប់ 1 យូនីត + Promega Altizomega 3 Dual ផ្គត់ផ្គង់ 15 ថ្ងៃ",
+        "ne": "चोङ कुन दाङ हेल्थ ल्याक्टोपिट डाङ केयर, १०० प्याकेट, ३ इकाइ + ल्याक्टोपिट गोल्ड, ३० प्याकेट, १ युनिट + प्रोमेगा अल्टिजोमेगा ३ डुअल, १५ दिने आपूर्ति",
+        "id": "Chong Kun Dang Health Lactopit Dang Care, 100 paket, 3 unit + Lactopit Gold, 30 paket, 1 unit + Promega Altizomega 3 Dual, persediaan 15 hari",
+        "uz": "Chong Kun Dang Health Lactopit Dang Care, 100 paket, 3 dona + Lactopit Gold, 30 paket, 1 dona + Promega Altizomega 3 Dual, 15 kunlik yetkazib berish",
+        "zh": "Chong Kun Dang Health Lactopit Dang Care，100 包，3 单位 + Lactopit Gold，30 包，1 单位 + Promega Altizomega 3 Dual，15 天供应量",
+        "en": "Chong Kun Dang Health Lactopit Dang Care, 100 packets, 3 units + Lactopit Gold, 30 packets, 1 unit + Promega Altizomega 3 Dual, 15-day supply",
+        "tl": "Chong Kun Dang Health Lactopit Dang Care, 100 packets, 3 units + LactoFit Gold, 30 packets, 1 unit + Promega Altizomega 3 Dual, 15-day supply"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 141188161,
+      "ko": "빅토나인 펩타이드 앤 비타민 리프팅 앰플, 50ml, 2개",
+      "vi": "빅토나인 펩타이드 앤 비타민 리프팅 앰플, 50ml, 2개",
+      "img": "https://shopping.toss.im/live/taca/ai/NWIzNmM2/WXh4R1RkLzJPYk43dXZiTWhFVVpzM01wNUVYKzlqKzc0UXpYMUFBQktTcz0.png",
+      "price": 27790,
+      "orig": 136000,
+      "disc": 79,
+      "url": "https://toss.im/_m/bYzNJxot",
+      "endAt": "2026-08-30T23:59:59+09:00",
+      "tr": {
+        "vi": "Victonine Peptide & Vitamin Lifting Ampoule, 50ml, 2 đơn vị",
+        "th": "Victonine Peptide & Vitamin Lifting Ampoule, 50ml, 2 ยูนิต",
+        "km": "Victonine Peptide & Vitamin Lifting Ampoule ចំណុះ 50ml, 2 គ្រឿង",
+        "ne": "भिक्टोनिन पेप्टाइड र भिटामिन लिफ्टिङ एम्पौल, ५० एमएल, २ इकाइहरू",
+        "id": "Victonine Peptide & Vitamin Lifting Ampoule, 50ml, 2 unit",
+        "tl": "Victonine Peptide at Vitamin Lifting Ampoule, 50ml, 2 units",
+        "uz": "Victonine Peptide & Vitamin Lifting Ampulasi, 50ml, 2 dona",
+        "zh": "Victonine 肽和维生素提升安瓶，50ml，2 单位",
+        "en": "Victonine Peptide & Vitamin Lifting Ampoule, 50ml, 2 units"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 2510983215,
+      "ko": "커밍글 캔디 팜므 아쿠아 헤어 노워시 트리트먼트, 플로럴머스크, 200ml, 1개",
+      "vi": "커밍글 캔디 팜므 아쿠아 헤어 노워시 트리트먼트, 플로럴머스크, 200ml, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/v2/MmQ5YjZi/WkxPMnRXcVVOWnN0V3FXdEtyV2FsSlZMMVdtcmRJcTFxdFZXbERhdGFXMD0.png",
+      "price": 7500,
+      "orig": 26900,
+      "disc": 72,
+      "url": "https://toss.im/_m/570nr1Ey",
+      "endAt": "2026-08-30T23:59:59+09:00",
+      "tr": {
+        "vi": "Kem dưỡng tóc không cần gội Comele Candy Femme Aqua, Hương hoa xạ hương, 200ml, 1 miếng",
+        "th": "Comingle Candy Femme Aqua Hair No-Wash Treatment ฟลอรัล มัสค์ 200มล. 1 ชิ้น",
+        "km": "Comingle Candy Femme Aqua Hair No-Wash Treatment, Floral Musk, 200ml, 1ដុំ",
+        "ne": "कमिंगल क्यान्डी फेमे एक्वा हेयर नो-वाश ट्रीटमेन्ट, फ्लोरल मस्क, २०० एमएल, १ टुक्रा",
+        "id": "Perawatan Tanpa Cuci Rambut Comingle Candy Femme Aqua, Floral Musk, 200ml, 1 buah",
+        "tl": "Comingle Candy Femme Aqua Hair No-Wash Treatment, Floral Musk, 200ml, 1 piraso",
+        "uz": "Comingle Candy Femme Aqua sochlar uchun yuvilmaydigan parvarish, gulli mushk, 200ml, 1 dona",
+        "zh": "Comingle Candy Femme Aqua 免洗护发素，花香麝香，200 毫升，1 件",
+        "en": "Comingle Candy Femme Aqua Hair No-Wash Treatment, Floral Musk, 200ml, 1 piece"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 2558980107,
+      "ko": "한입 쥐포, 30미, 1봉",
+      "vi": "한입 쥐포, 30미, 1봉",
+      "img": "https://shopping.toss.im/live/temp/2026-07-31/a06a92f9-8e1e-4556-8657-4bc21520c4bc.jpeg",
+      "price": 8900,
+      "orig": 29900,
+      "disc": 70,
+      "url": "https://toss.im/_m/bH4fSS8B",
+      "endAt": "2026-08-30T23:59:59+09:00",
+      "tr": {
+        "vi": "Rắn chuông một miếng, 30 miếng, 1 túi",
+        "th": "งูหางกระดิ่งกัด 30 ตัว 1 ถุง",
+        "km": "ពស់វែកមួយខាំ ៣០ដុំ ថង់ធំ ១",
+        "ne": "एक-दंश गरेको रैटलस्नेक, 30 टुक्रा, 1 झोला",
+        "id": "Ular derik sekali gigit, 30 buah, 1 kantong",
+        "tl": "Isang kagat na rattlesnake, 30 piraso, 1 bag",
+        "uz": "Bir tishlagan guruchli ilon, 30 dona, 1 ta sumka",
+        "zh": "一咬响尾蛇，30 条，1 袋",
+        "en": "One-bite rattlesnake, 30 pieces, 1 bag"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 386800781,
+      "ko": "보넬드 아이엠 당근 주스, 1L, 3병",
+      "vi": "보넬드 아이엠 당근 주스, 1L, 3병",
+      "img": "https://shopping.toss.im/live/taca/ai/YzFlMzU3/QUljMVpteGV0THViZkh5WmxzUERabVE4UHBtYkhnNDd0bkRrczV2RHdNN2s.png",
+      "price": 25150,
+      "orig": 84900,
+      "disc": 70,
+      "url": "https://toss.im/_m/ZgRP0LLD",
+      "endAt": "2026-08-30T23:59:59+09:00",
+      "tr": {
+        "vi": "Nước ép cà rốt Bonelled I'm, 1L, 3 chai",
+        "th": "น้ำแครอท Bonnelled I'm 1 ลิตร 3 ขวด",
+        "km": "Bonnelled I'm Carrot Juice, 1L, 3ដប",
+        "ne": "Bonnelled म गाजरको रस, 1L, 3 बोतल हुँ",
+        "id": "Bonnelled I'm Jus Wortel, 1L, 3 botol",
+        "tl": "Bonnelled Ako ay Carrot Juice, 1L, 3 bote",
+        "uz": "Bonnelled men sabzi sharbati, 1 litr, 3 shisha",
+        "zh": "Bonnelled 我是胡萝卜汁，1L，3 瓶",
+        "en": "Bonnelled I'm Carrot Juice, 1L, 3 bottles"
       }
     },
     {
@@ -699,7 +821,8 @@
         "id": "2 jenis koper jinjing Weimar, biru kabut, 1 14 inci + 1 20 inci, 1 set",
         "uz": "2 turdagi Veymar chamadonlari, tuman ko'k, 1 14 dyuym + 1 20 dyuym, 1 to'plam",
         "zh": "威玛随身行李箱2款，雾蓝色，1个14寸+1个20寸，1套",
-        "en": "2 types of Weimar carry-on suitcases, mist blue, 1 14-inch + 1 20-inch, 1 set"
+        "en": "2 types of Weimar carry-on suitcases, mist blue, 1 14-inch + 1 20-inch, 1 set",
+        "tl": "2 uri ng Weimar carry-on na maleta, mist blue, 1 14-inch + 1 20-inch, 1 set"
       }
     },
     {
@@ -711,7 +834,18 @@
       "price": 45900,
       "orig": 239000,
       "disc": 80,
-      "url": "https://toss.im/_m/xhpv9ufh"
+      "url": "https://toss.im/_m/xhpv9ufh",
+      "tr": {
+        "vi": "Vali xách tay hoài niệm, màu trắng, size 20, snap trip",
+        "th": "กระเป๋าเดินทางขึ้นเครื่อง Nostalgia สีขาว ไซส์ 20 snap trip",
+        "km": "កាបូបស្ពាយតាមខ្លួន Nostalgia ពណ៌ស ទំហំ 20 ខ្ទាស់ការធ្វើដំណើរ",
+        "ne": "नोस्टाल्जिया क्यारी-अन सुटकेस, सेतो, साइज २०, स्न्याप ट्रिप",
+        "id": "Koper Jinjing Nostalgia, Putih, Ukuran 20, Perjalanan Jepret",
+        "tl": "Nostalgia carry-on na maleta, puti, size 20, snap trip",
+        "uz": "Nostalji qo'l chamadon, oq, o'lcham 20, tez sayohat",
+        "zh": "怀旧随身行李箱，白色，尺寸 20，snap trip",
+        "en": "Nostalgia carry-on suitcase, white, size 20, snap trip"
+      }
     },
     {
       "cat": "home",
