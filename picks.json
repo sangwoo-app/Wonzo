@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T03:01:20.189Z",
+  "updated": "2026-08-29T09:01:16.440Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -593,6 +593,18 @@
     },
     {
       "cat": "deal",
+      "id": 93219325,
+      "ko": "대한민국농수산 에어프라이어 치킨, 한 마리, 1kg, 1개",
+      "vi": "대한민국농수산 에어프라이어 치킨, 한 마리, 1kg, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/MWM1NjJj/VE9aek9LZWJiYkdVNWlKbmxzeTZlRnJOM1p0NkREV3ZMd3c4TEt4d1Zodz0.png",
+      "price": 9900,
+      "orig": 21500,
+      "disc": 62,
+      "url": "https://toss.im/_m/RBOuMceC",
+      "endAt": "2026-08-29T23:59:59+09:00"
+    },
+    {
+      "cat": "deal",
       "id": 126538969,
       "ko": "생물 왕 바지락, 1kg, 1개",
       "vi": "생물 왕 바지락, 1kg, 1개",
@@ -601,18 +613,6 @@
       "orig": 20000,
       "disc": 60,
       "url": "https://toss.im/_m/HGe69gfc",
-      "endAt": "2026-08-29T23:59:59+09:00"
-    },
-    {
-      "cat": "deal",
-      "id": 138916923,
-      "ko": "리벤스 밀대걸레, 그레이, 특대형, 1개 + 물걸레 청소포, 특대형, 캡형, 25매, 1개, 1세트",
-      "vi": "리벤스 밀대걸레, 그레이, 특대형, 1개 + 물걸레 청소포, 특대형, 캡형, 25매, 1개, 1세트",
-      "img": "https://shopping.toss.im/live/taca/ai/MGFhYTNl/QVBJK1pqSk14Uk5zVWZQWnlWMGUxSjZFMFd0ck0yRlVvdGNzclZvaXdhcTE.png",
-      "price": 7900,
-      "orig": 19900,
-      "disc": 60,
-      "url": "https://toss.im/_m/3rWYTGud",
       "endAt": "2026-08-29T23:59:59+09:00"
     },
     {
