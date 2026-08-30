@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T03:00:25.345Z",
+  "updated": "2026-08-30T09:00:13.512Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -263,7 +263,8 @@
         "id": "Sepatu dapur tahan air anti selip Xpers, HIT2100, jenis sepatu, hitam, 260, 1 buah",
         "uz": "Xpers sirpanmaydigan suv o'tkazmaydigan oshxona poyabzali, HIT2100, poyabzal turi, qora, 260, 1 dona",
         "zh": "Xpers 防滑防水厨房鞋 HIT2100 鞋型 黑色 260 1 件",
-        "en": "Xpers non-slip waterproof kitchen shoes, HIT2100, shoe type, black, 260, 1 piece"
+        "en": "Xpers non-slip waterproof kitchen shoes, HIT2100, shoe type, black, 260, 1 piece",
+        "tl": "Xpers non-slip waterproof na sapatos sa kusina, HIT2100, uri ng sapatos, itim, 260, 1 piraso"
       }
     },
     {
@@ -526,41 +527,53 @@
         "id": "Lievens Tisu Basah Lavender Violet, 100 lembar, 20 bungkus",
         "uz": "Lievens Lavanda binafsha nam to'qimalari, 100 varaq, 20 paket",
         "zh": "Lievens 薰衣草紫湿纸巾，100 张，20 包",
-        "en": "Lievens Lavender Violet Wet Tissues, 100 sheets, 20 packs"
+        "en": "Lievens Lavender Violet Wet Tissues, 100 sheets, 20 packs",
+        "tl": "Lievens Lavender Violet Wet Tissues, 100 sheet, 20 pack"
       }
     },
     {
       "cat": "life",
-      "id": 1732110681,
-      "ko": "광동 썬키스트 피스타치오 언스위트, 190ml, 24개",
-      "vi": "광동 썬키스트 피스타치오 언스위트, 190ml, 24개",
-      "img": "https://shopping.toss.im/live/taca/ai/YmFiNjkz/QU1lZGIxeDYyUmFuYTNMTDNMU05yYlJVanl0YWVuUFVwNlhRMk0rbDBDdFU.png",
-      "price": 7700,
-      "orig": 27900,
-      "disc": 72,
-      "url": "https://toss.im/_m/7yUTq2Yb",
+      "id": 2529818959,
+      "ko": "초록매실 스파클링 제로, 350ml, 40개",
+      "vi": "초록매실 스파클링 제로, 350ml, 40개",
+      "img": "https://shopping.toss.im/live/taca/ai/OTg1MDQ2/QUpadXBhRjlLNHZaZmxSQ1k2bVRHMGxVN0tjbktaQ05pVkpycThOTm5CYWw.png",
+      "price": 29800,
+      "orig": 82500,
+      "disc": 63,
+      "url": "https://toss.im/_m/rmTPLPAj",
       "tr": {
-        "vi": "Quả hồ trăn Sunkist Quảng Đông không đường, 190ml, 24 miếng",
-        "th": "กวางตุ้ง ซันคิสท์ พิสตาชิโอ รสไม่หวาน 190มล. 24 ชิ้น",
-        "km": "Guangdong Sunkist Pistachio Unsweetened, 190ml, 24 ដុំ",
-        "ne": "गुआंग्डोंग सनकिस्ट पिस्ता नमिठो, 190ml, 24 टुक्रा",
-        "id": "Guangdong Sunkist Pistachio Tanpa Pemanis, 190ml, 24 buah",
-        "tl": "Guangdong Sunkist Pistachio Unsweetened, 190ml, 24 piraso",
-        "uz": "Guangdong Sunkist pista shakarsiz, 190ml, 24 dona",
-        "zh": "广东新奇士开心果无糖，190ml，24粒",
-        "en": "Guangdong Sunkist Pistachio Unsweetened, 190ml, 24 pieces"
+        "vi": "Mận Xanh Sparkling Zero, 350ml, 40 miếng",
+        "th": "Green Plum Sparkling Zero 350ml 40 ชิ้น",
+        "km": "Green Plum Sparkling Zero, 350ml, 40 ដុំ",
+        "ne": "हरियो बेर स्पार्कलिंग शून्य, 350ml, 40 टुक्रा",
+        "id": "Green Plum Sparkling Zero, 350ml, 40 buah",
+        "tl": "Green Plum Sparkling Zero, 350ml, 40 piraso",
+        "uz": "Yashil olxo'ri Sparkling Zero, 350ml, 40 dona",
+        "zh": "青梅零气泡酒，350ml，40 件",
+        "en": "Green Plum Sparkling Zero, 350ml, 40 pieces"
       }
     },
     {
       "cat": "life",
-      "id": 116052371,
-      "ko": "할리스 바닐라 딜라이트 로우슈거, 450ml, 24개",
-      "vi": "할리스 바닐라 딜라이트 로우슈거, 450ml, 24개",
-      "img": "https://shopping.toss.im/live/taca/ai/v2/YjM4MGIz/QWYvT2EwWjhzWkc1czhyRHprelBIRENqTmVoTlhNNDNxcmNSeUJWSXlETT0.png",
-      "price": 23690,
-      "orig": 76800,
-      "disc": 69,
-      "url": "https://toss.im/_m/HKNCtHG8"
+      "id": 2548898541,
+      "ko": "바리스타룰스 원데이 무라벨, 저당라떼, 350ml, 20개",
+      "vi": "바리스타룰스 원데이 무라벨, 저당라떼, 350ml, 20개",
+      "img": "https://shopping.toss.im/live/taca/ai/M2E1ZjAy/S25UWWxIcFdhWk1hMWtvUVNrendtL3BrVE5SRE0xZUxtT3dzbEx4NGhhdz0.png",
+      "price": 19400,
+      "orig": 50000,
+      "disc": 61,
+      "url": "https://toss.im/_m/Fw6yADUg",
+      "tr": {
+        "vi": "Quy tắc Barista Một ngày không nhãn, Latte ít đường, 350ml, 20 chiếc.",
+        "th": "Barista Rules One Day Label-Free, Low Sugar Latte, 350ml, 20 ชิ้น",
+        "km": "Barista Rules One Day Label-Free, Low Sugar Latte, 350ml, 20pcs.",
+        "ne": "बरिस्ता नियमहरू एक दिन लेबल-मुक्त, कम चिनी ल्याटे, 350 एमएल, 20 पीसी।",
+        "id": "Barista Rules Satu Hari Bebas Label, Latte Rendah Gula, 350ml, 20 pcs.",
+        "uz": "Barista qoidalari Bir kunlik yorliqsiz, past shakarli latte, 350ml, 20 dona.",
+        "zh": "Barista Rules 一日无标签低糖拿铁，350 毫升，20 件。",
+        "en": "Barista Rules One Day Label-Free, Low Sugar Latte, 350ml, 20 pcs.",
+        "tl": "Mga Panuntunan ng Barista Isang Araw na Walang Label, Mababang Sugar Latte, 350ml, 20 mga PC."
+      }
     },
     {
       "cat": "deal",
@@ -610,29 +623,6 @@
     },
     {
       "cat": "deal",
-      "id": 138353753,
-      "ko": "슈틸루스터 클린 풋 전동 무선 발각질제거기, 올리브, 1개",
-      "vi": "슈틸루스터 클린 풋 전동 무선 발각질제거기, 올리브, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/ZTk3MmIz/QUlld0xROXFXOExZc1lhL01lRHNXcmxhUjdEZXBiZzlKMXR0d2w1KzFLMlo.png",
-      "price": 14900,
-      "orig": 79900,
-      "disc": 81,
-      "url": "https://toss.im/_m/Vcaps3In",
-      "endAt": "2026-08-30T23:59:59+09:00",
-      "tr": {
-        "vi": "Stilooster Clean Foot Electric Cordless Foot Callus Remover, Olive, 1 Piece",
-        "th": "Stilooster Clean Foot เครื่องกำจัดแคลลัสเท้าไฟฟ้าไร้สาย, มะกอก, ชิ้น 1",
-        "km": "Stilooster Clean Foot Electric Cordless Foot Remover ប្រេងអូលីវ ១ដុំ",
-        "ne": "स्टिलोस्टर क्लिन फुट इलेक्ट्रिक कर्डलेस फुट क्यालस रिमूभर, ओलिभ, १ टुक्रा",
-        "id": "Stilooster Clean Foot Penghilang Kalus Kaki Tanpa Kabel Elektrik, Zaitun, 1 Buah",
-        "tl": "Stilooster Clean Foot Electric Cordless Foot Callus Remover, Olive, 1 Piece",
-        "uz": "Stilooster toza oyoq elektr simsiz oyoq kallusini olib tashlash, zaytun, 1 dona",
-        "zh": "Stilooster Clean Foot 电动无绳足部老茧去除器，橄榄色，1 件",
-        "en": "Stilooster Clean Foot Electric Cordless Foot Callus Remover, Olive, 1 Piece"
-      }
-    },
-    {
-      "cat": "deal",
       "id": 88299315,
       "ko": "캔음료 보관랙 디스펜서, 중, 1개",
       "vi": "캔음료 보관랙 디스펜서, 중, 1개",
@@ -652,6 +642,29 @@
         "uz": "Konservalangan ichimliklar uchun stendli dispenser, o'rtacha, 1 dona",
         "zh": "罐装饮料储存架分配器，中号，1 件",
         "en": "Canned beverage storage rack dispenser, medium, 1 unit"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 95354191,
+      "ko": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
+      "vi": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
+      "img": "https://shopping.toss.im/live/temp/2026-07-13/12251a6b-52f2-454b-a7a2-4505757a22ed.jpeg",
+      "price": 58805,
+      "orig": 299000,
+      "disc": 80,
+      "url": "https://toss.im/_m/HIck4CV5",
+      "endAt": "2026-08-30T23:59:59+09:00",
+      "tr": {
+        "vi": "Chong Kun Dang Health Lactopit Dang Care, 100 gói, 3 đơn vị + Lactopit Gold, 30 gói, 1 đơn vị + Promega Altizomega 3 Dual, dùng trong 15 ngày",
+        "th": "Chong Kun Dang Health Lactopit Dang Care 100 ซอง 3 ยูนิต + Lactopit Gold 30 ซอง 1 ยูนิต + Promega Altizomega 3 Dual จ่าย 15 วัน",
+        "km": "Chong Kun Dang Health Lactopit Dang Care 100 កញ្ចប់ 3 យូនីត + Lactopit Gold 30 កញ្ចប់ 1 យូនីត + Promega Altizomega 3 Dual ផ្គត់ផ្គង់ 15 ថ្ងៃ",
+        "ne": "चोङ कुन दाङ हेल्थ ल्याक्टोपिट डाङ केयर, १०० प्याकेट, ३ इकाइ + ल्याक्टोपिट गोल्ड, ३० प्याकेट, १ युनिट + प्रोमेगा अल्टिजोमेगा ३ डुअल, १५ दिने आपूर्ति",
+        "id": "Chong Kun Dang Health Lactopit Dang Care, 100 paket, 3 unit + Lactopit Gold, 30 paket, 1 unit + Promega Altizomega 3 Dual, persediaan 15 hari",
+        "uz": "Chong Kun Dang Health Lactopit Dang Care, 100 paket, 3 dona + Lactopit Gold, 30 paket, 1 dona + Promega Altizomega 3 Dual, 15 kunlik yetkazib berish",
+        "zh": "Chong Kun Dang Health Lactopit Dang Care，100 包，3 单位 + Lactopit Gold，30 包，1 单位 + Promega Altizomega 3 Dual，15 天供应量",
+        "en": "Chong Kun Dang Health Lactopit Dang Care, 100 packets, 3 units + Lactopit Gold, 30 packets, 1 unit + Promega Altizomega 3 Dual, 15-day supply",
+        "tl": "Chong Kun Dang Health Lactopit Dang Care, 100 packets, 3 units + LactoFit Gold, 30 packets, 1 unit + Promega Altizomega 3 Dual, 15-day supply"
       }
     },
     {
@@ -687,7 +700,18 @@
       "orig": 25000,
       "disc": 72,
       "url": "https://toss.im/_m/Vw0424bb",
-      "endAt": "2026-08-30T23:59:59+09:00"
+      "endAt": "2026-08-30T23:59:59+09:00",
+      "tr": {
+        "vi": "Kem chống nắng Etude Sunjeong Director Tone-Up Correction Sun Cream, 40ml, 2 chiếc",
+        "th": "Etude Sunjeong Director Tone-Up Correction Sun Cream 40มล. 2 ยูนิต",
+        "km": "Etude Sunjeong Director Tone-Up Correction Sun Cream, 40ml, 2 គ្រឿង",
+        "ne": "Etude Sunjeong निर्देशक टोन-अप सुधार सन क्रीम, 40ml, 2 एकाइहरू",
+        "id": "Etude Sunjeong Director Tone-Up Correction Sun Cream, 40ml, 2 unit",
+        "tl": "Etude Sunjeong Director Tone-Up Correction Sun Cream, 40ml, 2 units",
+        "uz": "Etude Sunjeong direktori ohangni oshiruvchi quyosh kremi, 40ml, 2 dona",
+        "zh": "Etude Sunjeong Director 提亮修正防晒霜，40 毫升，2 件",
+        "en": "Etude Sunjeong Director Tone-Up Correction Sun Cream, 40ml, 2 units"
+      }
     },
     {
       "cat": "deal",
@@ -788,7 +812,18 @@
       "price": 31800,
       "orig": 220000,
       "disc": 85,
-      "url": "https://toss.im/_m/RSDelLMp"
+      "url": "https://toss.im/_m/RSDelLMp",
+      "tr": {
+        "vi": "Giá đỡ Escudama Arona, 20 inch, bạc, 1 chiếc",
+        "th": "พาหนะ Escudama Arona 20 นิ้ว สีเงิน 1 ชิ้น",
+        "km": "ក្រុមហ៊ុនដឹកជញ្ជូន Escudama Arona 20 អ៊ីញ ប្រាក់ 1 ដុំ",
+        "ne": "Escudama Arona वाहक, 20 इन्च, चाँदी, 1 टुक्रा",
+        "id": "Pembawa Escudama Arona, 20 inci, perak, 1 buah",
+        "tl": "Escudama Arona carrier, 20 pulgada, pilak, 1 piraso",
+        "uz": "Escudama Arona tashuvchisi, 20 dyuym, kumush, 1 dona",
+        "zh": "Escudama Arona 背带，20 英寸，银色，1 件",
+        "en": "Escudama Arona carrier, 20 inches, silver, 1 piece"
+      }
     },
     {
       "cat": "home",
