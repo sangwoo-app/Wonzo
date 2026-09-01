@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T03:00:15.455Z",
+  "updated": "2026-09-01T09:00:13.966Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -581,9 +581,9 @@
       "ko": "글로우알엑스 에프터살롱 트리트먼트, 150ml, 10개",
       "vi": "글로우알엑스 에프터살롱 트리트먼트, 150ml, 10개",
       "img": "https://shopping.toss.im/live/temp/2026-07-01/8ba78a7b-71e1-427c-bd9d-c4ae4a221fd9.jpeg",
-      "price": 22500,
+      "price": 25900,
       "orig": 290000,
-      "disc": 92,
+      "disc": 91,
       "url": "https://toss.im/_m/TMSx49ag",
       "endAt": "2026-09-01T23:59:59+09:00",
       "tr": {
@@ -623,6 +623,29 @@
     },
     {
       "cat": "deal",
+      "id": 56237437,
+      "ko": "블루나 나우비데 물티슈 캡형, 50매, 12팩",
+      "vi": "블루나 나우비데 물티슈 캡형, 50매, 12팩",
+      "img": "https://shopping.toss.im/live/taca/ai/ODU1NWM1/VDBsMGJacVdzekZsNlU3VzBibU5LMUtXek00bklYS1dtM1N0S1c3VUF2UT0.png",
+      "price": 10990,
+      "orig": 38000,
+      "disc": 71,
+      "url": "https://toss.im/_m/vsGPO9k3",
+      "endAt": "2026-09-01T23:59:59+09:00",
+      "tr": {
+        "vi": "Khăn lau ướt Bluena Now Bidet loại nắp, 50 tờ, 12 gói",
+        "th": "บลูน่า นาว บิเดต์ทิชชู่เปียกแบบฝา 50 แผ่น 12 ห่อ",
+        "km": "Bluena Now Bidet ប្រភេទកន្សែងសើម 50សន្លឹក 12កញ្ចប់",
+        "ne": "Bluena Now Bidet गीला वाइप्स टोपी प्रकार, 50 पानाहरू, 12 प्याकहरू",
+        "id": "Tisu basah Bluena Now Bidet tipe tutup, 50 lembar, 12 bungkus",
+        "tl": "Bluena Now Bidet wet wipes type cap, 50 sheets, 12 pack",
+        "uz": "Bluena Now Bidet nam salfetkalari qopqoq turi, 50 varaq, 12 paket",
+        "zh": "Bluena Now 净身湿巾帽型，50 张，12 包",
+        "en": "Bluena Now Bidet wet wipes cap type, 50 sheets, 12 packs"
+      }
+    },
+    {
+      "cat": "deal",
       "id": 2051691069,
       "ko": "탐나유 수미 햇감자, 중, 3kg, 1개",
       "vi": "탐나유 수미 햇감자, 중, 3kg, 1개",
@@ -642,6 +665,29 @@
         "uz": "Tamnayu Sumi yangi kartoshka, o'rtacha, 3kg, 1 dona",
         "zh": "Tamnayu Sumi 新土豆，中等，3 公斤，1 个",
         "en": "Tamnayu Sumi new potatoes, medium, 3kg, 1 piece"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 2523489535,
+      "ko": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "vi": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "img": "https://shopping.toss.im/live/taca/ai/v2/Y2VjZDA0/QU0zUE1sbU83WnJNYzlITWJKdE1PMndsdzBsdFdFeHprN1cwNWowT0xJM1Q.png",
+      "price": 9990,
+      "orig": 33600,
+      "disc": 70,
+      "url": "https://toss.im/_m/7kmaL9D5",
+      "endAt": "2026-09-01T23:59:59+09:00",
+      "tr": {
+        "vi": "Nước ép bắp cải Purutdam Young Farmer, 100ml, 30 gói",
+        "th": "ปุรุดำน้ำกะหล่ำปลีชาวนาหนุ่ม 100มล. 30 ซอง",
+        "km": "Purutdam Young Farmer Juice 100ml 30 កញ្ចប់",
+        "ne": "पुरुत्तम युवा किसान बन्दाको रस, 100 एमएल, 30 प्याक",
+        "id": "Jus Kubis Petani Muda Purutdam, 100ml, 30 bungkus",
+        "tl": "Purutdam Young Farmer Cabbage Juice, 100ml, 30 pack",
+        "uz": "Purutdam yosh fermer karam sharbati, 100ml, 30 paket",
+        "zh": "Purutdam Young Farmer 卷心菜汁，100ml，30 包",
+        "en": "Purutdam Young Farmer Cabbage Juice, 100ml, 30 packs"
       }
     },
     {
@@ -711,52 +757,6 @@
         "uz": "Pantech 100W C dan C gacha ultra tez zaryadlovchi silikon kabel, oq, 2m, 1 dona",
         "zh": "Pantech 100W C to C超快充硅胶线，白色，2m，1条",
         "en": "Pantech 100W C to C ultra-fast charging silicone cable, white, 2m, 1 piece"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 2508658975,
-      "ko": "흑돼지 일품삼겹, 구이용, 1kg, 1팩",
-      "vi": "흑돼지 일품삼겹, 구이용, 1kg, 1팩",
-      "img": "https://shopping.toss.im/live/taca/ai/v2/N2FmZWQ1/SkpZaGpqN0NwSER6WFZNT1ljNjRaWVptY3lQVWtlYTNpeG9IRURzL00vQT0.png",
-      "price": 12900,
-      "orig": 35900,
-      "disc": 64,
-      "url": "https://toss.im/_m/HJWqibN",
-      "endAt": "2026-09-01T23:59:59+09:00",
-      "tr": {
-        "vi": "Thịt lợn đen, Ilpum Samgyeop, để nướng, 1kg, 1 gói",
-        "th": "หมูดำ อิลปุม ซัมกยอบ สำหรับย่าง 1กก. 1 แพ็ค",
-        "km": "សាច់ជ្រូកខ្មៅ Ilpum Samgyeop សម្រាប់អាំង ១គីឡូក្រាម ១កញ្ចប់",
-        "ne": "कालो पोर्क, Ilpum Samgyeop, ग्रिलिंगको लागि, 1 kg, 1 प्याक",
-        "id": "Babi hitam, Ilpum Samgyeop, untuk dipanggang, 1kg, 1 bungkus",
-        "tl": "Itim na baboy, Ilpum Samgyeop, para sa pag-ihaw, 1kg, 1 pack",
-        "uz": "Qora cho'chqa go'shti, Ilpum Samgyeop, grilda pishirish uchun, 1kg, 1 paket",
-        "zh": "黑猪肉，Ilpum Samgyeop，烧烤用，1 公斤，1 包",
-        "en": "Black pork, Ilpum Samgyeop, for grilling, 1kg, 1 pack"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 146033237,
-      "ko": "광동 광옥고 보력환, 3.75g, 30환, 1세트",
-      "vi": "광동 광옥고 보력환, 3.75g, 30환, 1세트",
-      "img": "https://shopping.toss.im/live/taca/ai/v2/YjgzYTJk/QUplMnd5U2Z0bncreThONC9MUmVLVWxhMC9JYnJXbUdsbHg0aDZHWHBYaDg.png",
-      "price": 18600,
-      "orig": 50000,
-      "disc": 62,
-      "url": "https://toss.im/_m/HmCeztVg",
-      "endAt": "2026-09-01T23:59:59+09:00",
-      "tr": {
-        "vi": "Thuốc tăng lực Gwangokgo Quảng Đông, 3.75g, 30 viên, 1 bộ",
-        "th": "ยาเพิ่มความแข็งแรงกวางตุ้งกวังโกโกะ 3.75g 30 เม็ด 1 ชุด",
-        "km": "ថ្នាំបំប៉នកម្លាំង Guangdong Gwangokgo 3.75g 30 គ្រាប់ 1 ឈុត",
-        "ne": "गुआंग्डोंग ग्वांगोगो बलियो बनाउने चक्की, 3.75 ग्राम, 30 चक्की, 1 सेट",
-        "id": "Pil Penguat Guangdong Gwangokgo, 3,75g, 30 pil, 1 set",
-        "tl": "Guangdong Gwangokgo Strengthening Pills, 3.75g, 30 pills, 1 set",
-        "uz": "Guangdong Gvangokgo mustahkamlovchi tabletkalar, 3,75 g, 30 tabletka, 1 to'plam",
-        "zh": "广东光谷果壮阳丸, 3.75g, 30粒, 1套",
-        "en": "Guangdong Gwangokgo Strengthening Pills, 3.75g, 30 pills, 1 set"
       }
     },
     {
