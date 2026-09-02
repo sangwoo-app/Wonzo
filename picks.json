@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T03:00:14.278Z",
+  "updated": "2026-09-02T09:00:14.961Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -336,23 +336,23 @@
     {
       "cat": "food",
       "id": 146143371,
-      "ko": "외갓집 진심 육개장, 600g, 3개",
-      "vi": "외갓집 진심 육개장, 600g, 3개",
+      "ko": "외갓집 진심 육개장 진, 600g, 3개",
+      "vi": "외갓집 진심 육개장 진, 600g, 3개",
       "img": "https://shopping.toss.im/live/taca/ai/ZGE1NWEw/T2h3UEtmbzVhVDJvUGExdGtQM2R2UVBrTnFVLzhXdTAvd083VWdBYi9NQT0.png",
       "price": 11980,
       "orig": 30000,
       "disc": 60,
       "url": "https://toss.im/_m/b1xqVeR9",
       "tr": {
-        "vi": "Oegatjip Jinsim Yukgaejang, 600g, 3 miếng",
-        "th": "เอกัทจิป จินซิม ยุกเกจัง 600กรัม 3 ชิ้น",
-        "km": "Oegatjip Jinsim Yukgaejang, 600 ក្រាម, 3 បំណែក",
-        "ne": "Oegatjip Jinsim Yukgaejang, 600 ग्राम, 3 टुक्रा",
-        "id": "Oegatjip Jinsim Yukgaejang, 600g, 3 buah",
-        "uz": "Oegatjip Jinsim Yukgaejang, 600g, 3 dona",
-        "zh": "Oegatjip Jinsim Yukgaejang, 600g, 3 件",
-        "en": "Oegatjip Jinsim Yukgaejang, 600g, 3 pieces",
-        "tl": "Oegatjip Jinsim Yukgaejang, 600g, 3 piraso"
+        "vi": "Oegatjip Jinsim Yukgaejang Jin, 600g, 3 miếng",
+        "th": "โอกัตจิป จินซิม ยุคเกจังจิน 600ก. 3 ชิ้น",
+        "km": "Oegatjip Jinsim Yukgaejang Jin, 600g, 3 បំណែក",
+        "ne": "Oegatjip Jinsim Yukgaejang जिन, 600g, 3 टुक्रा",
+        "id": "Oegatjip Jinsim Yukgaejang Jin, 600g, 3 buah",
+        "tl": "Oegatjip Jinsim Yukgaejang Jin, 600g, 3 piraso",
+        "uz": "Oegatjip Jinsim Yukgaejang Jin, 600g, 3 dona",
+        "zh": "Oegatjip Jinsim Yukgaejang Jin, 600g, 3 件",
+        "en": "Oegatjip Jinsim Yukgaejang Jin, 600g, 3 pieces"
       }
     },
     {
@@ -361,9 +361,9 @@
       "ko": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
       "vi": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
       "img": "https://shopping.toss.im/live/taca/ai/MDAwYTE4/TXpZeU5tWmxhejZaT1pseDJqSWNKd0xtWXRaN0NWb1M0V2lsdEY2bXBLND0.png",
-      "price": 19900,
+      "price": 4900,
       "orig": 150000,
-      "disc": 86,
+      "disc": 96,
       "url": "https://toss.im/_m/rwY8saKf",
       "tr": {
         "vi": "Đậu Ruffini Ngũ Cốc Days On Demeter, 300g, 5 miếng",
@@ -577,6 +577,29 @@
     },
     {
       "cat": "deal",
+      "id": 57075353,
+      "ko": "김정문알로에 큐어 안티에이징 크림 S, 50g, 2개",
+      "vi": "김정문알로에 큐어 안티에이징 크림 S, 50g, 2개",
+      "img": "https://shopping.toss.im/live/taca/ai/MGY0MTNm/QVAvN2N6TzJNOXpNR016dTVwekhtOHpiRE83MzJjem01bk04UHpsekxIczU.png",
+      "price": 13900,
+      "orig": 110000,
+      "disc": 87,
+      "url": "https://toss.im/_m/dlspl8Zp",
+      "endAt": "2026-09-02T23:59:59+09:00",
+      "tr": {
+        "vi": "Kem Chống Lão Hóa Kim Jeong-moon Aloe Cure S, 50g, 2 chiếc",
+        "th": "Kim Jeong-moon Aloe Cure Anti-Aging Cream S, 50g, 2 ยูนิต",
+        "km": "Kim Jeong-moon Aloe Cure Anti-Aging Cream S, 50g, 2 units",
+        "ne": "किम जेओङ-मून एलो क्योर एन्टी एजिङ क्रीम एस, ५० ग्राम, २ इकाइहरू",
+        "id": "Kim Jeong-moon Aloe Cure Krim Anti Penuaan S, 50g, 2 unit",
+        "tl": "Kim Jeong-moon Aloe Cure Anti-Aging Cream S, 50g, 2 units",
+        "uz": "Kim Jeong-moon Aloe Cure Qarishga qarshi krem S, 50g, 2 dona",
+        "zh": "Kim Jeong-moon 芦荟抗衰老霜 S，50g，2 件",
+        "en": "Kim Jeong-moon Aloe Cure Anti-Aging Cream S, 50g, 2 units"
+      }
+    },
+    {
+      "cat": "deal",
       "id": 140249719,
       "ko": "김정문알로에 수딩 기초 3종, 토너 130ml 1개 + 에멀전 130ml 1개 + 2X 크림 50g 1개, 1세트",
       "vi": "김정문알로에 수딩 기초 3종, 토너 130ml 1개 + 에멀전 130ml 1개 + 2X 크림 50g 1개, 1세트",
@@ -596,6 +619,29 @@
         "uz": "Kim Jeong-mun aloe tinchlantiruvchi asosiy 3 xil, 1 toner 130ml + 1 emulsiya 130ml + 1 2X krem 50g, 1 to'plam",
         "zh": "金正文芦荟舒缓基础3款，1个爽肤水130ml + 1个乳液130ml + 1个2X面霜50g，1套",
         "en": "Kim Jeong-moon Aloe soothing basic 3 types, 1 toner 130ml + 1 emulsion 130ml + 1 2X cream 50g, 1 set"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 423191503,
+      "ko": "리셀 샤워기 100, 1개 + 샤워기 필터, 3개",
+      "vi": "리셀 샤워기 100, 1개 + 샤워기 필터, 3개",
+      "img": "https://shopping.toss.im/live/temp/2026-01-27/cdf9ce44-e161-4544-89d3-badba0eb1707.png",
+      "price": 3900,
+      "orig": 21900,
+      "disc": 82,
+      "url": "https://toss.im/_m/dOQJ1xnC",
+      "endAt": "2026-09-02T23:59:59+09:00",
+      "tr": {
+        "vi": "Resell Sen 100, 1 bộ + Sen vòi lọc, 3 bộ",
+        "th": "ขายต่อ Shower 100 1 ตัว + ไส้กรองฝักบัว 3 ตัว",
+        "km": "លក់បន្ត Shower 100, 1 units + Shower filter, 3 units",
+        "ne": "रिसेल शावर 100, 1 एकाइ + शावर फिल्टर, 3 एकाइहरू",
+        "id": "Jual Kembali Shower 100, 1 unit + Shower filter, 3 unit",
+        "uz": "Dush 100 ni qayta sotish, 1 dona + Dush filtri, 3 dona",
+        "zh": "转售淋浴 100，1 件 + 淋浴过滤器，3 件",
+        "en": "Resell Shower 100, 1 unit + Shower filter, 3 units",
+        "tl": "Resell Shower 100, 1 unit + Shower filter, 3 units"
       }
     },
     {
@@ -669,6 +715,29 @@
     },
     {
       "cat": "deal",
+      "id": 2636792015,
+      "ko": "동아제약 템포 내추럴순면 입는 오버나이트, 2개, 10팩",
+      "vi": "동아제약 템포 내추럴순면 입는 오버나이트, 2개, 10팩",
+      "img": "https://shopping.toss.im/live/temp/2026-05-28/0c4fa889-61e4-4e10-8b6c-06b7a8a05535.jpeg",
+      "price": 9900,
+      "orig": 40000,
+      "disc": 75,
+      "url": "https://toss.im/_m/BOFKQOWq",
+      "endAt": "2026-09-02T23:59:59+09:00",
+      "tr": {
+        "vi": "Dược Phẩm Đông Á Tempo Bông Tự Nhiên Qua Đêm, 2 chiếc, 10 gói",
+        "th": "Dong-A Pharmaceutical Tempo Natural Cotton Overnight 2 ยูนิต 10 ซอง",
+        "km": "Dong-A Pharmaceutical Tempo កប្បាសធម្មជាតិ មួយយប់ 2 គ្រឿង 10 កញ្ចប់",
+        "ne": "डोंग-ए फार्मास्युटिकल टेम्पो प्राकृतिक कपास रातभर, 2 इकाइहरू, 10 प्याकहरू",
+        "id": "Dong-A Pharmaceutical Tempo Natural Cotton Overnight 2 unit, 10 bungkus",
+        "tl": "Dong-A Pharmaceutical Tempo Natural Cotton Magdamag, 2 units, 10 pack",
+        "uz": "Dong-A Pharmaceutical Tempo Natural Cotton, 2 dona, 10 ta paket",
+        "zh": "东亚制药 Tempo 天然棉过夜，2 片，10 包",
+        "en": "Dong-A Pharmaceutical Tempo Natural Cotton Overnight, 2 units, 10 packs"
+      }
+    },
+    {
+      "cat": "deal",
       "id": 2032063437,
       "ko": "뉴포츠 쿨링 냉감 아이스 베개커버, 블루, 45x70cm, 2개",
       "vi": "뉴포츠 쿨링 냉감 아이스 베개커버, 블루, 45x70cm, 2개",
@@ -688,75 +757,6 @@
         "uz": "Newports sovutuvchi muz yostiq qopqog'i, ko'k, 45x70 sm, 2 dona",
         "zh": "Newports 降温冰枕套，蓝色，45x70 厘米，2 件",
         "en": "Newports cooling ice pillow cover, blue, 45x70cm, 2 pieces"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 1506694763,
-      "ko": "저염 백명란 파지, 400g, 2개",
-      "vi": "저염 백명란 파지, 400g, 2개",
-      "img": "https://shopping.toss.im/live/taca/ai/NGMyMjVl/TkZna25mbVJNd05Oam13bUhHK1U3ek5tYVVTZU5MV1Jack5tODd5cGtWWT0.png",
-      "price": 15900,
-      "orig": 60000,
-      "disc": 73,
-      "url": "https://toss.im/_m/NxhxFQjs",
-      "endAt": "2026-09-02T23:59:59+09:00",
-      "tr": {
-        "vi": "Trứng cá minh thái trắng ít muối, 400g, 2 miếng",
-        "th": "ไข่ปลาพอลแล็คขาวเกลือต่ำ 400 กรัม 2 ชิ้น",
-        "km": "ពងមាន់ពណ៌សអំបិលទាប ៤០០ ក្រាម ២ ដុំ",
-        "ne": "कम नुन सेतो पोलक रो, 400 ग्राम, 2 टुक्रा",
-        "id": "Telur pollack putih rendah garam, 400g, 2 buah",
-        "tl": "Low-salt white pollack roe, 400g, 2 piraso",
-        "uz": "Tuz miqdori kam bo'lgan oq guruch, 400 g, 2 dona",
-        "zh": "低盐白明太鱼子，400克，2粒",
-        "en": "Low-salt white pollack roe, 400g, 2 pieces"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 349782961,
-      "ko": "예지미인 데일리코튼 팬티라이너 롱, 17.5cm, 81개입, 3팩",
-      "vi": "예지미인 데일리코튼 팬티라이너 롱, 17.5cm, 81개입, 3팩",
-      "img": "https://shopping.toss.im/live/taca/ai/v2/MWI0ZTI3/SW5pWThob3luTFptUVdOSjZZblI4c000a1BJOHhHOE5NZVpuRFRhRlp3az0.png",
-      "price": 13900,
-      "orig": 44700,
-      "disc": 68,
-      "url": "https://toss.im/_m/byjQpor3",
-      "endAt": "2026-09-02T23:59:59+09:00",
-      "tr": {
-        "vi": "Quần lót cotton hàng ngày Yejimiin dài 17,5cm, 81 miếng, 3 gói",
-        "th": "Yejimiin Daily Cotton Panty Liner ยาว 17.5 ซม. 81 ชิ้น 3 แพ็ค",
-        "km": "Yejimiin Daily Cotton Panty Liner Long, 17.5cm, 81 pieces, 3 កញ្ចប់",
-        "ne": "Yejimiin दैनिक कपास प्यान्टी लाइनर लामो, 17.5 सेमी, 81 टुक्रा, 3 प्याकहरू",
-        "id": "Yejimiin Daily Cotton Panty Liner Panjang 17,5cm, 81 lembar, 3 bungkus",
-        "tl": "Yejimiin Daily Cotton Panty Liner Long, 17.5cm, 81 piraso, 3 pack",
-        "uz": "Yejimiin Kundalik paxta külotasi uzun, 17,5 sm, 81 dona, 3 ta paket",
-        "zh": "Yejimiin 日常棉质内裤衬垫长，17.5 厘米，81 件，3 包",
-        "en": "Yejimiin Daily Cotton Panty Liner Long, 17.5cm, 81 pieces, 3 packs"
-      }
-    },
-    {
-      "cat": "deal",
-      "id": 2307402085,
-      "ko": "연세두유 무가당 고칼슘 두유, 검은콩, 190ml, 48개",
-      "vi": "연세두유 무가당 고칼슘 두유, 검은콩, 190ml, 48개",
-      "img": "https://shopping.toss.im/live/temp/2026-06-22/2fec37de-7c41-4cda-92f1-dcb5a5eab315.jpeg",
-      "price": 20900,
-      "orig": 60000,
-      "disc": 65,
-      "url": "https://toss.im/_m/n26fypCp",
-      "endAt": "2026-09-02T23:59:59+09:00",
-      "tr": {
-        "vi": "Sữa đậu nành Yonsei Sữa đậu nành nhiều canxi không đường, đậu đen, 190ml, 48 chiếc",
-        "th": "ยอนเซ นมถั่วเหลือง แคลเซียมสูง รสจืด ถั่วดำ 190มล. 48 ยูนิต",
-        "km": "Yonsei Soymilk ទឹកដោះគោសណ្តែកសៀងកាល់ស្យូមខ្ពស់គ្មានជាតិផ្អែម សណ្តែកខ្មៅ 190ml 48 units",
-        "ne": "योन्सेई सोयामिल्क नमिठो उच्च क्याल्सियम सोयामिल्क, कालो सिमी, 190ml, 48 एकाइहरू",
-        "id": "Susu Kedelai Yonsei Susu kedelai tinggi kalsium tanpa pemanis, kacang hitam, 190ml, 48 unit",
-        "tl": "Yonsei Soymilk Unsweetened high calcium soymilk, black beans, 190ml, 48 units",
-        "uz": "Yonsei Soymilk shakarsiz yuqori kaltsiyli soya suti, qora loviya, 190ml, 48 dona",
-        "zh": "延世豆浆 无糖高钙豆浆，黑豆，190ml，48 份",
-        "en": "Yonsei Soymilk Unsweetened high calcium soymilk, black beans, 190ml, 48 units"
       }
     },
     {
