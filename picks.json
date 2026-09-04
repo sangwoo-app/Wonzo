@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T03:00:13.777Z",
+  "updated": "2026-09-04T09:00:13.501Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -623,6 +623,29 @@
     },
     {
       "cat": "deal",
+      "id": 222933941,
+      "ko": "다모아 두피 브러쉬 마사지기, 1개",
+      "vi": "다모아 두피 브러쉬 마사지기, 1개",
+      "img": "https://shopping.toss.im/live/taca/ai/v2/NmFlNjZm/WkRtUWVVeVFJL2tBZWNlWmQ4RWI2TmlCdGtFeERrQ0RKYmtKOWtrdDl4Zz0.png",
+      "price": 39900,
+      "orig": 209000,
+      "disc": 80,
+      "url": "https://toss.im/_m/TTmexgP9",
+      "endAt": "2026-09-04T23:59:59+09:00",
+      "tr": {
+        "vi": "Máy mát xa da đầu Damoa, 1 chiếc",
+        "th": "เครื่องนวดแปรงหนังศีรษะ Damoa 1 ชิ้น",
+        "km": "ឧបករណ៍ម៉ាស្សាស្បែកក្បាល Damoa 1 ដុំ",
+        "ne": "दामोआ स्क्याल्प ब्रश मसाजर, 1 टुक्रा",
+        "id": "Alat pijat sikat kulit kepala Damoa, 1 buah",
+        "tl": "Damoa scalp brush massager, 1 piraso",
+        "uz": "Damoa bosh terisi cho'tkasi massajchisi, 1 dona",
+        "zh": "Damoa 头皮刷按摩器，1 件",
+        "en": "Damoa scalp brush massager, 1 piece"
+      }
+    },
+    {
+      "cat": "deal",
       "id": 303265905,
       "ko": "리벤스 라벤더 바이올렛 물티슈, 100매, 10팩",
       "vi": "리벤스 라벤더 바이올렛 물티슈, 100매, 10팩",
@@ -669,29 +692,6 @@
     },
     {
       "cat": "deal",
-      "id": 2637488237,
-      "ko": "카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 6개",
-      "vi": "카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 6개",
-      "img": "https://shopping.toss.im/live/temp/2026-08-28/69b6ada6-2e28-4664-ac51-73a682a940b7.png",
-      "price": 11900,
-      "orig": 40000,
-      "disc": 70,
-      "url": "https://toss.im/_m/NTY6t2cm",
-      "endAt": "2026-09-04T23:59:59+09:00",
-      "tr": {
-        "vi": "Son dưỡng môi Carmex thỏi, 4.25g, 3 thỏi classic + 3 thỏi anh đào, 6 thỏi",
-        "th": "Carmex ลิปบาล์มแบบแท่ง 4.25g 3 classic + 3 cherry 6 ชิ้น",
-        "km": "ក្រែមលាបមាត់ Carmex 4.25g, 3 classic + 3 cherry, 6 ដុំ",
-        "ne": "Carmex लिप बाम स्टिक, 4.25g, 3 क्लासिक + 3 चेरी, 6 टुक्राहरू",
-        "id": "Stik lip balm Carmex, 4,25g, 3 klasik + 3 ceri, 6 buah",
-        "tl": "Carmex lip balm stick, 4.25g, 3 classic + 3 cherry, 6 na piraso",
-        "uz": "Carmex lab bo'yog'i tayoqchasi, 4,25g, 3 klassik + 3 gilos, 6 dona",
-        "zh": "Carmex 润唇膏棒，4.25g，3 经典 + 3 樱桃，6 支",
-        "en": "Carmex lip balm stick, 4.25g, 3 classic + 3 cherry, 6 pieces"
-      }
-    },
-    {
-      "cat": "deal",
       "id": 31367569,
       "ko": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
       "vi": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
@@ -715,29 +715,6 @@
     },
     {
       "cat": "deal",
-      "id": 2625579957,
-      "ko": "광동제약 아이스웨일, 플레인, 500ml, 40개",
-      "vi": "광동제약 아이스웨일, 플레인, 500ml, 40개",
-      "img": "https://shopping.toss.im/live/temp/2026-04-28/a48ef54d-0138-46d0-bc7a-e42f99ecb101.jpeg",
-      "price": 9900,
-      "orig": 32900,
-      "disc": 69,
-      "url": "https://toss.im/_m/5GHFy1an",
-      "endAt": "2026-09-04T23:59:59+09:00",
-      "tr": {
-        "vi": "Cá voi đá dược phẩm Kwangdong, trơn, 500ml, 40 chiếc.",
-        "th": "กวางดอง ฟาร์มาซูติคอล ไอซ์ เวล ธรรมดา 500มล. 40 ชิ้น",
-        "km": "Kwangdong Pharmaceutical Ice Whale, ធម្មតា, 500ml, 40pcs.",
-        "ne": "Kwangdong फार्मास्युटिकल आइस व्हेल, सादा, 500ml, 40 pcs।",
-        "id": "Paus Es Farmasi Kwangdong, polos, 500ml, 40 pcs.",
-        "tl": "Kwangdong Pharmaceutical Ice Whale, plain, 500ml, 40 pcs.",
-        "uz": "Kwangdong farmatsevtika muz kiti, oddiy, 500ml, 40 dona.",
-        "zh": "广东制药 冰鲸 原味 500ml 40 粒",
-        "en": "Kwangdong Pharmaceutical Ice Whale, plain, 500ml, 40 pcs."
-      }
-    },
-    {
-      "cat": "deal",
       "id": 2642058561,
       "ko": "랑카스 하이올레익 땅콩버터 100%, 스무스, 500g, 2개",
       "vi": "랑카스 하이올레익 땅콩버터 100%, 스무스, 500g, 2개",
@@ -757,6 +734,29 @@
         "uz": "Lancas yuqori oleyk eman yog'i 100%, silliq, 500g, 2 dona",
         "zh": "Lancas 高油酸花生酱 100%，光滑，500 克，2 件",
         "en": "Lancas high oleic peanut butter 100%, smooth, 500g, 2 pieces"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 147961629,
+      "ko": "에어보나 LED 스탠드, AB 578LS, 화이트, 1개",
+      "vi": "에어보나 LED 스탠드, AB 578LS, 화이트, 1개",
+      "img": "https://shopping.toss.im/live/temp/2025-07-25/1226c7e7-f6ba-4b49-9895-1390ec796e69.jpeg",
+      "price": 8900,
+      "orig": 25900,
+      "disc": 65,
+      "url": "https://toss.im/_m/9sVX4TEp",
+      "endAt": "2026-09-04T23:59:59+09:00",
+      "tr": {
+        "vi": "Chân đèn LED Airbona, AB 578LS, màu trắng, 1 chiếc",
+        "th": "ขาตั้ง LED Airbona AB 578LS สีขาว 1 ชิ้น",
+        "km": "អំពូល LED ម៉ាក Airbona AB 578LS ពណ៌ស 1 ដុំ",
+        "ne": "एयरबोना एलईडी स्ट्यान्ड, AB 578LS, सेतो, 1 टुक्रा",
+        "id": "Dudukan LED Airbona, AB 578LS, putih, 1 buah",
+        "tl": "Airbona LED stand, AB 578LS, puti, 1 piraso",
+        "uz": "Airbona LED stend, AB 578LS, oq, 1 dona",
+        "zh": "Airbona LED 支架，AB 578LS，白色，1 件",
+        "en": "Airbona LED stand, AB 578LS, white, 1 piece"
       }
     },
     {
