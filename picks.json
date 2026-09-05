@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T03:00:13.454Z",
+  "updated": "2026-09-05T09:00:19.382Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -623,29 +623,6 @@
     },
     {
       "cat": "deal",
-      "id": 2626165065,
-      "ko": "트로피컬 핀턱 와이드 팬츠, 네이비, 66, 1장",
-      "vi": "트로피컬 핀턱 와이드 팬츠, 네이비, 66, 1장",
-      "img": "https://shopping.toss.im/live/temp/2026-08-21/cc3f9483-888a-4caa-b6a5-0d4a07bd1fd9.jpeg",
-      "price": 4900,
-      "orig": 29900,
-      "disc": 83,
-      "url": "https://toss.im/_m/hjERCcF3",
-      "endAt": "2026-09-05T23:59:59+09:00",
-      "tr": {
-        "vi": "Quần ống rộng cài kim nhiệt đới, xanh navy, 66, 1 chiếc",
-        "th": "กางเกงขากว้างTropical pin tuck สีกรมท่า 66 จำนวน 1 ตัว",
-        "km": "ខោជើងវែង ខោជើងវែង ជើងទឹក 66 1 ដុំ",
-        "ne": "ट्रपिकल पिन टक चौडा प्यान्ट, नौसेना, 66, 1 टुक्रा",
-        "id": "Celana lebar tropical pin tuck, navy, 66, 1 buah",
-        "tl": "Tropical pin tuck wide na pantalon, navy, 66, 1 piraso",
-        "uz": "Tropik pinli keng shimlar, ko'k, 66, 1 dona",
-        "zh": "热带别针阔腿裤，海军蓝，66，1 件",
-        "en": "Tropical pin tuck wide pants, navy, 66, 1 piece"
-      }
-    },
-    {
-      "cat": "deal",
       "id": 710686657,
       "ko": "동아제약 셀파렉스 바로 알티지 오메가3, 1010mg, 10캡슐, 10박스",
       "vi": "동아제약 셀파렉스 바로 알티지 오메가3, 1010mg, 10캡슐, 10박스",
@@ -757,6 +734,28 @@
         "uz": "Super Deep Q kapsulli detarjan gul paxta xushbo'yligi, 8g, 100 dona, 2 dona",
         "zh": "超深Q胶囊洗衣粉花棉香，8克，100粒，2粒",
         "en": "Super Deep Q Capsule Detergent Flower Cotton Fragrance, 8g, 100 pieces, 2 pieces"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 1049211703,
+      "ko": "에어핏 심리스 팬티, 7종 세트, L, 1세트",
+      "vi": "에어핏 심리스 팬티, 7종 세트, L, 1세트",
+      "img": "https://shopping.toss.im/live/temp/2026-03-05/a685d0c2-e66f-4f6f-9f04-2e9560618130.png",
+      "price": 8800,
+      "orig": 25900,
+      "disc": 66,
+      "url": "https://toss.im/_m/tWKUheos",
+      "endAt": "2026-09-05T23:59:59+09:00",
+      "tr": {
+        "vi": "Quần lót liền mạch Air fit, bộ 7 món, L, 1 bộ",
+        "th": "กางเกงชั้นในไร้ตะเข็บ Air fit ชุด 7 ชิ้น L 1 ชุด",
+        "km": "ខោជើងវែងគ្មានថ្នេរ 7 ឈុត L 1 ឈុត",
+        "ne": "एयर फिट सिमलेस प्यान्टी, 7 टुक्रा सेट, एल, 1 सेट",
+        "id": "Celana dalam tanpa jahitan air fit, set 7 potong, L, 1 set",
+        "tl": "Air fit seamless panty, 7 piece set, L, 1 set",
+        "uz": "Havoga mos choksiz külotlar, 7 dona to'plam, L, 1 to'plam",
+        "en": "Air fit seamless panties, 7 piece set, L, 1 set"
       }
     },
     {
