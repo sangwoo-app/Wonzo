@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T03:01:00.808Z",
+  "updated": "2026-10-25T09:00:14.865Z",
   "env": "prod",
   "partial": false,
   "items": [
@@ -600,29 +600,6 @@
     },
     {
       "cat": "deal",
-      "id": 828735177,
-      "ko": "휴플러스 목 어깨 베개 마사지기, CORDZERO-P80, 화이트, 1개",
-      "vi": "휴플러스 목 어깨 베개 마사지기, CORDZERO-P80, 화이트, 1개",
-      "img": "https://shopping.toss.im/live/taca/ai/YjAwM2Rm/QUk1VG0xTnA1bXpzbnh2MU85YWJwbHRjYkduTXQ1UFdvU3RZMnkyY3RMbFc.png",
-      "price": 33060,
-      "orig": 200000,
-      "disc": 83,
-      "url": "https://toss.shopping/_m/5FjSoeHf",
-      "endAt": "2026-10-26T00:00:00+09:00",
-      "tr": {
-        "vi": "Gối massage cổ vai Huplus, CordZERO-P80, màu trắng, 1 chiếc",
-        "th": "หมอนนวดคอและไหล่ Huplus CORDZERO-P80 สีขาว 1 ชิ้น",
-        "km": "ម៉ាស៊ីនម៉ាស្សាក និងស្មា ម៉ាក Huplus CORDZERO-P80 ពណ៌ស ១ដុំ",
-        "ne": "Huplus घाँटी र काँध तकिया मालिश, CORDZERO-P80, सेतो, 1 टुक्रा",
-        "id": "Alat pijat bantal leher dan bahu Huplus, CORDZERO-P80, putih, 1 buah",
-        "tl": "Huplus neck and shoulder pillow massager, CORDZERO-P80, puti, 1 piraso",
-        "uz": "Huplus bo'yin va yelka yostig'i massajchisi, CORDZERO-P80, oq, 1 dona",
-        "zh": "Huplus neck and shoulder pillow massager, CORDZERO-P80, white, 1 piece",
-        "en": "Huplus neck and shoulder pillow massager, CORDZERO-P80, white, 1 piece"
-      }
-    },
-    {
-      "cat": "deal",
       "id": 1720211867,
       "ko": "싹클린 신발 클리너, 100ml, 4개",
       "vi": "싹클린 신발 클리너, 100ml, 4개",
@@ -757,6 +734,29 @@
         "uz": "Avtomobil gibrid artgich, 650mm + 400mm, 1 to'plam",
         "zh": "汽车混合雨刮器，650mm + 400mm，1套",
         "en": "Car hybrid wiper, 650mm + 400mm, 1 set"
+      }
+    },
+    {
+      "cat": "deal",
+      "id": 9031999,
+      "ko": "손바닥 쥐포, 30장, 1봉",
+      "vi": "손바닥 쥐포, 30장, 1봉",
+      "img": "https://shopping.toss.im/live/temp/2025-04-17/a2a179d1-82aa-47ad-8eae-852258f5bacf.jpeg",
+      "price": 8730,
+      "orig": 22900,
+      "disc": 71,
+      "url": "https://toss.shopping/_m/Lw0vqgph",
+      "endAt": "2026-10-26T00:00:00+09:00",
+      "tr": {
+        "vi": "Túi đựng chuột, 30 tờ, 1 gói",
+        "th": "ถุงใส่หนูปาล์ม 30 แผ่น 1 แพ็ค",
+        "km": "ថង់ទឹកត្នោត 30សន្លឹក 1កញ្ចប់",
+        "ne": "पाम मुसा पाउच, 30 पाना, 1 प्याक",
+        "id": "Kantong tikus palem, 30 lembar, 1 bungkus",
+        "tl": "Palm rat pouch, 30 sheets, 1 pack",
+        "uz": "Palma kalamush sumkasi, 30 varaq, 1 paket",
+        "zh": "棕榈鼠袋，30 张，1 包",
+        "en": "Palm rat pouch, 30 sheets, 1 pack"
       }
     },
     {
